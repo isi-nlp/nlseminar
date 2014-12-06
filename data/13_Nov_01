@@ -1,0 +1,8 @@
+Greg Ver Steeg (USC/ISI)
+Coarse-graining Text
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Because natural language is complex, researchers in many domains look for lower-dimensional representations of text to suit their purposes. Different methods attempt to single out intuitive aspects of language like content, sentiment, or style. I will discuss a new, unsupervised approach to learning abstract representations of text (or other high-dimensional signals). The motivating principle is to use information theory to construct higher-order features that explain correlations between lower-order features. I will present preliminary results using this framework.
+
+Greg Ver Steeg is a research professor at ISI. His research explores practical methods for inferring meaningful structure in complex systems like social networks. He did his PhD in quantum physics at Caltech.

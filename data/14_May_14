@@ -1,0 +1,15 @@
+Qing Dou (USC/ISI)
+Beyond Parallel Data [Qualification practice talk] 
+11:00 am - 12:00 pm
+11th Floor Large Conference Room [1135]
+
+Thanks to the availability of parallel data and advances in machine learning techniques, we have seen tremendous improvement in the field of machine translation over the past 20 years. However, due to lack of parallel data, the quality of machine translation is still far from satisfying for many language pairs and domains. In general, it is easier to obtain non-parallel data, and much work has tried to learn translations from non-parallel data. Nonetheless, improvements to machine translation have been limited. In this work, I follow a decipherment approach to learn translations from non parallel data and achieve significant gains in machine translation.
+
+I apply slice sampling to Bayesian decipherment. Compared with the state-of-the-art algorithm, the new approach is highly scalable and accurate, making it possible to decipher billions of tokens with hundreds of thousands of word types at high accuracy for the first time. Furthermore, I introduce dependency relations to address the problems of word reordering, insertion, and deletion when deciphering foreign languages, and show that dependency relations help improve deciphering accuracy by over 5-fold.
+I decipher large amounts of monolingual data to learn translations for out-of-vocabulary words and observe significant gains of up to 3.8 BLEU points in domain-adaptation. Moreover, I show that a translation lexicon learned from large amounts of non-parallel data with decipherment can improve a phrase-based machine translation system trained with limited parallel data. In experiments, I observe BLEU gains of 1.2 to 1.8 across three different test sets.
+
+Given the above success, I propose to work on advancing machine translation of real world low density languages, and to explore using non-parallel data to improve word alignment and discovery of phrase translations.
+
+Bio:
+
+Qing Dou is a fourth year PhD student at USC/ISI, advised by Professor Kevin Knight.

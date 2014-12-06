@@ -1,0 +1,13 @@
+Daniel Bauer (Columbia)
+Understanding Descriptions of Visual Scenes Using Graph Grammars
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+I will present work on the interpretation of descriptions of visual scenes such as 'A man is sitting on a chair and using the computer'. One application of this research is the automatic generation of 3D scenes which provides a way for non-artists to create graphical content and have wide-ranging applications in entertainment and education. 
+
+The core task of text-to-scene generation involves understanding the high-level content of a description and translating it into a low-level representation representing a 3D scene as a set of relations between pre-existing 3D models. Linguistic, spatial, and world-knowledge inference is required in this process on different levels.
+
+My talk will present VigNet, a repository of lexical- and world knowledge needed for text-to-scene generation, which is based on FrameNet. I will also describe how visual scenes can be represented as directed graphs  and how information in VigNet can be encoded in Synchronous Hyperedge Replacement Grammars to enable semantic parsing and generation of a scene. 
+
+Bio:
+Daniel Bauer is a PhD candidate at Columbia University. His research interests include lexical and computational semantics, semantic parsing, and formal grammars in syntax and semantics. He is a co-founder of WordsEye Inc, a company that aims to make text-to-3D-scene generation available to everyone on social media. Daniel is currently an intern at ISI for the second summer in a row. He received his undergrad degree in Cognitive Science from the University of Osnabrück, Germany, and a MSc in Language Science and Technology from Saarland University.

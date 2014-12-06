@@ -1,0 +1,9 @@
+Mark Hopkins (Potsdam)
+Towards the Effective Exploitation of Syntax in Machine Translation
+3:00 pm - 4:30 pm
+11 Large
+
+We discuss preliminary work on a possible approach to exploiting
+syntax in an effective way for machine translation. The driving
+guideline is to devise a machine translation system that can perform
+effectively, given a very limited quantity of parsed training data.  

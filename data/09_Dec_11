@@ -1,0 +1,6 @@
+Anselmo Penas (UNED, Spain)
+Evaluating Question Answering Validation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+During the last decade, Question Answering (QA) was redefined inside TREC as a kind of highly-precision-oriented Information Retrieval task where the introduction of NLP was necessary, specially for Answer Extraction purposes. The same general approach was activated at the Cross-Language Evaluation Forum (CLEF) in 2003, but for other European languages different than English, and with some different settings and subtasks. The talk will report the last 4-year cycle of the QA evaluation at CLEF, starting with the general methodology for long term QA evaluation at CLEF and the motivation for the Answer Validation task, continuing with the development of AVE in the three year campaign, and concluding with the goals, evaluation measure and results of the current QA evaluation setting after the AVE experience.

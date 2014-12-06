@@ -1,0 +1,42 @@
+Markus Dreyer (SDL Language Weaver, formerly @ Johns Hopkins)
+A Non-Parametric Model for the Discovery of Inflectional Paradigms from Plain Text using Graphical Models over Strings
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Statistical natural language processing can be difficult for
+morphologically rich languages. The observed vocabularies of such
+languages are very large, since each word may have been inflected for
+morphological properties like person, number, gender, tense, or
+others. This unfortunately masks important generalizations, leads to
+problems with data sparseness and makes it hard to generate correctly
+inflected text.
+
+The presented dissertation work tackles the problem of inflectional morphology with a novel, unified statistical approach.  We present a generative probability
+model that can be used to learn from plain text how the words of a
+language are inflected, given some minimal supervision. In other
+words, we discover the inflectional paradigms that are implicit, or
+hidden, in a large unannotated text corpus.
+
+This model consists of several components: a hierarchical Dirichlet
+process clusters word tokens of the corpus into lexemes and their
+inflections, and graphical models over strings -- a novel
+graphical-model variant -- model the interactions of multiple
+morphologically related type spellings, using weighted finite-state
+transducers as potential functions.
+
+We present the components of this model, from (1) weighted
+finite-state transducers parameterized as log-linear models, to (2)
+graphical models over multiple strings, to (3) the final Bayesian
+non-parametric model over a corpus, its lexemes, inflections, and
+paradigms. These three components of the model correspond to the
+combined use of (1) dynamic programming, (2) belief propagation and
+(3) MCMC for inference.
+
+We show experimental results for several tasks along the way,
+including a lemmatization task in multiple languages and, to
+demonstrate that parts of our model are applicable outside of
+morphology as well, a transliteration task. Finally, we show that
+learning from large unannotated text corpora under our non-parametric
+model significantly improves the quality of predicted word
+inflections.
+

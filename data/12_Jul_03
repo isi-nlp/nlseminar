@@ -1,0 +1,12 @@
+Ashish Vaswani
+Smaller Alignment Models for Better Translations: Unsupervised Word Alignment with the l0-norm
+3:00 pm - 4:00 pm
+4th Floor Conference Room
+
+Two decades after their invention, the IBM word-based translation models, widely available in the GIZA++ toolkit, remain the dominant approach to word alignment and an integral part of many statistical translation systems. Although many models have surpassed them in accuracy, none have supplanted them in practice.We propose a simple extension to the IBM models: an l0 prior to encourage sparsity in the word-to-word translation model. This extension has been implemented in GIZA++ and scales to large-scale data . We achieve significant improvements over IBM Model 4 in both word alignment and translation quality.
+
+This is a practice talk for ACL.
+
+Bio:
+
+Ashish Vaswani is a PhD student at ISI.

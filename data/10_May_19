@@ -1,0 +1,6 @@
+Jinho D. Choi (University of Colorado)
+K-best, Transition-based Dependency Parsing using Robust Risk Minimization and Automatic Feature Reduction
+3:30 pm - 4:30 pm
+11th Floor Large Conference Room [1135]
+
+In this paper, we introduce a way of improving the parsing accuracy of a transition-based dependency parsing model by using k-best ranking. Our approach uses a broader search space than beam search, yet keeps the parsing complexity near a quadratic average running time. In addition, we take a simple post-processing step to ensure the parsing output is a connected dependency tree. As an oracle, we use a high-performing but relatively under-explored machine learning algorithm, Robust Risk Minimization, which gives a higher parsing accuracy than the Perceptron algorithm in the experiments. We also use an automatic feature reduction technique that reduces the feature space by about 49% without compromising the parsing accuracy. We evaluate our approach on the CoNLL '09 shared task English data and improve the transition-based dependency parsing accuracy, showing a 0.64% higher accuracy than the best transition-based CoNLL '09 system. 

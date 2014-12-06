@@ -1,0 +1,6 @@
+Marta Recasens Potau (Universitat de Barcelona)
+Learning-based Coreference Resolution for Spanish and Catalan
+3:00 pm - 4:00 pm
+11 Large
+
+The task of coreference resolution identifies those expressions in a text that point to the same discourse entity. Natural language applications such as information extraction, question answering and machine translation can greatly benefit from its output (the different pieces of information in connection with the same entity are linked, pronouns are disambiguated, etc.). The task is extremely complex since a number of knowledge sources come into play, from morphology to discourse structure and world knowledge. In this talk I present the results of my PhD research up to now, including the development of two 400k-word corpora for Spanish and Catalan (AnCora) annotated at various levels (morphology, syntax, semantics, pragmatics), a 100k-word corpus for English, and a series of experiments towards building a learning-based coreference resolution system. More specifically, I'll discuss issues concerning the definition of the annotation scheme, the selection of features for machine learning, the effect of sample selection, and I'll introduce CISTELL, the new learning-approach we propose for coreference resolution. 

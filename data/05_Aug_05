@@ -1,0 +1,35 @@
+Doug Oard (Maryland)
+The CLEF Cross-Language Speech Retrieval Test Collection
+3:00 pm - 4:30 pm
+11 Large
+
+Test collections for information retrieval tasks have traditionally
+assumed that what we are searching for are documents (e.g., Web pages,
+news stories, or academic documents).  Most information that is generated
+is, however, not in originally generated as part of a document, but rather
+as what we might refer to as "conversational media" (e.g., email, speech,
+or instant messaging).  In this talk, I'll describe the creation of two
+test collections for conversational media, an email collection being
+created in the TREC Enterprise Search track and a spoken word test
+collection for the the Cross-Language Evaluation Forum (CLEF).  I'll spend
+most of the talk describing the details of the CLEF test collection,
+illustrating the issues with some of the results that we have obtained
+from our experiments with that collection.  I'll conclude with a few
+remarks about the implications of what we are learning for DARPA's new
+GALE program.  This is joint work with Charles University, the IBM TJ
+Watson Research Center, the Johns Hopkins University, the Survivors of the
+Shoah Visual History Foundation, and the University of West Bohemia.
+
+
+About the speaker:
+
+Douglas Oard is an Associate Professor at the University of Maryland,
+College Park, with a joint appointment in the College of Information
+Studies and the Institute for Advanced Computer Studies.  He holds a Ph.D.
+in Electrical Engineering from the University of Maryland, and his
+research interests center around the use of emerging technologies to
+support information seeking by end users.  In 2002 and 2003, Doug spent a
+year in paradise here at USC-ISI.  His recent work has focused on
+interactive techniques for cross-language information retrieval and on
+searching conversational text and speech.  Additional information is
+available at http://www.glue.umd.edu/~oard/.

@@ -1,0 +1,11 @@
+Yoav Goldberg
+Intern Final Talk: Small is beautiful. Is it any good?
+3:30 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+This talk summarizes our experience with searching for small models
+for syntax-based machine translation.  I will first present cases
+suggesting that smaller models are desirable, and present some
+evidence that minimizing model size is a reasonable objective
+function.  I will then show cases where this objective may be too
+aggressive.

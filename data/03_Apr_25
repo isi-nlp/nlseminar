@@ -1,0 +1,19 @@
+Quamrul Tipu
+Statistical MT with Bilingual Morphology
+3:00 pm - 4:00 pm
+11 Large
+
+Traditional statistical MT systems mostly work on the word-
+andphrase-level. For different language pairs, the performance of such
+systems vary from some 15% to 35%. These systems suffer from problems
+such as sparse data, with huge vocabulary sizes leading to less
+reliable probability estimates. In our current research, we aim to
+come up with a better MT system by looking inside the words. Almost in
+every language, a root (stem) can have many different forms
+(inflectional, derivational, etc.). If we can identify the roots, the
+size of the vocabulary will quite small, and we can have better
+probability estimates, reducing the sparse data problem and
+potentially leading to higher accuracy. We are trying to come up with
+a model that induces morphology automatically from a bilingual corpus
+and achieves this improvement.
+

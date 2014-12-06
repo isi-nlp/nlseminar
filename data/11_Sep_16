@@ -1,0 +1,36 @@
+Cerstin Mahlow (University of Zurich)
+Linguistically supported editing and revising: concept and prototypical implementation based on interactive NLP resources
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Composing, revising, and editing are highly demanding tasks. Even in polished
+and published texts from professional writers we can observe errors and mistakes.
+For many errors, we can infer how they came to be: Word processors offer
+character-based functions only. These functions do not take into account
+elements and structures of the language the author is using. Authors are thus
+forced to translate their high-level goals into long and complex sequences
+of low-level character-based functions. Both the translation process and the
+execution of such sequences of functions are error-prone.
+
+However, in text editors for programmers ww find so-called language-aware
+editing functions. These functions operate on the elements and structures of a
+programming or mark-up language and help to avoid errors, as language-aware
+functions make revising and editing less tedious and error-prone.
+
+We argue that the concept of language awareness can be transferred to writing
+natural language texts using word processors. We propose functions that take the
+structures of natural languages into consideration. We distinguish information
+functions, movement functions, and operations to support revising and editing.
+The design is based on current findings from writing research.
+
+Language-aware editing functions rely on the recognition and categorization
+of relevant elements and structures with respect to a certain language. We
+use methods and resources from computational linguistics for morphological
+analysis and generation, and for part-of-speech tagging. When evaluating
+respective resources we face a rather disappointing situation: NLP resources
+for German are less suitable than assumed and less applicable for real-world
+applications than usually claimed in the literature.
+
+Our prototypical implementation of language-aware functions for revising and
+editing of German texts serves as a proof of concept. The implementation
+illustrates opportunities and limits of current NLP resources for German.

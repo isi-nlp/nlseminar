@@ -1,0 +1,11 @@
+Linhong Zhu (USC/ISI)
+Partitioning Networks with Node Attributes by Compressing Information Flow
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Real-world networks are often organized as modules or communities of similar nodes that serve as functional units. These networks are also rich in content, with nodes having distinguishing features or attributes. In order to discover a network's modular structure, it is necessary to take into account not only its links but also node attributes.
+We describe an information-theoretic method that identifies modules by compressing descriptions of information flow on a network. Our formulation introduces node content into the description of information flow, which we then minimize to discover groups of nodes with similar attributes that also tend to trap the flow of information.
+The method has several advantages: it is conceptually simple and does not require ad-hoc parameters to specify the number of modules or to control the relative contribution of links and node attributes to network structure.
+We apply the proposed method to partition real-world networks with known community structure. We demonstrate that adding node attributes helps recover the underlying community structure in content-rich networks more effectively than using links alone. In addition, we show that our method is faster and more accurate than alternative state-of-the-art algorithms.
+ 
+Linhong Zhu is currently a Postdoctoral  Research Associate at Information Sciences Institute, University of Southern California, under the supervision of Dr. Kristina Lerman and Dr. Aram Galstyan.  Before that, she worked as a scientist-I at Institute for Infocomm Research Singapore from Oct 2010 to Jan 2013. She got her B Eng. Degree in Computer Science from University of Science and Technology of China in 2006 (2002-2006) and received her Ph.D. Degree in Computer Engineering from Nanyang Technological University (2006-2011). Her research interests focus on large-scale social network analysis and sentiment analysis.

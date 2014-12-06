@@ -1,0 +1,35 @@
+Nandakishore Kambhatla (IBM India)
+Extracting Social Networks and Biographical Facts from Conversational Speech Transcripts
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+We present a general framework for automatically extracting social networks and biographical facts from conversational
+speech. Our approach relies on fusing the output produced by multiple information extraction modules, including entity
+recognition and detection, relation detection, and event detection modules. We describe the specific features and algorithmic
+refinements effective for conversational speech. These cumulatively increase the performance of social network
+extraction from 0.06 to 0.30 for the development set, and from 0.06 to 0.28 for the test set, as measured by f-measure on the
+ties within a network. The same framework can be applied to other genres of text -- we have built an automatic biography
+generation system for general domain text using the same approach.
+
+--
+
+Brief Bio:
+Nanda Kambhatla has nearly 17 years of research experience in the areas of
+Natural Language Processing (NLP), text mining, information extraction, dialog systems, and
+machine learning. He holds 6 U.S patents and has authored over 30 publications in books,
+journals, and conferences in these areas. Nanda holds a B.Tech in Computer Science and Engineering
+from the Institute of Technology, Benaras Hindu University, India, and a Ph.D in Computer
+Science and Engineering from the Oregon Graduate Institute of Science & Technology, Oregon, USA.
+
+Currently, Nanda is the manager of the Data Analytics Group at IBM's India Research Lab (IRL), Bangalore. The group is focused on research on machine translation, Natural Language Processing, text analysis and machine learning techniques for developing analytics
+solutions to help IBM's services divisions. Most recently, Nanda was the manager of the Statistical
+Text Analytics Group at IBM's T.J. Watson Research Center, the Watson co-chair of the Natural
+Language Processing PIC, and the task PI for the Language  Exploitation Environment (LEE) subtask
+for the DARPA GALE project. He has been leading the development of information extraction
+tools/products and his team has achieved top tier results in successive Automatic Content Extraction
+(ACE) evaluations conducted by NIST for extracting entities, events and relations from text from
+multiple sources, in multiple languages and genres.
+
+Earlier in his career, Nanda has worked on natural language web-based and spoken dialog systems at IBM. Before joining IBM, he has worked on information retrieval and filtering algorithms as a senior research scientist at WiseWire Corporation, Pittsburgh and on image compression algorithms while working as a postdoctoral fellow under Prof. Simon Haykin at McMaster University, Canada.
+
+Nanda's research interests are focused on NLP and technology solutions for creating, storing, searching, and processing large volumes of unstructured data (text, audio, video, etc.) and specifically on applications of statistical learning algorithms to these tasks.

@@ -1,0 +1,32 @@
+Tim Chklovski
+GrainPile: Deriving Quantitative Overviews of Free Text Assessments on the Web
+1:00 pm - 2:00 pm
+4th floor
+
+Many research efforts are addressing the problem of enabling automatic
+summarization of opinions and assessments stated on the web in product
+reviews, discussion forums, and blogs. One key difficulty is that relevant
+assessments scattered throughout web pages are obscured by variations in
+natural language. In this paper, we focus on a novel aspect of enabling
+aggregations of assessments of degree to which a given property holds for
+a given entity (for instance, how touristy is Boston). We present
+GrainPile, a user interface for extracting from the web, aggregating and
+quantifying degree assessments of unconstrained topics. The interface
+provides a variety of functions: a) identification of dimensions of
+comparison (properties) relevant to a particular entity or set of
+entities, b) comparisons of like entities on user-specified properties
+(for example, which university is more prestigious, Yale or Cornell), c)
+tracing the derived opinions back to their sources (so that the reasons
+for the opinions can be found). A central contribution in GrainPile is the
+evaluated demonstration of feasibility of mapping the recognized
+expressions (such as fairly, very, extremely, and so on) to a common scale
+of numerical values and aggregating across all the extracted assessments
+to derive an overall assessment of degree. GrainPile&#8217;s novel
+assessment and aggregation of degree expressions is shown to strongly
+outperform an interpretation-free, co-occurrence based method.
+
+Full paper:
+
+http://www.isi.edu/~timc/papers/IUI06-grainpile-chkl.pdf
+
+

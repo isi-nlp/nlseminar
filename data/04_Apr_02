@@ -1,0 +1,31 @@
+Stephan Vogel
+The CMU Statistical Machine Translation System
+3:00 pm - 4:00 pm
+11 Large
+
+The presentation will give an overview of the SMT activities at the
+Language Technologies Institute, Carnegie Mellon University, in large
+vocabulary text translation tasks, esp. the Chinese-English and
+Arabic-English, as well as in limited domain speech-to-speech translation
+tasks.  The CMU SMT system is, like most modern statistical MT systems,
+based on phrase translation.  Several approaches have been developed to
+extract the phrase pairs from parallel corpora and current research
+investigates different scoring approaches for these translation pairs.
+Details of the decoder, esp. on hypothesis recombination, pruning, and
+efficient n-best list generation will be given.  Recently, the SMT system
+has been extended to use partial translations generated from example based
+and grammar based translation system, thereby performing multi-engine
+machine translation.
+
+Bio:
+
+Stephan Vogel is a researcher at the Language Technologies Institute,
+Carnegie Mellon University, where he heads the statistical machine
+translation team.  He received a Diploma in Physics from Philips
+University Marburg, Germany, and a Masters of Philosophy from the
+University of Cambridge, England.  After working for a number of years on
+the history of science, he turned to computer science, especially natural
+language processing.  Before coming to CMU, he worked for several years at
+the Technical Univerity of Aachen on statistical machine translation, and
+also in the Interactive Systems Lab at the University of Karlsruhe.
+

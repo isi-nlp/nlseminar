@@ -1,0 +1,9 @@
+Dirk Hovy
+Learning Whom to Trust with MACE(NAACL Practice Talk)
+3:30 pm - 4:30 pm
+11th Floor Large Conference Room [1135]
+
+Non-expert annotation services like Amazon's Mechanical Turk (AMT) are cheap and fast ways to evaluate systems and provide categorical annotations for training data. Unfortunately, some annotators choose bad labels in order to maximize their pay. Manual identification is tedious, so we experiment with an item-response model. It learns in an unsupervised fashion to a) identify which annotators are trustworthy and b) predict the correct underlying labels. We match performance of more complex state-of-the-art systems and perform well even under adversarial conditions. We show considerable improvements over standard baselines, both for predicted label accuracy and trustworthiness estimates. We show that the latter can be further improved by introducing a prior on model parameters and using Variational Bayes inference. Additionally, we present a method for trading precision and recall, achieving even higher performance by focusing on the instances our model is most confident in. We provide an implementation of MACE (Multi- Annotator Competence Estimation) for download at (http://www.isi.edu/publications/licensed-sw/mace/).
+
+Bio:
+Dirk Hovy is a recent PhD graduate from USC's Information Sciences Institute, working with Jerry Hobbs and Ed Hovy. He has a background in socio-linguistics. His current work includes unsupervised and semi-supervised sequential models of relation extraction and WSD, as well as annotator assessment. He has also worked on temporal relations, metaphors, and prosody. A full list of his publications can be found at(http://www.dirkhovy.com/portfolio/papers/index.php). His other interests include cooking, picking up heavy things (and putting them back down), and medieval art and literature.

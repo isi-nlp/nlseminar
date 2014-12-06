@@ -1,0 +1,6 @@
+Anselmo Penas
+Toward a Reading Machine
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Machine Reading (MR) aims at bridging the gap between texts and a formal representation that a reasoning system can use to make inferences about the text. In the MR Program (MRP), the target ontology is given and the inferences are oriented to answer queries about a set of textual documents. Traditionally, this setting is approached by Information Extraction engines that use annotated texts to learn the mapping between the text and the entity classes and relations of the target ontology. However, in the current MRP setting, almost no annotated data is given, and the systems are expected to adapt to a new domain in a very short time. This setting introduces the need to develop new architectures able to learn from previous readings (of unannotated texts) and to leverage as much as possible the small amount of annotated data. The talk will report the current development of a system with these features.

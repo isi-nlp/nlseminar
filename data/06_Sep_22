@@ -1,0 +1,41 @@
+Eduard Hovy
+Toward a 'Science' of Annotation: Experiences from OntoNotes 
+3:00 pm - 4:30 pm
+11 Large
+
+As machine learning algorithms and their application for NLP become
+better understood, attention turns toward the production of annotated
+corpora to which they can be applied.  Numerous phenomena present
+themselves for annotation, including aspects in lexical semantics,
+discourse, pragmatics, and dialogue.  But several questions
+immediately must be answered:  
+
+1. How does one obtain a balanced corpus to annotate?  What is a
+balanced corpus?  
+
+2. How does one decide which aspects to annotate? How does one
+adequately express the theory behind the phenomena in simple annotation steps? 
+
+3. Which annotators does one hire?  How does one ensure that they are adequately trained?  
+
+4. How does one establish a simple, fast, and trustworthy annotation
+procedure?  What interfaces does one build?  How does one ensure that
+the interfaces do not affect the annotation results?  
+
+5. How does evaluate the results? What are the appropriate agreement
+measures?  At which cutoff points should one re-do the annotations?
+How does one ensure improvement?
+
+6. How should one formulate and store the results?  How does one
+ensure compatibility with other existing resources?  How does one make
+results available for best impact?  
+
+7. How does one report the annotation effort and results?  How does
+one actually get a paper on this work published at an important
+conference?  What should the paper contain?   
+
+Despite their being so basic, there is almost no established procedure
+or standard set of answers to these questions today.  In this talk I
+discuss some of these aspects, pointing to the lessons learned in the
+ongoing OntoNotes project (joint with BBN, the University of Colorado
+(PropBank), the University of Pennsylvania (Treebank), and ISI).

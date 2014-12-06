@@ -1,0 +1,14 @@
+Fei Sha (USC)
+Large margin based parameter estimation for hidden Markov models
+3:00 pm - 4:00 pm
+11 Large
+
+In many application domains, we face the task of characterizing the distribution of continuous random variables.  For instance, in automatic speech recognition (ASR), these variables are acoustic properties of speech signals.  For such tasks, Gaussian mixture models (GMMs) are widely used as an very effective density estimator. Particularly, in the context of ASR, they are embedded in continuous-density hidden Markov models (CD-HMMs) to yield emission probabilities, i.e., the likelihoods of acoustic observations conditioned on hidden states such as phonemes. Meanwhile, the transition probabilities in CD-HMMs attempt to capture temporal properties of speech signals. Similar modeling choices arise in other applications, for instance, in activity recognition.
+
+Various techniques have been developed to estimate the parameters of CD-HMMs. In particular, discriminative techniques such as conditional maximum likelihood and minimum classification error have attracted significant research attention. When carefully and skillfully implemented, they often lead to lower error rates (in speech recognition) than traditional techniques of maximum likelihood estimation.
+
+In this talk, I will describe a new discriminative technique that is based on the principle of large margin, a key framework in many machine learning algorithms including support vector machines and boosting. The new technique differs from previous discriminative methods for ASR in the goal of margin maximization. In particular, in our large margin training of CD-HMMs, model parameters are optimized to maximize the gap (or the margin)  between correct and incorrect classifications.  I will present an extensive empirical evaluation of our approach on two benchmark problems in speech recognition: phonetic classification and recognition on the TIMIT speech database.  In both tasks, large margin systems obtain significantly better performance than systems trained by maximum likelihood estimation or competing discriminative frameworks.  An in-depth analysis also reveals some 
+interesting features of our approach, which contribute to the superior performance.
+
+Towards the end of the talk, I will discuss briefly the connection of our work to the structured prediction problems in the machine learning community. I will also discuss the future direction of this line of work and other application potentials.
+

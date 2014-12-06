@@ -1,0 +1,58 @@
+Nick Mote and Donghui Feng
+Pedagogical Contextualization of Language Learner Speech Errors AND Learning to Detect Conversation Focus of Threaded Discussions
+3:00 pm - 4:30 pm
+11 Large
+
+This is two practice talks.
+
+-----------------------------------------------------------------------------
+FIRST TALK:
+
+The traditional approach to diagnosing learner speech errors in Computer
+Aided Language Learning is to create a linguistic profile of the
+learner/user. We, however, propose that work must also be done to model
+the linguistic profile of a typcial native listener.
+
+Not all errors in second langage learner speech are created equal.
+Different errors sound more "severe" or "harsh" to native speaker ears and
+should therefore be treated with more emphasis in pedagogical interaction.
+
+The Tactical Language Training System (TLTS) is a speech-enabled
+virtual-reality based computer learning environment designed to teach
+Arabic spoken communication to American English speakers. This talk
+addresses the ways the TLTS contextualizes non-native speech errors, and
+how this contextualization fits in the corrective exchanges between a
+non-native learner and a pedagogical agent built to model a native
+listener.
+
+The pedagogical system used in TLTS includes:
+
+  * Automatic Speech Recognition (ASR) models which are built on a
+    combination of both annnotated and unannotated non-native speech with
+    native speech data.
+
+  * A stochastic generative model for errors in learner speech that
+    creates mispronunciation grammars for the ASR
+
+  * Reweighting of system-perceived mispronunciation severity based on
+    aggregate native speaker judgements of quality pronunciation and
+    intelligiblity.
+
+  * Contextualization of feedback based on lexical and phonetic
+    inventories of the native and non-native languages.
+
+
+-----------------------------------------------------------------------------
+SECOND TALK:
+
+We present a novel feature-enriched approach that learns to detect the
+conversation focus of threaded discussions by combining NLP analysis and
+IR techniques. Using the graph-based algorithm HITS, we integrate
+different features such as lexical similarity, poster trustworthiness, and
+speech act analysis of human conversations with featureoriented link
+generation functions. It is the first quantitative study to analyze human
+conversation focus in the context of online discussions that takes into
+account heterogeneous sources of evidence. Experimental results using a
+threaded discussion corpus from an undergraduate class show that it
+achieves significant performance improvements compared with the baseline
+system.

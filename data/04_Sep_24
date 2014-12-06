@@ -1,0 +1,14 @@
+Hal Daume III
+Domain Adaptation in Maximum Extropy Models
+3:00 pm - 4:30 pm
+11 Large
+
+I will present some preliminary results on the problem of domain 
+adaptation in maximum entropy models, specifically in the case when there 
+is a large amount of "out of domain" data, and only a very small amount of 
+"in domain" data.  The model and algorithms I present are based on the 
+technique of conditional Expectation Maximization (CEM) and allow for 
+relatively fast optimization of these models.  Preliminary results on some 
+tasks are quite promising.
+
+

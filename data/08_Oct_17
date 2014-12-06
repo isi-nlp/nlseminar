@@ -1,0 +1,7 @@
+Jens Voeckler
+Parsing XRS with(out) regular expressions
+3:00 pm - 4:00 pm
+11 Large
+
+If you ever needed to extract information, e.g. LHS, RHS words, features, etc., from an XRS rules, this talk is for you. Over the years, a variety of regular expressions have been used to obtain data from XRS rules. However, in light of recent pipeline efforts, the copy-n-paste culture lead to expressions that were sometimes too complex for the task at hand, unnecessarily slowing down processing steps, or too trivial to work correctly on boundary cases. A unified effort by Steve, David, Wei, Michael and Jens culminated in the NLPRules module for Perl. While the talk centers on the Perl module, and some surprising benchmark results, any language supporting libpcre (perl compatible regular expression) will benefit from the insights, and from knowing the right regular expression for the task at hand.
+

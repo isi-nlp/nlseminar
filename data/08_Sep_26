@@ -1,0 +1,12 @@
+Eugene Charniak (Brown University)
+EM Works for Pronoun-Anaphora Resolution
+3:00 pm - 4:00 pm
+11 Large
+
+EM (the Expectation Maximization Algorithm) is a well known technique for unsupervised learning (where one does not have any hand labeled solutions available, but instead one must learn from the raw text). Unfortunately EM is known to fail to find good solutions in many (most?) applications on which it is tried.  In this talk we present some recent work on using EM to learn how to resolve pronoun-anaphora: determining that "the dog" is the antecedent of "he" and "his" in "When Sally fed the dog he wagged his tail". For this application EM works strikingly well, determining tens of thousands of parameters and resulting in a program that probably produces state of the art results, although because this is preliminary work, and pronoun-anaphora has no standard evaluation metrics, this is just a guess.
+
+
+About the Speaker: 
+
+Eugene Charniak is Professor of  Computer Science. and Cognitive Science at Brown University. He received an A.B. degree in Physics from University of Chicago and a Ph.D. from M.I.T. in Computer Science. He has published four books: Computational Semantics, with Yorick Wilks (1976); Artificial Intelligence Programming (now in a second edition) with Chris Riesbeck, Drew McDermott, and James Meehan (1980, 1987); Introduction to Artificial Intelligence with Drew McDermott (1985); and Statistical Language Learning (1993). He is a Fellow of the American Association of Artificial Intelligence and was previously a Councilor of the organization. His research has always been in the area of language understanding or technologies which relate to it, such as knowledge representation, reasoning under uncertainty, and learning. Over the last few years he has been interested in statistical techniques for language understanding. His research in this area has included work in the subareas of part-of-speech tagging, probabilistic context-free grammar induction, and, more recently, syntactic disambiguation through word statistics, efficient syntactic parsing, and lexical resource acquisition through statistical means. 
+

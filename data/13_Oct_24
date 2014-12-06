@@ -1,0 +1,27 @@
+Kuzman Ganchev (Google Research)
+Cross lingual transfer and learning with side information
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+I will describe a framework for cross-lingual transfer of
+probabilistic models that uses posterior regularization.  As a long
+aside, I will describe several methods for learning with side
+information: constraint driven learning, posterior regularization,
+generalized expectation, augmented loss as well as how they relate to
+each other and to Bayesian measurements.   I will conclude with some
+applications from my work and from the literature, including sequence
+and tree models.
+
+Biography:
+
+I was born in Sofia, Bulgaria where I lived until February 1989. My
+family moved to Zimbabwe and then in 1995 to New Zealand where I went
+to high school. I came to the US in 1999 to study at Swarthmore
+College. I spent the 2001-2002 academic year studying abroad in Paris.
+After graduating with a Bachelor of Arts in Computer Science in 2003 I
+worked at StreamSage Inc. in Washington DC until starting at the
+University of Pennsylvania in Fall 2004. During the summer of 2007 I
+was an intern at TrialPay in Mountain View, CA and during the summer
+of 2008 I was an intern at Bank of America in New York. I graduated
+from UPenn in 2010 and have since been working at Google Inc. in New
+York.

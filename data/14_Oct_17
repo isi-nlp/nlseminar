@@ -1,0 +1,8 @@
+Qing Dou (USC/ISI)
+Beyond Parallel Data: Joint Word Alignment and Decipherment Improves Machine Translation [EMNLP Practice Talk]
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Inspired by previous work, where decipherment is used to improve machine translation, we propose a new idea to combine word alignment and decipherment into a single learning process. We use EM to estimate the model parameters, not only to maximize the probability of parallel corpus, but also the monolingual corpus. We apply our approach to im- prove Malagasy-English machine transla- tion, where only a small amount of paral- lel data is available. In our experiments, we observe gains of 0.9 to 2.1 Bleu over a strong baseline.
+
+Qing Dou is a fifth year Ph.D. student at ISI. He works with Professor Kevin Knight on various decipherment problems and its application to different Natural Language Processing tasks. 

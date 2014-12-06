@@ -1,0 +1,76 @@
+Justin Busch, Hai Huang, Jens Stephan & Chen-kang Yang
+CL Student Presentations
+3:00 pm - 4:30 pm
+11 Large
+
+Justin Busch:
+Weight and Semantic Class Issues in Japanese Noun Phrase Ordering
+
+Many current designs for automatic parsers learn probabilities for the
+relative frequencies of parts-of-speech and syntactic rules, and this has
+proven to be generally reliable. In spite of the ubiquity of probabilistic
+techniques for parsing, however, little attention has been given to the
+linguistic significance of the probabilistic data and what it might say
+about human performance.
+
+Hawkins proposes a general theory of grammaticalization based on the
+minimization of syntactic domains. Given that a sentence of any language
+will contain at least one noun phrase, one verb, and possibly additional
+noun phrases and prepositional phrases, "minimize domains" suggests that
+these phrases will order themselves according to whichever pattern
+requires the least effort to recognize the higher syntactic structure of
+the sentence. These effects are directly measurable through corpus
+statistics, and can be interpreted as potential heuristics for
+probabilistic parsers.  In this study, we examine Japanese data from the
+Kyoto Treebank and test Hawkins' predictions for noun phrase ordering by
+noun phrase weight as well as by generic semantic types. The discussion
+will focus primarily on how accurately Hawkins' predictions are reflected
+in the corpus statistics, and will conclude with observations about how
+they might be applied to the decision mechanisms of probabilistic parsers.
+
+--------------------------------------------------------------------------
+
+Hai Huang:
+TBA
+
+--------------------------------------------------------------------------
+
+Jens Stephan:
+Evaluation and Visualization of a Dialogue System
+
+Evaluations have become a necessary standard to almost any type of
+research. However, there are many areas where there is no common agreement
+on how to evaluate, which is the case for complex problem of evaluating
+dialogue systems. The evaluation of the multi party multi modal dialogue
+system MRE(1) provides a good example of what questions are important for
+such an evaluation, how to actually do the evaluation and finally how to
+how make special problems of the system visible to use the evaluation
+results to improve the systems performance.
+
+After a brief introduction of the MRE domain and architecture, I will
+break the task town to a set of general evaluation questions. From there I
+will explain what kinds of metrics and visualizations are suited to answer
+those questions and what kind of data is needed, as well as how that data
+was obtained. Along the road, examples of actual system problems and
+performances will be presented. The topics of data formatting and
+visualization will receive some special attention by introducing the MRE
+Evaluation Toolkit as well as the corpus it operates on.
+
+--------------------------------------------------------------------------
+
+Chen-kang Yang:
+Using the Omega Ontology to Determine Selectional Restrictions for Word Sense Disambiguation
+
+Word sense disambiguation is fundamental for language processing. Though
+purely statistical methods are effective for this task, they neglect the
+syntactic and semantic aspects. In this study, we adopt a hybrid approach
+by applying an unsupervised machine learning method to learn verbs
+selectional restrictions on their subjects/objects. The system then uses
+these learned selectional restrictions for word sense disambiguation of
+the subjects/objects. Instead of words, the training data contains
+ontological taxonomy hierarchies that are retrieved from the Omega
+ontology. Unlike other similar systems, we are able to automatically find
+the best match among classes from different levels of the ontology. This
+provides us more flexibility and is closer to human instinct. Our system
+performs better than other similar systems, though it still needs
+cooperating methods for better results.

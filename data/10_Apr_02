@@ -1,0 +1,9 @@
+Eduard Hovy
+Annotation
+3:00 pm - 4:30 pm
+11th Floor Large Conference Room [1135]
+
+Despite a lot of recent attention, corpus annotation remains somewhat of an art.  This talk is the main part of a tutorial intended to provide the attendee with an in-depth look at the procedures, issues, and problems in corpus annotation.  After describing some currently available resources, services, and frameworks (including the QDAP annotation center, Amazon's Mechanical Turk, annotation facilities in GATE, and UIMA), it addresses the open questions, pitfalls, and problems that the annotation manager should avoid, highlighting the seven major issues at the heart of annotation for which there are as yet no standard and fully satisfactory answers or methods.  For each of these it provides suggestions and a possibly helpful list of references.
+
+Your participation in order to critique the tutorial is appreciated!
+

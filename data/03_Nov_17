@@ -1,0 +1,51 @@
+Dr. Kato and Dr. Fukomoto (NTCIR)
+An Overview of the QA Challenge + NTCIR -- The Way Ahead
+10:30 am - 12:00 pm
+4th Floor
+
+An Overview of Question Answering Challenge
+Jun'ichi Fukumoto and Tsuneaki Kato
+
+In this talk, we will present an overview of Question Answering
+Challenge(QAC), which is the question answering task of the NTCIR
+Workshop.  QAC-1 (the first evaluation of QAC) was carried out
+at NTCIR Workshop 3 in October 2002, and QAC-2 will be at
+NTCIR Workshop 4 in December 2003.  In the QAC, systems to be
+evaluated are expected to return exact answers consisting of a noun
+or noun compound denoting, for example, the names of persons,
+organizations, or various artifacts or numerical expressions such
+as money, size, or date.  Those basically range over the Named
+Entity (NE) elements of MUC and IREX but is not limited to them.
+  QAC consists of three kinds of subtasks: Task 1, where the systems
+are allowed to return ranked five possible answers; Task 2, where
+the systems are required to return a complete list of answers; and
+Task 3, the systems are required to answer series of questions, that
+have anaphora and zero-anaphora.  We will present the results of
+QAC-1, and vision and prospect of QAC-2.
+
+NTCIR -- the Way Ahead
+Noriko Kando
+
+Dr. Noriko Kando is the leader of NTCIR(Test Collections and Evaluation
+of IR, Text Summarization, Q&A, etc) project, and an associate professor
+of National Institute of Informatics (NII).  She got her Ph. D in 1995
+from Keio University.  Her research interest includes evaluation of
+information retrieval systems, technologies to "Make Information Usable
+for Users", cross-lingual information retrieval, and analysis of text
+structure, genre, citation & link  She is a member of editorial boards of
+International Journal on Information Processing and Management,
+ACM-Transaction on Asian Language Information Processing, etc.
+
+Jun'ichi Fukumoto and Tsuneaki Kato are task organizers of QAC.
+  Dr. Jun'ichi Fukumoto is an associate professor of Ritsumeikan
+University.  He got his Ph. D in 1999 from University of Manchester
+Institute of Science and Technology.  His research interest includes
+Q&A, automatic summarization, and dialogue processing.
+Dr. Tsuneaki Kato is an associate professor of the University of Tokyo.
+He got his Dr. of Engineering in 1995 from Tokyo Institute of
+Technology.  His research interests includes multimodal dialogue
+processing, multimodal presentation generation and domain independent
+question and answering.  He is a member of editorial committee of
+transaction on information and systems of The Institute of Electronics,
+Information and Communication Engineers.
+

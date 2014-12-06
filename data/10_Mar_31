@@ -1,0 +1,16 @@
+Haitao Mi (ICT China)
+Lattice and Forest for SMT
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Statistical machine translation (SMT) has witnessed promising progress in recent years. Typically, an SMT system is characterized as a single-best pipeline, whose modules are independent to each other and only take as input single-best results from the previous module. With this assumption, each module will inevitably introduce errors in single-best outputs, which will propagate and accumulate along the pipeline, and eventually hurt the translation quality.
+
+ 
+In order to alleviate this problem, we use compact structures such as lattices and forests instead of single-best results in each module, and then integrate both lattice and forest into a single tree-to-string system. We explore the algorithms of lattice parsing, lattice-forest-based rule extraction and decoding. Experiments show a statistically significant improvement over a start-of-the-art forest-based baseline. More interestingly, we observe a significant reduction in rule-set size when extracting with a lattice, which implies better generalizability (with a smaller model).
+
+
+
+About the speaker:
+
+Haitao Mi is an Assistant Researcher in the Institute of Computing Technology, Chinese Academy of Sciences (CAS/ICT). He received his Ph.D. from CAS/ICT in 2009. His main research interests include syntax-based machine translation and statistical parsing. Additional information about him and his group can be found at http://nlp.ict.ac.cn/~mihaitao/
+

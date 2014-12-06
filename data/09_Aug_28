@@ -1,0 +1,23 @@
+Adam Pauls (UC Berkeley) <br> Michael Auli (Edinburgh)
+Intern Final Talks
+3:00 pm - 4:00 pm
+11 Large
+
+Tree-to-String Alignment Models
+
+Machine translation systems typically rely on some form alignment as a
+preprocessing step. Typically, these alignments take the form of
+word-to-word alignments. In this talk, we will introduce several
+models aimed at aligning foreign words to either English words or
+nodes in the English parse tree. Such word-to-node alignments offer
+several potential advantages over traditional word-to-word
+alignments. Firstly, since the extraction process for some syntactic
+systems explicitly considers the English trees, we expect that also
+considering the trees at alignment time will produce alignments that
+will better suit the extraction process. Secondly, aligning foreign
+function words to English tree nodes can admits highly desirable
+syntactic transfer rules which cannot be directly as word-to-word
+alignments. Finally, word-to-node alignments can effectively model
+many-to-one alignments.  We present four models of increasing
+complexity and show preliminary results for each model.
+

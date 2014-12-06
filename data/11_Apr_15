@@ -1,0 +1,23 @@
+Thomas Schoenemann
+Computing Viterbi Alignments via Integer Linear Programming
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+This talk is about an optimization problem that was shown to be
+NP-hard: computing optimal alignments for the IBM-3 translation
+model. I will show that in practice it can be solved quite efficiently
+via Integer Linear Programming. In addition to using a standard solver
+I will also show problem-specific preprocessing techniques: by
+deriving upper and lower bounds, a large number of variables can be
+removed from the start.
+
+Short Bio: Thomas Schoenemann was born and grew up in Germany. He studied
+Computer Science at RWTH Aachen, Germany, where he got a diploma in
+2005, having written his diploma thesis on the topic of confidence
+measures in machine translation in the group of Hermann
+Ney. Afterwards he went to the University of Bonn, Germany, to do his
+Ph.D. thesis in computer vision in the years 2006-2008. Up to a month
+ago he was a postdoc in the vision group at Lund University, Sweden,
+where he also resumed his work on translation. Currently he is taking
+a time off to explore other fields and broaden his scope.
+

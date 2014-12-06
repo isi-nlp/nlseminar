@@ -1,0 +1,18 @@
+Hagen Fuerstenau (University of Saarland)
+Learning Structured Semantics under Weak Supervision
+11:00 am - 12:00 pm
+4th Floor Large Conference Room [460]
+
+In this talk I will present recent work on two topics: syntactically structured representations of word meaning in context and semi-supervised semantic role labeling.  These will be presented as two instances of a general theme: acquiring structured meaning representations with little or no manual annotation.
+
+Vector space models have become a standard way of representing word meaning that can be learned in an unsupervised way.  The problem of polysemy, however, has only recently been addressed within this framework.  Several approaches to derive vector representations of words in specific sentential contexts have been proposed.  I will present recent work on extending such contextualization operations to vector models incorporating rich syntactic structure, achieving significant improvements in context-dependent lexical substitution tasks.
+
+Going beyond the meaning of single words, I will then turn to work on semantic role labeling.  Here, a key obstacle is the annotation effort required for the training of high quality role labeling systems.  I will present a semi-supervised approach to semantic role labeling, based on generalizing semantic annotations from manually labeled seed sentences to unlabeled sentences via structural alignments, yielding significant improvements in role labeling performance.
+
+I will conclude my talk with an outlook onto how the search for adequate models of semantics may profit from formulation in task-specific ways. In particular, I will sketch some ideas on structured semantic models for statistical machine translation.
+
+Bio: Hagen Fürstenau is a researcher at Saarland University, Germany.  He
+received an M.Sc. in Mathematics from Bonn University and is about to
+finish his Ph.D. in Computational Linguistics.  His research interests
+include data-driven methods in computational semantics and weakly
+supervised machine learning.

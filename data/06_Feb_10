@@ -1,0 +1,29 @@
+David Chiang
+Parsing Arabic Dialects
+3:00 pm - 4:00 pm
+11 Large
+
+The Arabic language exhibits diglossia, i.e., the coexistence of two forms
+of language, a variety with standard orthography and sociopolitical clout
+which is not natively spoken by anyone (Modern Standard Arabic, MSA) and
+varieties that are primarily spoken and lack writing standards (Arabic
+dialects). There are important resources currently available for MSA with
+much on-going NLP work; for example, there is an Arabic Treebank and
+several syntactic parsers for MSA.  However, Arabic dialect resources and
+NLP research are still at an infancy stage. I will present work done at
+the Johns Hopkins CLSP Summer Workshop on parsing of Arabic dialects, in
+particular, Levantine Arabic.  We have experimented with three approaches
+to leveraging MSA resources to create a parser for Levantine Arabic, as
+well as methods for induction of MSA-Levantine translation lexicons and a
+Levantine part-of-speech tagger. Using these methods we obtain error
+reductions of up to 15% compared with applying an MSA parser directly to
+Levantine text.
+
+Rambow et al. Parsing Arabic Dialects: Final Report. Johns Hopkins
+University Center for Language and Speech Processing Workshop 2005.  
+http://www.clsp.jhu.edu/ws2005/groups/arabic/documents/finalreport.pdf
+
+Chiang et al. Parsing Arabic Dialects. To appear in Proc. EACL 2006.
+
+This is joint work with O. Rambow, M. Diab, N. Habash, R. Hwa, K. Sima'an,
+V.  Lacey, R. Levy, C. Nichols and S. Shareef.

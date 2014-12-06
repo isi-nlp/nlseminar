@@ -1,0 +1,17 @@
+Alex Fraser
+Getting the structure right for word alignment: LEAF
+10:30 am - 11:00 am
+11 Large
+
+Automatic word alignment is the problem of automatically annotating
+parallel text with translational correspondence. Previous generative
+word alignment models have made structural assumptions such as the
+1-to-1, 1-to-N, or phrase-based consecutive word assumptions, while
+previous discriminative models have either made one of these
+assumptions directly or used features derived from a generative model
+using one of these assumptions. We present a new generative alignment
+model which avoids these structural limitations, and show that it is
+effective when trained using both unsupervised and semi-supervised
+training methods. Experiments show strong improvements in word
+alignment accuracy and usage of the generated alignments in
+hierarchical and phrasal SMT systems improves the BLEU score.

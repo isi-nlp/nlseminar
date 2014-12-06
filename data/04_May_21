@@ -1,0 +1,30 @@
+Tom Murray and Rahul Bhagat
+Statistical Learning for Dialogue System <b>and</b> A Community of Words
+3:00 pm - 4:30 pm
+11 Large
+
+<b>Natural Language Understanding: A fast and accurate Statistical Learning Approach for Dialogue Systems</b>
+
+Natural Language Understanding (NLU) is an essential module of a good
+dialogue system. To achieve satisfactory performance levels, real time
+dialogue systems need the NLU module to be both fast and accurate. Finite
+State Model (FSM) based systems are fast and accurate but lack robustness
+and flexibility. The Statistical Learning Model (SLM) based systems are
+robust and flexible but lack accuracy and are at most times slow.
+
+In this talk, I am going to talk about an SLM based NLU approach for
+dialogue utterances that is both accurate and fast. The system has high
+accuracy and produces frames in real time.
+
+<b>A Community of Words: Understanding Social Relationships from E-mail</b>
+
+A corpus of e-mail messages presents a number of challenges for NLP
+techniques, with its nearly unconstrained structure and vocabulary,
+mistyped words and ungrammatical sentences, and extensive contextual
+information that is never explicitly stated. Yet, the intrinsically social
+nature of such communication provides an opportunity to study not just a
+bag of words, but also the relationships, competencies, and activities
+behind them.
+
+This talk presents work with Eduard Hovy as part of the MKIDS project.
+

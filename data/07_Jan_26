@@ -1,0 +1,28 @@
+Gerald Penn (Toronto)
+The Quantitative Study of Writing Systems
+3:00 pm - 4:30 pm
+11 Large
+
+If you understood all of the world's languages, you would still not be
+able to read many of the texts that you find on the world wide web,
+because they are written in non-Roman scripts -- often ones that have
+been arbitrarily encoded for electronic transmission in the absence of
+an accepted standard.  This very modern nuisance reflects a dilemma as
+ancient as writing itself: the association between a language as it is
+spoken and its written form has a sort of internal logic to it that we
+can comprehend, but the conventions are different in every individual
+case --- even among languages that use the same script, or between
+scripts used by the same language.  This conventional association
+between language and script, called a <i>writing system</i>, is indeed
+reminiscent of the Saussurean conception of language itself, a
+conventional association of meaning and sound, upon which modern
+linguistic theory is based.  Despite linguists' reliance upon writing
+to present and preserve linguistic data, however, writing systems were
+a largely forgotten corner of linguistics until the 1960s, when Gelb
+presented their first classification.
+
+This talk will describe recent work that aims to place the study of
+writing systems upon a sound computational and statistical foundation.
+While archaeological decipherment may eternally remain the holy grail
+of this area of research, it also has applications to speech
+synthesis, machine translation, and multilingual document retrieval.

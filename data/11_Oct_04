@@ -1,0 +1,47 @@
+Steve DeNeefe
+Tree-adjoining Machine Translation (Ph.D. Defense Practice Talk)
+4:00 pm - 5:00 pm
+11th Floor Large Conference Room [1135]
+
+Machine Translation (MT) is the task of translating a document from a  
+source language (e.g., Chinese) into a target language (e.g., English)  
+via computer.  State-of-the-art statistical approaches to MT use large  
+collections of human-translated documents as training material,  
+gathering statistics on the patterns of correspondence between  
+languages according to the features specified by the translation  
+model.  Using this bilingual translation model in conjunction with a  
+target language model, created by gathering statistics from a large  
+monolingual corpus, a new document in the source language can be  
+automatically translated into its target-language equivalent with  
+surprising accuracy.
+
+Much  MT research focuses on types of the patterns and features to  
+include in a translation model.
+Recent statistical MT models have used syntax trees to enforce  
+grammaticality, but the currently popular tree substitution models  
+only memorize sequences of words or constituents, specifying exactly  
+what phrases to use and exactly what trees are grammatical, which does  
+not generalize well.  Adding the operation of tree-adjoining provides  
+the freedom to splice additional information into an existing  
+grammatical tree.  An adjoining translation model allows general,  
+linguistically-motivated translation patterns to be learned without  
+the clutter of endless variations of optional material.  The  
+appropriate modifiers, such as adjectives, adverbs, and prepositional  
+phrases, can be grafted into these core patterns as needed to  
+translate details.  We show that the increased generalization power  
+provided by adjoining, when used carefully, improves MT quality  
+without becoming computationally intractable.
+
+In this thesis, we describe challenges encountered by both word-sequence-based
+and syntax-tree-based MT systems today, and present an  
+in-depth, quantitative comparison of both models.  Then we describe a  
+novel model for statistical MT which addresses these challenges using  
+a synchronous tree-adjoining grammar.  We introduce a method of  
+converting these grammars to a weakly equivalent tree transducer for  
+decoding.   Then we present a method for learning the rules and  
+associated probabilities of this grammar from aligned tree/string  
+training data, and empirically analyze important characteristics of  
+the resulting model, considering and evaluating many variations.   
+Finally, our results show that adjoining delivers a consistent  
+improvement over a baseline statistical syntax-based MT model on both  
+medium and large-scale MT tasks using several language pairs.

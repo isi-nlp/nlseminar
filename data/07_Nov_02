@@ -1,0 +1,6 @@
+Bill Rounds (Michigan and Stanford)
+Constructions, Constraints, Transducers, and TAGs: A unifying view through Feature Logic
+3:00 pm - 4:30 pm
+11 Large
+
+The value of mathematical formalisms for speech recognition, language generation, and machine translation has long been recognized. Not so much work, though, has been spent reconciling these formalisms with linguistic theories. In this talk I'll propose a theoretical descriptive mechanism based on feature logic, which is central to construction and constraint-based linguistic theories like construction grammar and HPSG, and which  can be used to view tree transducers and tree-adjoining grammars as giving rise to a construction-based framework.

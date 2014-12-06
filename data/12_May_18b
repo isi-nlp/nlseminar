@@ -1,0 +1,6 @@
+Dirk Hovy
+Exploiting Partial Annotations with EM Training (NAACL HLT Practice Talk)
+3:30 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+For many NLP tasks, EM-trained HMMs are the common models. However, in order to escape local maxima and find the best model, we need to start with a good initial model. Researchers suggested repeated random restarts or constraints that guide the model evolution. Neither approach is ideal. Restarts are time-intensive, and most constraint-based approaches require serious re-engineering or external solvers. In this paper we measure the effectiveness of very limited initial constraints: specifically, annotations of a small number of words in the training data. We vary the amount and distribution of initial partial annotations, and compare the results to unsupervised and supervised approaches. We find that partial annotations improve accuracy and reduce the need for random restarts, which speeds up training time considerably.

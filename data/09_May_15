@@ -1,0 +1,14 @@
+David Chiang
+Practice talks for NAACL HLT
+3:00 pm - 4:00 pm
+4th flr CR
+
+11,001 New Features for Statistical Machine Translation (David Chiang)
+- Winner of Best Paper Award at NAACL/HLT 2009
+
+We use the Margin Infused Relaxed Algorithm of Crammer et al. to add a
+large number of new features to two machine translation systems: the
+Hiero hierarchical phrase based translation system and our
+syntax-based translation system. On a large-scale Chinese-English
+translation task, we obtain statistically significant improvements of
++1.5 BLEU and +1.1 BLEU, respectively. We analyze the impact of the new features and the performance of the learning algorithm. 

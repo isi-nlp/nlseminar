@@ -1,0 +1,44 @@
+Jon Patrick (U. of Sydney)
+ScamSeek: Capturing Financial Scams at the Coalface by Language Technology
+10:30 am - 12:00 pm
+11 Large
+
+The Scamseek project aims to build a surveillance tool for identifying
+financial scams on the Internet by performing document classification of
+Internet pages. There are three principle types of documents of concern:
+those that give financial advice by unregistered advisors, unlawful
+investment schemes, and share ramping.
+
+The first phase of the project has been completed and a working system,
+known as ScamAlert installed at the Australian Securities and Investment
+Commission (ASIC). The independent audit of the performance of the system
+proved satisfactory with a result for precision of .75, recall .43, and
+F=. 54, along with identification of 4 scams misclassified by the client.
+Significant improvement in recall is foreshadowed in the 2nd phase of the
+project.  The results are satisfying in the context of the structure of
+the data where the density of scam documents is about 1.8% of the total
+corpus.
+
+The good performance of the operational system is ascribed to the
+combination of using a strong linguistic model of language (Systemic
+Functional Linguistics) to define the scam documents in parallel with a
+rich statistical analysis of the structure of non-scam documents and scam
+look-alikes. A large amount of the experimental program has concentrated
+on understanding and exploiting the interaction between the linguistically
+described aspects of the documents and the statistical properties. Each
+type of data has been used to inform and modify the usage of the other.
+
+The operational aspects of the project have proven to be as challenging as
+the research objectives. The project has a budget of $2.2M over 15 months.
+It has been managed so as to create a balance in resources between the
+needs of both the research objectives and the engineering objectives.
+Software development has concentrated on three aspects. Firstly, to
+produce an environment for the strong directive management of
+computational linguistics experiments, secondly, in the aid of the
+linguists to create tools to support their manual analysis, and thirdly
+the best practice of software engineering principles to ensure a clean
+automated rollout of the production system for ASIC.
+
+The contributing partners in the Scamseek project are The Capital Markets
+Co-operative Research Centre (CMCRC), ASIC, the University of Sydney and
+Macquarie University.

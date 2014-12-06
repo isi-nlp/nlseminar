@@ -1,0 +1,12 @@
+Anni Irvine
+Intern Final Talk: Making Discriminative Alignment Smarter
+2:00 pm - 2:30 pm
+11th Floor Large Conference Room [1135]
+
+Error analysis on grammars extracted for Machine Translation shows
+that bad and useless translation rules are usually caused by bad
+alignments. In this work, we improve previous work on hierarchical
+discriminative alignment by incorporating knowledge of foreign side
+parse trees, output from other aligners, and a look-ahead to grammar
+extraction. We give examples and results on Chinese to English
+translation.

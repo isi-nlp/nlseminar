@@ -1,0 +1,12 @@
+Oana-Diana Postolache
+Towards combining Searn and Syntax-Based Machine Translation (SBMT)
+3:00 pm - 3:30 pm
+11 Large
+
+This talk is about modeling the Syntax-Based Machine Translation  
+(SBMT) problem within the Searn (Search & Learn) framework developed by Hal Daume in  
+his PhD thesis. I will present the way we define the states, actions
+and the search space and how to implement the cost function.
+
+
+(Note: This is part of the Summer Intern Series)

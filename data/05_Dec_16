@@ -1,0 +1,16 @@
+Jonathan May
+A Better N-Best List - Practical Determinization of Weighted Finite Tree Automata
+3:00 pm - 4:30 pm
+11 Large
+
+Ranked lists of output trees from syntactic statistical NLP applications
+frequently contain multiple repeated entries. This redundancy leads to
+misrepresentation of tree weight and reduced information for debugging and
+tuning purposes. It is chiefly due to nondeterminism in the weighted
+automata that produce the results. I will introduce an algorithm that
+determinizes such automata while preserving proper weights, returning the
+sum of the weight of all multiply derived trees. I will also report
+results of the application of the algorithm to machine translation and
+Data Oriented Parsing.
+
+

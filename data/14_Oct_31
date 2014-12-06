@@ -1,0 +1,8 @@
+Nikolaos Malandrakis (USC/SAIL)
+Generating Psycholinguistic Norms
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Abstract numerical representations of word and term content are very popular in NLP applications of behavioral analysis, like sentiment analysis, where the low dimensional representation allows for the use of complicated machine learning techniques, despite the lack of annotated in-domain data. In this presentation we will discuss our experiments on automatically expanding manually annotated lexica of linguistic norms, starting from word emotion norms and generalizing to include higher order terms, norms beyond emotion (like concreteness and age of acquisition) as well as languages other than English. We will present our attempts at domain adaptation of these norms, as well as the composition of norms for larger lexical units via their constituents by utilizing distributional semantic representations. As examples of actual applications we will present a highly ranked system of sentiment analysis submitted to SemEval 2014 and a multi-modal depression diagnosis system for German submitted to AVEC 2014.
+
+Bio: Nikolaos Malandrakis is a third year PhD student at the USC Computer Science Department and a research assistant at the Signal Analysis and Interpretation Laboratory (SAIL). He is originally from Chania, Greece, where he completed a BSc and MSc in Computer Engineering at the Technical University of Crete.

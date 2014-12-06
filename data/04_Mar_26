@@ -1,0 +1,20 @@
+Shlomo Argamon
+On Writing, Our Selves: Explorations in Stylistic Text Categorization
+1:30 pm - 3:00 pm
+11 Large
+
+This talk will survey results of several recent projects we have been
+undertaking in automated text categorization based upon the style,
+rather than the topic, of the documents.  I will describe a general
+text-categorization framework using machine learning along with general
+principles for choosing stylistically relevant sets of features for
+learning effective classification models.  Applications of these methods
+include determining author gender and text genre in published books and
+articles, authorship attribution of email messages, and analysis of
+language use in different scientific fields.  In many cases, the models
+that are learned also give some insight into the respective styles being
+distinguished, which I will also discuss.
+
+Shlomo Argamon is an associate professor at the Illinois Institute of
+Technology Chicago.
+

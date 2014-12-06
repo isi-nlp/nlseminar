@@ -1,0 +1,6 @@
+David Chiang
+Tutorial: Randomized data structures for large statistical NLP models
+3:00 pm - 4:00 pm
+11 Large
+
+Randomized algorithms are those which use randomness to achieve efficient performance with a bounded probability of error; typically, the bound is adjustable and the performance depends on the bound. Randomized data structures, likewise, use randomness to achieve efficient storage with a bounded probability of error. I will give an overview of the use of such data structures, namely, Bloom filters and "Bloomier" filters, for storing very large n-gram language models, and will discuss possibilities for using randomized data structures for other purposes as well. 

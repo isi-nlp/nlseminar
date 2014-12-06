@@ -1,0 +1,18 @@
+Marie-Catherine de Marneffe (Stanford University)
+Computational models of utterance meaning
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Much of the meaning conveyed in language use goes beyond the literal meaning of the words. Suppose someone asks whether I want to go for lunch, and I reply: "I had a very large breakfast". The utterance does not convey only what it literally means, my interlocutor is probably going to infer that I am not hungry and do not want to go for lunch now. Computational systems today understand at most the literal meaning of human language utterances. I aim at capturing aspects of utterance meaning, the kind of information that a reader will reliably extract from an utterance within text.
+
+The first part of the talk concentrates on interpreting answers to yes/no questions which do not straightforwardly convey a 'yes' or 'no' answer. I focus on questions involving scalar modifiers (Was it acceptable? It was unprecedented.) and numerical answers (Are you kids little? I have a 10 year-old and a 7 year-old.). I exploit the availability of large amount of text to learn meanings from words and sentences in real context. I show that we can ground scalar modifier meaning based on large unstructured databases, and that such meanings can drive pragmatic inference.
+
+The second part of the talk targets veridicality -- whether a speaker intends to convey that the events described are actual, non-actual or uncertain -- which is central to language understanding, but little used in relation and event extraction systems. What do people infer from a sentence such as FBI agents alleged in court documents today that Zazi had admitted receiving weapons and explosives training from al Qaeda operatives? Did Zazi received weapons and explosives training? I show that not only lexical semantic properties but context and world knowledge shape veridicality judgments. Since such judgments are not always categorical, I suggest they should be modeled as distributions, and propose a classifier to do so. The classifier features provide a nuanced picture of the diverse factors that affect veridicality.
+
+Short Bio: 
+Marie-Catherine de Marneffe is a fifth-year PhD student in Linguistics at Stanford University. Prior to her
+doctoral studies, she visited the Stanford NLP research group for 2 years, working with Christopher D. Manning.
+In 2000, she received her master degree in Classical Languages, and a master in Computer Science in 2002,
+both from the Université catholique de Louvain (Belgium). Her work in computational semantics focuses on
+on detecting entailment and contradiction in texts, grounding meaning from large unstructured databases, and assessing the information status of events from a reader's perspective. She is also interested in language acquisition, studying how
+children acquire verb forms in French.

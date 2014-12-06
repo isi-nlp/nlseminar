@@ -1,0 +1,63 @@
+Birte Loenneker (Hamburg)
+Between Story Generation and Natural Language Generation
+10:00 am - 11:30 am
+11 Small
+
+Narratology analyzes the discursive structure of narratives as finalized
+products of human invention, such as novels, short-stories, or
+fairy-tales. Those narratives are rendered in a given surface form;
+Narratology focuses on narratives in natural language. Narratologists
+assume that each narrative surface representation is associated with a
+neutral, abstract event sequence, the "Story" (histoire, sjuzhet). The
+abstractness of Story is illustrated by the fact that the same Story can
+be realized in different surface texts. By discursive structure or
+"Discourse" (discours, fabula), narralogists mean the relation between an
+abstract Story and its concrete expression in a sequential text. For
+example, if the chronological order of the Story is not respected in its
+textual recount, we are dealing with the Discourse parameter of order.
+Other Discourse parameters include the frequency with which Story events
+are evoked, the point of view from which they are narrated (perceived,
+evaluated,...), or framed narratives with several narrative levels.
+
+The Story Generator Algorithms project at the University of Hamburg
+evaluated several existing Story Generators with respect to their
+discursive abilities. It became obvious that most Story Generators
+concentrate on creating a coherent and chronological abstract Story,
+which is directly mapped onto natural language. This results in a
+predominance of 1:1 relations between Story and surface, and in most
+cases corresponds to a default or zero instantiation of Discourse
+parameters. As a consequence, Story Generator outputs tend to be very
+explicit and straightforward, and are likely to be perceived as uniform
+and boring.
+
+Narratological expert knowledge might be useful to future enhanced Story
+Generators and to Natural Language Generation systems dealing with
+narrative. One of the aims of Computational Narratology is to model that
+expert knowledge. Ideally, narratological knowledge will be integrated
+into a Narratological Structurer, as a processing component of an
+advanced system that creates narratives. In such a system, the
+Narratological Structurer will be the interface between a Story Generator
+and subsequent Natural Language Generation modules. The talk also
+presents examples of the knowledge that is being modelled.
+
+
+About the Speaker:
+
+Birte Lönneker graduated from the University of Hamburg, Germany, with a
+degree in French with Finno-Ugristics (Finnish) and Business
+Administration. Since then, her main fields of publication are Cognitive
+Linguistics and electronic resources for Natural Language Processing,
+with special focus on frames and metaphors, as well as electronic
+dictionaries, corpora, and recently part-of-speech tagging. Her PhD on
+Concept Frames and Relations, also published as a book in 2003, was
+co-supervised at the Institute for Romance Languages and at the
+Department of Informatics in Hamburg. For her Slovenian-German online
+dictionary, Birte Lönneker was twice awarded the EURALEX Laurence Urdang
+Award. From 2002 to 2004, she received various research grants for
+Slovenia, where she was working in the Corpus Laboratory of the Institute
+of Slovenian Language.
+
+Since 2004, Birte Lönneker carries out research on Story Generator
+Algorithms within the Narratology Research Group Hamburg. She is also a
+board member of the German Cognitive Linguistics Association.
+

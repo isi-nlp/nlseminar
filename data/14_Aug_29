@@ -1,0 +1,15 @@
+Allen Schmaltz (Harvard) and Julian Schamper (RWTH Aachen)
+Toward Semantic Parsing [Intern final talk] 
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Semantic parsing has potential applications in a number of areas, including machine translation and machine reading, among many others. In this talk we will present our initial work on the parsing task for the semantic representation language known as Abstract Meaning Representation (AMR). The task is to take an English sentence and transform it into its semantic representation.
+
+We will present a series of approaches and associated results, providing guidelines for future work in this area. We will show approaches using heuristics, tree transducers, and probabilistic context free grammars. We will also present approaches for AMR rule extraction for the applicable formalisms. In doing so, we will also highlight challenges relative to syntactic parsing. 
+
+Additionally, we will provide a map for the future directions in AMR parsing that we plan to pursue in the fall.
+
+Bios:
+Allen Schmaltz is a Ph.D. student in Computer Science in the School of Engineering and Applied Sciences at Harvard University (2013-present; S.M. 2014), working with Stuart Shieber. He is interested in formal, statistical, and human-augmented machine learning approaches for computational linguistics. Before starting his Ph.D. in Computer Science, he completed the better part of an additional Ph.D. in the (quantitative) social sciences at Harvard University (2010-2013), received a M.A. from Stanford University (2010), and received a B.A. from Northwestern University (2006). Earlier in his academic career he also studied at Cornell University and in Yokohama, Japan, among other places.
+
+Julian Schamper studies computer science at RWTH Aachen University. He did his bachelor thesis in the field of deciphering foreign language and works as a student research assistant at Prof. Hermann Ney's Human Language Technology and Pattern Recognition Group.

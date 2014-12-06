@@ -1,0 +1,11 @@
+Jason Riesa
+Minimally Supervised Morphological Segmentation with Applications to Machine Translation
+3:30 pm - 4:00 pm
+11 Large
+
+Inflected languages in a low-resource setting present a data sparsity problem for
+statistical machine translation. In this work, we present a minimally  
+supervised algorithm for morpheme segmentation on Arabic dialects  
+which reduces unknown words at translation time by over 50%, total  
+vocabulary size by over 40%, and yields a significant increase in  
+BLEU score over a previous state-of-the-art phrase-based statistical MT system.

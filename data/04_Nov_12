@@ -1,0 +1,53 @@
+Dragomir Radev
+Words, links, and patterns: novel representations for Web-scale text mining
+3:00 pm - 4:30 pm
+11 Large
+
+Textual data is everywhere, in email and scientific papers, in online
+newspapers and e-commerce sites. The Web contains more than 200 terabytes
+of text not even counting the contents of dynamic textual databases. This
+enormous source of knowledge is seriously underexploited. Textual
+documents on the Web are very hard to model computationally: they are
+mostly unstructured, time-dependent, collectively authored, multilingual,
+and of uneven importance.  Traditional grammar-based techniques don't
+scale up to address such problems. Novel representations and analytical
+tools are needed.
+
+I will discuss several current projects at Michigan related to text mining
+from a variety of genres. Depending on the amount of time, I will talk
+about (a) lexical centrality for multidocument summarization, (b)
+syntax-based sentence alignment, (c) graph-based classification,(d)
+lexical models of Web growth, and (e) mining protein interactions from
+scientific papers. As it turns out, the right representations, when
+complemented with traditional NLP and IR techniques, turn many of these
+into instances of better studied problems in areas such as social
+networks, statistical mechanics, sequence analysis, and computational
+phylogenetics.
+
+
+
+About the Speaker:
+
+Dragomir R. Radev is Assistant Professor of Information, Electrical
+Engineering and Computer Science, and Linguistics at the University of
+Michigan, Ann Arbor.  He leads the CLAIR (Computational Lingusitics
+And Information Retrieval) group which currently includes 12
+undergraduate and graduate students.  Dragomir holds a Ph.D. in
+Computer Science from Columbia University.  Before joining Michigan,
+he was a Research Staff Member at IBM's TJ Watson Research Center in
+Hawthorne, NY.  He is the author of more than 45 papers on information
+retrieval, text summarization, graph models of the Web, question
+answering, machine translation, text generation, and information
+extraction.  Dr. Radev's current research on probabilistic and
+link-based methods for exploiting very large textual repositories,
+representing and acquiring knowledge of genome regulation, and
+semantic entity and relation extraction from Web-scale text document
+collections is supported by NSF and NIH.  Dragomir serves on the
+HLT-NAACL advisory committee, was recently reelected as treasurer of
+NAACL, is a member of the editorial boards of JAIR and Information
+Retrieval, and is a four-time finalist at the ACM international
+programming finals (as contestant in 1993 and as coach in
+1995-1997). Dragomir received a graduate teaching award at Columbia
+and recently, the U. of Michigan award for Outstanding Research
+Mentorship (UROP).
+

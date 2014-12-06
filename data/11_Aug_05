@@ -1,0 +1,10 @@
+Dave Uthus 
+Overcoming Information Overload in Navy Chat
+3:00 pm - 4:00 pm
+4th Floor Large Conference Room [460]
+
+In this talk, I will describe the research we are undertaking at the Naval Research Laboratory which revolves around chat (such as Internet Relay Chat) and the problems it causes in the military domain. Chat has become a primary means for command and control communications in the US Navy. Unfortunately, its popularity has contributed to the classic problem of information overload. For example, Navy watchstanders monitor multiple chat rooms while simultaneously performing their other monitoring duties (e.g.,  tactical situation screens and radio communications). Some researchers have proposed how automated techniques can help to alleviate these problems, but very little research has addressed this problem.
+
+I will give an overview of the three primary tasks that are the current focus of our research. The first is urgency detection, which involves detecting important chat messages within a dynamic chat stream. The second is summarization, which involves summarizing chat conversations and temporally summarizing sets of chat messages. The third is human-subject studies, which involves simulating a watchstander environment and testing whether our urgency detection and summarization ideas, along with 3D-audio cueing, can aid a watchstander in conducting their duties.
+
+Short Bio: David Uthus is a National Research Council Postdoctoral Fellow hosted at the Naval Research Laboratory, where he is currently undertaking research focusing on analyzing multiparticipant chat. He received his PhD (2010) and MSc (2006) from the University of Auckland in New Zealand and his BSc (2004) from the University of California, Davis. His research interests include microtext analysis, machine learning, metaheuristics, heuristic search, and sport scheduling. 

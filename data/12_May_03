@@ -1,0 +1,17 @@
+Dirk Hovy
+Using Syntactic Information for Unsupervised Relation Extraction and Typing (Thesis Proposal Practice Talk)
+4:00 pm - 5:00 pm
+11th Floor Large Conference Room [1135]
+
+Question Answering (QA) is a longstanding goal in Natural Language Processing (NLP). In its simplest form, QA relies on keyword matching to find single-word answers (e.g., search engines).
+But single words taken out of context are ambiguous -- only context disambiguates them. This meaningful context comes in the form of syntactic and/or semantic relations between predicates and arguments. Relations are thus at the core of meaning and information. Systems like Siri or Watson have put QA in more widespread use, and users move away from single-word questions to more complex ones. Finding and classifying relations to answer those questions will thus become the central challenge for future QA systems.
+
+The large number of relations makes relation extraction challenging; given a sentence, many possible relations can be extracted. If we can specify the relations we are interested in beforehand, we can annotate data to train supervised systems. Often though, definition beforehand is impossible, and we have to find all possible relations that hold in a text. In those cases, we must rely on unsupervised approaches.
+A second problem is rapid adaptation to new domains and topics. Relations extracted from one domain may not be relevant to another.
+A third problem is variation in the ways relations are expressed in text. Often, intervening words and phrases between predicates and arguments cause fixed-window pattern matching approaches to fail.
+
+Most previous relation extraction approaches have either relied on annotated data or (semi-) structured sources of information. These approaches require pre-defined relations and manually annotated data. Furthermore, many of these approaches rely on pattern matching over surface strings, which is not robust to variations. If previous approaches used unsupervised training methods, they largely focused on clustering, effectively ignoring sequential structure in the data.
+
+The future of QA will require us to quickly adapt to new domains and topics with little annotated data. Only if we can discover and disambiguate relations automatically can we build systems capable of open-ended QA.
+I present several techniques for discovering relations from text. I show how to use unsupervised sequential models to discover relations from raw text. These methods do not require any existing resources, manual annotation, or pre-defined relations, and can be applied to any domain. I use dependency parse structures as inputs to these methods, making these approaches more robust to surface variations. I show improvements over state-of-the-art systems as well as novel approaches to fully exploit the structure contained in the data.
+

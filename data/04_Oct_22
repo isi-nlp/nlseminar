@@ -1,0 +1,28 @@
+Jerry Hobbs
+Like Now:  Two Explorations in Deep Lexical Semantics
+3:00 pm - 4:30 pm
+11 Large
+
+As part of an effort to encode the commonsense knowledge we need in
+natural language understanding, I have been looking at several very common
+words and their uses in diverse corpora, and asking what we have to know
+to understand this word in this context.  In this talk, I will describe
+the investigations of the uses of two words -- the adverb "now" and the
+preposition "like".
+
+One might think that "now" simply expresses a temporal property of an
+event.  But in fact in almost every instance, it is used to point up a
+contrast -- "This is true now.  Something else was true then."  It is thus
+more of a relation than a property.  I will describe several categories of
+such relations.  Another question of interest about "now" is "How long a
+period is the word "now" describing in its various uses?": "I'm typing an
+abstract now" vs. "We travel by automobile now."  I suggest some
+categories of knowledge that need to be encoded to answer this question.
+
+When we successfully understand "A is like B", we have figured out some
+property that A and B have in common.  How can we find that property
+computationally?  In the data I looked at, in 80% of the instances, the
+property is explicit in the nearby text, and I will talk about how we can
+identify it.  For the remainder I examine the knowledge we would need in
+order to infer the common property.
+

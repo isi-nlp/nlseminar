@@ -1,0 +1,20 @@
+Dirk Hovy
+Learning Semantic Types and Relations from Text (Defense Practice Talk)
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+NLP applications such as Question Answering (QA), Information Extraction (IE), or Machine Translation (MT) are incorporating increasing amounts of semantic information. A fundamental building block of semantic information is the relation between a predicate and its arguments, e.g. eat(John,burger). In order to reason at higher levels of abstraction, it is useful to group relation instances according to the types of their predicates and the types of their arguments. For example, while eat(Mary,burger) and devour(John,tofu) are two distinct relation instances, they share the underlying predicate and argument types INGEST(PERSON,FOOD). 
+
+A central question is: where do the types and relations come from?
+
+The subfield of NLP concerned with this is relation extraction, which comprises two main tasks:
+1. identifying and extracting relation instances from text
+2. determining the types of their predicates and arguments
+The first task is difficult for several reasons. Relations can express their predicate explicitly or implicitly. Furthermore, their elements can be far part, with unrelated words intervening. In this thesis, we restrict ourselves to relations that are explicitly expressed between syntactically related words. We harvest the relation instances from dependency parses.
+The second task is the central focus of this thesis. Specifically, we will address these three problems: 1) determining argument types 2) determining predicate types 3) determining argument and predicate types. For each task, we model predicate and argument types as latent variables in a hidden Markov models. Depending on the type system available for each of these tasks, our approaches range from unsupervised to semi-supervised to fully supervised training methods.
+
+The central contributions of this thesis are as follows:
+1. Learning argument types (unsupervised): We present a novel approach that learns the type system along with the relation candidates when neither is given. In contrast to previous work on unsupervised relation extraction, it produces human-interpretable types rather than clusters. We also investigate its applicability to downstream tasks such as knowledge base population and construction of ontological structures. An auxiliary contribution, born from the necessity to evaluate the quality of human subjects, is MACE (Multi-Annotator Competence Estimation), a tool that helps estimate both annotator competence and the most likely answer.
+2. Learning predicate types (unsupervised and supervised): Relations are ubiquitous in language, and many problems can be modeled as relation problems. We demonstrate this on a common NLP task, word sense disambiguation (WSD) for prepositions (PSD). We use selectional constraints between the preposition and its argument in order to determine the sense of the preposition. In contrast, previous approaches to PSD used n-gram context windows that do not capture the relation structure. We improve supervised state-of-the-art for two type systems.
+3. Argument types and predicates types (semi-supervised): Previously, there was no work in jointly learning argument and predicate types because (as with many joint learning tasks) there is no jointly annotated data available. Instead, we have two partially annotated data sets, using two disjoint type systems: one with type annotations for the predicates, and one with type annotations for the arguments. We present a semisupervised approach to jointly learn argument types and predicate types, and demonstrate it for jointly solving PSD and supersense-tagging of their arguments. To the best of our knowledge, we are the first to address this joint learning task.
+Our work opens up interesting avenues for both the typing of existing large collections of triple stores, using all available information, and for WSD of various word classes.

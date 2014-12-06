@@ -1,0 +1,8 @@
+Yang Feng (USC/ISI)
+Factored Markov Translation with Robust Modeling
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Phrase-based translation models usually memorize local translation literally and make independent assumption between phrases which makes it neither generalize well on unseen data nor model sentence-level effects between phrases. We present a new method to model correlations between phrases as a Markov model and meanwhile employ a robust smoothing strategy to provide better generalization. This method defines a recursive estimation process and backs off in parallel paths to infer richer structures. Our evaluation shows an 1.1–3.2% BLEU improvement over competitive baselines for Chinese-English and Arabic-English translation.
+
+Bio: Yang Feng is a postdoctoral scholar in Kevin Knight's NLP group in USC/ISI. She got her Ph.D. degree in 2011 from Institute of Computing Technology, Chinese Academy of Sciences. Her interests are machine translation and machine learning, focusing on Bayesian inference and Gaussian process. Now her main work is to improve ISI syntax-based system.

@@ -1,0 +1,19 @@
+Joseph Turian (NYU)
+Discriminative Training for Large-Scale NLP
+3:00 pm - 4:30 pm
+11 Large
+
+Parsing and translating natural languages can be viewed as
+structured-prediction problems. We outline the crucial design
+decisions that must be made to build a machine to solve structured
+prediction problems, and explain our particular choices for these two
+large-scale NLP problems.  Our approach uses a purely discriminative
+learning method that scales up well to problems of this size.  Unlike
+currently popular methods, this one does not require a great deal of
+feature engineering a priori, because it performs feature selection
+over a compound feature space as it learns.  Accuracy on constituent
+parsing was at least as good as other comparable methods.  To our
+knowledge, it is the first purely discriminative learning algorithm
+for translation with tree-structured models.  Experiments demonstrate
+the method's versatility, accuracy, and efficiency.
+

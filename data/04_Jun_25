@@ -1,0 +1,11 @@
+Dan Gildea
+Syntactic Supervision and Tree-Based Alignment
+3:00 pm - 4:00 pm
+11 Large
+
+Tree-based probability models of translation have been proposed to take
+advantage of parse trees on one, both, or neither sides of a parallel
+corpus.  I will present comparative results for these three approaches for
+the task of word alignment on Chinese-English and French-English data, as
+well as some analysis of what is going on behind the numbers.
+

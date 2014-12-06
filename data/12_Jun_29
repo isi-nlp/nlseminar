@@ -1,0 +1,12 @@
+Bevan Jones
+Semantic Parsing with Bayesian Tree Transducers
+3:00 pm - 4:00 pm
+4th Floor Conference Room
+
+Many semantic parsing models use tree transformations to map between natural language and meaning representation. However, while tree transformations are central to several state-of-the-art approaches, little use has been made of the literature on tree automata, which could both clarify the relationships between different approaches and increase the generality of new contributions. We attempt to clarify the relationship by presenting a tree transducer model that is closely related to previous work made without appealing to automata theory. We then describe a variational Bayesian inference algorithm that is applicable to a wide class of tree transducers, producing state-of-the-art semantic parsing results when coupled with our model while remaining applicable to any domain employing probabilistic tree transducers (not just semantic parsing).
+
+This is joint work with Mark Johnson and Sharon Goldwater to be presented at this year’s ACL
+
+Bio:
+
+I research computational models of language acquisition, exploring questions of how linguistic structure and meaning might interact during learning. For instance, I have worked on Bayesian models of unsupervised word segmentation, exploring how simultaneous word meaning acquisition influences the identification of lexical boundaries. Currently, I work on semantic parsing, using a combination of Bayesian techniques and automata theory to model more complex structural relationships between compositional meaning and syntactic structure. My PhD began at the department of Cognitive, Linguistic and Psychological Sciences at Brown University but has since moved to the School of Informatics at the University of Edinburgh and the Computing Department of Macquarie University.

@@ -1,0 +1,31 @@
+Shou-de Lin
+Ph.D. defense practice talk
+3:30 pm - 4:30 pm
+11 Large
+
+This is a practice talk for my Ph.D. defense, which  
+will be held on Aug 24th 3-5pm, SAL 322.
+
+An important problem in the area of homeland security and fraud  
+detection is to identify abnormal entities in large datasets.   
+Although there are methods from knowledge discovery and data mining  
+focusing on finding anomalies in numerical datasets, there has been  
+little work aimed at discovering abnormal or suspicious instances in  
+large and complex semantic graphs whose nodes are richly connected  
+with many different types of links. In this talk, I will describe a  
+novel, domain-independent and unsupervised framework to identify such  
+instances.  Besides discovering suspicious instances, we believe that  
+to complete the discovery process and to deal with the "curse of  
+false positives", a system has to convince the users by providing  
+explanations for its findings. Therefore, in the second part of the  
+talk I will describe an explanation mechanism to automatically  
+generate human-understandable explanations for the discovered  
+results. Experimental results show that our discovery system  
+outperforms state-of-the-art unsupervised network algorithms used to  
+analyze the 9/11 terrorist network by a large margin. Additionally, a  
+human study we conducted demonstrates that our explanation system,  
+which provides natural language explanations for its findings,  
+allowed human subjects to perform complex data analysis in a much  
+more efficient and accurate manner
+
+

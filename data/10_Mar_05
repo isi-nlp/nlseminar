@@ -1,0 +1,12 @@
+Liang Huang
+Incremental Parsing
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+(a 20-minute version of this talk was given at the ISD retreat, with no technical details.)
+
+Parsing is the task of finding the most probable interpretation for a given sentence, and is a central problem in NLP because it serves as the basis of many downstream applications such as machine translation, summarization, paraphrasing, and question answering. Improving parsing efficiency and accuracy will greatly improve the applicability of those applications.
+
+However, unlike human parsing which is amazingly efficient by scanning the sentence incrementally, current state-of-the-art parsers are either extremely slow (standard algorithms like CKY scale cubically with sentence length), or purely greedy in the search algorithm that only touches a tiny fraction of the (exponentially) large search space. We instead propose a dynamic programming algorithm that does incremental parsing and ambiguity packing along the way, such that the running time is (almost) linear, and yet searches over exponentially many trees. Empirical results are very good, but further details withheld -- come to the talk!
+
+This is a joint work with Kenji Sagae, USC/ICT.

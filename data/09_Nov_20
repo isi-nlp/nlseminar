@@ -1,0 +1,6 @@
+Marco Pennacchiotti (Yahoo! Research)
+Entity Extraction via Ensemble Semantics
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+In this talk I will present Ensemble Semantics (ES), a new general framework for information extraction developed at Yahoo!, that combines multiple sources of information and extractors. The ES framework is based on the hypothesis that although distributional and pattern-based extraction algorithms are complementary, they do not exhaust the semantic space; other sources of evidence can be leveraged to better combine them.  In this presentation, I will focus on a specific implementation of ES for the task of entity extraction. I will report experimental results showing large gains in performance, by combining state-of-the-art distributional and pattern-based systems with a large set of features from a document webcrawl, one year of query logs, and a snapshot of Wikipedia. I will also propose an analysis of feature correlations and interactions showing the value of the different feature sets. I will conclude discussing some issues that can impact on the overall performance of entity extraction algorithms.

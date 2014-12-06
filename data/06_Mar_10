@@ -1,0 +1,13 @@
+Mark Hopkins
+Exploring the Potential of Intractable Parsers
+3:00 pm - 4:30 pm
+10th Floor
+
+We revisit the idea of history-based parsing, and present a history-based
+parsing framework that strives to be simple, general, and flexible.  We
+also provide a decoder for this probability model that is linear-space,
+optimal, and anytime.  A parser based on this framework, when evaluated on
+Section 23 of the Penn Treebank, compares favorably with other
+state-of-the-art approaches, in terms of both accuracy and speed.
+
+

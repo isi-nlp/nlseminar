@@ -1,0 +1,14 @@
+Ali Borji (USC)
+Computational Modeling of Bottom-up and Top-down Visual Attention
+11:00 am - 12:00 pm
+11th Floor Large Conference Room [1135]
+
+Over the last two decades, the inter-disciplinary fields of visual attention and saliency have attracted
+a lot of interest in cognitive sciences, computer vision, robotics, and machine learning. The high complexity of natural environments requires the primate visual system to combine, in a highly dynamic and adaptive manner, sensory signals that originate from the environment (bottom-up) with behavioral goals and priorities dictated by the task at hand (top-down). I will talk about my recent research in two directions: 1) Bottom-up attention: I will give a snapshot of biological findings on visual attention (e.g., how gaze direction of people in a scene influences eye movements of an external observer), theoretical background on saliency concepts, our model benchmark and saliency models, and 2) Top-down attention: I will describe our neuromorphic algorithms to predict, in a task-independent manner, which elements in a video scene might more strongly attract the gaze of a human. Multi-modal data including bottom-up saliency, "gist" or global context, physical actions and object properties (using example recorded eye movements and videos of humans engaged in various 3D video games, including flight combat, driving, first-person shooting, running a hot-dog stand that serves hungry customers) are utilized to associate particular scenes with particular locations of interest, given the task (e.g., when the task is to drive, if the scene depicts a road turning left, the system learns to look at that left turn). Finally, I will present some successful engineering and clinical applications of our models.
+
+Bio:
+Ali Borji received the BS and MS degrees in computer engineering from the Petroleum University of Technology, Tehran, Iran, 2001 and Shiraz University, Shiraz, Iran, 2004, respectively.
+He received the PhD degree in computational neurosciences from the Institute for Studies 
+in Fundamental Sciences (IPM) in Tehran, 2009. He then spent a year at University of Bonn as a postdoc. He has been a postdoctoral scholar at iLab, University of Southern California, Los Angeles since March 2010. 
+
+His research interests include computer vision, machine learning, and neurosciences with particular emphasis on visual attention, visual search, active learning, scene and object recognition, and biologically plausible vision models.

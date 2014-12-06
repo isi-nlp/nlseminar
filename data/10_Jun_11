@@ -1,0 +1,18 @@
+Yoav Goldberg (Ben Gurion University of the Negev)
+Easy First Dependency Parsing and How Different Parsers Behave Differently
+3:30 pm - 4:30 pm
+11th Floor Large Conference Room [1135]
+
+I will present a new kind of dependency parsing algorithm: easy first,
+non directional dependency parsing.  This is a greedy, bottom up
+parser, admitting an efficient O(nlogn) implementation.  Unlike
+shift-reduce based greedy parsers, it does not analyze the sentence in
+a fixed sequential order, but instead tries to make easier attachment
+decisions between harder ones.  The parser performs well on both
+Hebrew and English.  I also present evidence that the parsers produces
+qualitatively different parses than either the Malt or the MST
+parsers.  This observation give rise to an intriguing questions: why
+do different parsers produce different parses? can we quantify this
+kind of difference?  In the second part of the talk I will present my
+attempts to answer these kinds of questions.
+

@@ -1,0 +1,52 @@
+Chris Dyer (Carnegie Mellon)
+Generate-and-Test Models for Alignment and Machine Translation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+I discuss translation as an optimization problem subject to
+three kinds of constraints: lexical, configurational, and constraints
+enforcing target-language wellformedness. Lexical constraints ensure
+that the lexical choices in the output are meaning-preserving;
+configurational constraints ensure that the relationships between
+source words and phrases (e.g., semantic roles and modifier-head
+relationships) are properly transformed in translation; and
+target-language wellformedness constraints ensure the grammaticality
+of the output. In terms of the traditional source-channel model of
+Brown et al. (1993), the "translation model" encodes lexical and
+configurational constraints and the "language model" encodes target
+language wellformedness constraints. On the other hand, the
+constraint-based framework suggests a generate-and-test
+(discriminative) model of translation in which features sensitive to
+input and output structures, and the feature weights are trained to
+maximize the (conditional) likelihood of a corpus of example
+translations. The specified features represent empirical hypotheses
+about what variables correlate (but not why) and thus encode
+domain-specific knowledge that is useful for the problem at hand; the
+learned weights indicate to what extent these hypotheses are confirmed
+or refuted.
+
+To verify the usefulness of the feature-based approach, I discuss the
+performance two models: first, a lexical translation model evaluated
+by the word alignments it learns. Unlike previous unsupervised
+alignment models, the new model utilizes features that capture diverse
+lexical and alignment relationships, including morphological
+relatedness, orthographic similarity, and conventional co-occurrence
+statistics. Results from typologically diverse language pairs
+demonstrate that the generate-and-test model provides substantial
+performance benefits compared to state-of-the-art generative
+baselines.  Second, I discuss the results of an end-to-end translation
+model in which lexical, configurational, and wellformedness
+constraints are modeled independently. Because of the independence
+assumptions, the model is substantially more compact than
+state-of-the-art translation models, but still performs significantly
+better on languages where source-target word order differences are
+substantial.
+
+Bio: Chris Dyer is a postdoctoral researcher in Noah Smith's lab in
+the Language Technologies Institute at Carnegie Mellon University. He
+completed his PhD on statistical machine translation with Philip
+Resnik at the University of Maryland in 2010. Together with Jimmy Lin,
+he is author of "Data-Intensive Text Processing with MapReduce",
+published by Morgan & Claypool in 2010. Current research interests
+include machine translation, unsupervised learning, Bayesian
+techniques, and "big data" problems in NLP.

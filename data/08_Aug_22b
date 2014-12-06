@@ -1,0 +1,6 @@
+Amittai Axelrod (UW)
+Intern Final Talk: Structural constraints for efficient decoding.
+3:45 pm - 4:15 pm
+11 Large
+
+String-to-tree machine translation decoders are effective but very slow, especially compared to other decoding approaches.  We explore various methods to identify constraints on the search space, with the aim of improving the efficiency of the syntax-based decoder.

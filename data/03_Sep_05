@@ -1,0 +1,14 @@
+Nishit Rathod and Anish Nair
+Deciphering Hindi Scripts
+3:00 pm - 4:00 pm
+11 Large
+rathod+nair_hindi.pdf.bz2  rathod+nair_hindi.ppt
+A major hurdle in building automated information retrieval systems for
+Hindi text is the lack of an uniform encoding for text representation.
+Standards do exist, but noone seems interested. Every web content
+publisher seems to have their encoding system, making information
+extraction a nightmare. We explore an unsupervised approach to
+convert any given "unknown" encoding to UTF-8, by treating it as a
+decipherment problem. We also study how a little amount of supervision
+can improve decoding accuracy.
+

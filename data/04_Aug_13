@@ -1,0 +1,18 @@
+Deepak Ravichandran
+Randomized algorithms and its application to NLP
+3:00 pm - 4:30 pm
+11 Large
+
+The last decade has seen a plethora of papers in NLP devoted to Machine
+Learning algorithms. However, most of these papers have devoted their
+effort exclusively to improving the system performance on the accuracy
+axis. Most of the sophisticated NLP algorithms are extremely slow and do
+not scale up easily when applied to large amounts of data.
+
+I will talk about the importance of randomized algorithms and their
+potential in speeding up some NLP algorithms. This talk will be a survey
+of some recent advances in Theoretical Computer Science/Math seen with an
+NLP point-of-view. I am not going to present any results. But I am hoping
+that this talk will clarify my thinking process, get feedback from people
+and help me colloborate with others.
+

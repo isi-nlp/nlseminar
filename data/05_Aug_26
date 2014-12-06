@@ -1,0 +1,51 @@
+Fossum, Huang and Zhang
+Summer Student Presentations
+3:00 pm - 4:30 pm
+11 Large
+
+3:00pm  Victoria Fossum (Michigan)
+Exploring the Continuum between Phrase-based and Syntax-based Machine Translation
+
+State-of-the-art statistical machine translation systems use lexical
+phrases as the basic unit of translation.  Phrase-based systems can
+capture those aspects of translation that are sensitive to local context.  
+Syntax-based systems, on the other hand, make use of linguistically
+motivated syntactic structure, can capture long-distance dependencies and
+reorderings, and offer greater generalization in translation rules.  
+However, their performance lags that of phrase-based systems.
+
+Hierarchical phrase-based translation, introduced by [Chiang 05], provides
+an elegant framework for exploring the continuum between phrase-based and
+syntax-based translation.  This system combines the "formal machinery" of
+syntax-based systems without any "linguistic commitment" to a particular
+syntactic structure [Chiang 05].
+
+I will present results from my re-implementation of Chiang's hierarchical
+phrase-based system, and (if time permits) compare those results with the
+following systems on Chinese-English translation: ISI's phrase-based
+system, and ISI's syntax-based system.  Between now and December 2005, I
+plan to incrementally explore the space between phrase-based and
+syntax-based systems by augmenting these hierarchical phrase-based rules
+with richer syntactic annotation.
+
+
+3:30pm  Liang Huang (Penn) and Hao Zhang (Rochester)
+Efficient Integration of n-gram Language Models with Syntax-based Decoding
+
+We first give an overview of the ISI syntax-based MT system which is based
+on tree-to-string (xRs) translation rules. The biggest problem at this
+stage is the inefficiency of the integration of n-gram models.  Without
+n-gram models, the xRs translation rules can be easily binarized with
+respect to the foreign language to ensure cubic-time decoding. With n-gram
+models, however, binarization without considering both languages will lead
+to exponential complexity.
+
+Inspired by Inversion Transduction Grammar (ITG) (Wu, 97), we will focus
+on the so-called ITG binarizable rules which count for over 99% of the
+whole rule set. A simple linear-time algorithm will be presented to do the
+binarization. Decoding with ITG-like rules is of low polynomial complexity
+in both time and space. We will discuss experimental results on both
+efficiency and accuracy of decoding with the new binarization.  If time
+permits, we will also present the "hook trick" (inspired by (Eisner and
+Satta, 99)) to even further reduce the polynomial complexity of the
+decoding process.

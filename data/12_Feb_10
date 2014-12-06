@@ -1,0 +1,44 @@
+Liang Huang
+Efficient Search and Learning for Language Understanding and Translation
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+
+What is in common between translating from English into Chinese and
+compiling C++ into machine code? And yet what are the differences that
+make the former so much harder for computers? How can computers learn
+from human translators?
+
+This talk sketches an efficient (linear-time) "understanding +
+rewriting" paradigm for machine translation inspired by both human
+translators as well as compilers. In this paradigm, a source language
+sentence is first parsed into a syntactic tree, which is then
+recursively converted into a target language sentence via
+tree-to-string rewriting rules. In both "understanding" and
+"rewriting" stages, this paradigm closely resembles the efficiency and
+incrementality of both human processing and compiling. We will discuss
+these two stages in turn.
+
+First, for the "understanding" part, we present a linear-time
+approximate dynamic programming algorithm for incremental parsing that
+is as accurate as those much slower (cubic-time) chart parsers, while
+being as fast as those fast but lossy greedy parsers, thus getting the
+advantages of both worlds for the first time, achieving
+state-of-the-art speed and accuracy. But how do we efficiently learn
+such a parsing model with approximate inference from huge amounts of
+data? We propose a general framework for structured prediction based
+on the structured perceptron that is guaranteed to succeed with
+inexact search and works well in practice.
+
+Next, the "rewriting" stage translates these source-language parse
+trees into the target language. But parsing errors from the previous
+stage adversely affect translation quality. An obvious solution is to
+use the top-k parses, rather than the 1-best tree, but this only helps
+a little bit due to the limited scope of the k-best list. We instead
+propose a "forest-based approach", which translates a packed forest
+encoding *exponentially* many parses in a polynomial space by sharing
+common subtrees. Large-scale experiments showed very significant
+improvements in terms of translation quality, which outperforms the
+leading systems in literature. Like the "understanding" part, the
+translation algorithm here is also linear-time and incremental, thus
+resembles human translation.

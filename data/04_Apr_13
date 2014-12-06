@@ -1,0 +1,29 @@
+Jill Burstein (ETS)
+Automated Essay Evaluation: From NLP research through deployment as a business
+3:00 pm - 4:30 pm
+4 Large
+
+Automated essay scoring was initially motivated by its potential cost
+savings for large-scale writing assessments.  However, as automated essay
+scoring became more widely available and accepted, teachers and assessment
+experts realized that the potential of the technology could go way beyond
+just essay scoring.  Over the past five years or so, there has been rapid
+development, and commercial deployment of automated essay evaluation for
+both large-scale assessment and classroom instruction.  A number of
+factors contribute to an essay score, including varying sentence
+structure, grammatical correctness, appropriate word choice, errors in
+spelling and punctuation, use of transitional words/phrases, and
+organization and development. Instructional software capabilities exist
+that provide essay scores and evaluations of student essay writing in all
+of these domains.  The foundation of automated essay evaluation software
+is rooted in NLP research.  This talk will walk through the development of
+CriterionSM, e-rater, and Critique writing analysis tools, automated essay
+evaluation software developed at Educational Testing Service - from NLP
+research through deployment as a business.
+
+(Preview of an HLT/NAACL-2004 Invited Speaker Presentation)
+
+Jill Burstein
+Educational Testing Service
+Princeton, NJ
+

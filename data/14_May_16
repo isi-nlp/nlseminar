@@ -1,0 +1,39 @@
+Hans Chalupsky (USC/ISI)
+Story-Level Inference to Improve Machine Reading
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Extracting well-defined entities and relations that hold between them from
+unstructured text is an important prerequisite for a variety of tasks such as
+knowledge base population, question answering, data analytics, visualization,
+etc.  The difficulty of this problem is evidenced by the annual TAC-KBP
+evaluations organized by NIST, where the best-performing systems in the
+slot-filling task still only achieve an f-value in the high 30's.  These high
+error rates on individual relations get further compounded once relations
+have to be joined to answer a question.
+
+State-of-the art statistical information extraction techniques focus primarily
+on the phrase and sentence level to extract entities and relations between
+them, and are generally ignorant of the greater context around them.  We
+present a new approach which aggregates locally extracted information into a
+larger story context and uses abductive reasoning to generate the best
+story-level interpretation.  We demonstrate that this approach can
+significantly improve relation extraction and question answering performance
+on complex questions.  We will also describe ongoing work to apply this type
+of inference to the TAC Knowledge Base Population task in order to improve
+relation extraction and coreference resolution.
+
+
+Bio:
+
+Hans Chalupsky is a project leader at the Information Sciences Institute of
+the University of Southern California, where he leads the Loom Knowledge
+Representation and Reasoning Group.  He holds a Master's degree in computer
+science from the Vienna University of Technology, Austria and a Ph.D. in
+computer science from the State University of New York at Buffalo.
+Dr. Chalupsky has over 25 years of experience in the design, development and
+application of knowledge representation and reasoning systems such as
+PowerLoom, and he is the principal architect of the KOJAK Link Discovery
+System.  His research interests include knowledge representation and reasoning
+systems, natural language processing, knowledge and link discovery, anomaly
+detection and semantic interoperability.

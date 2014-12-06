@@ -1,0 +1,35 @@
+Gael Dias (University of Caen Basse-Normandie, France)
+Cross Domain Subjectivity Classification using Multi-View Learning
+4:00 pm - 5:00 pm
+11th Floor Large Conference Room [1135]
+
+In this talk, we will present our research on learning models
+with high cross domain accuracy for subjectivity classification. After a
+small introduction about related works and challenges of sentiment
+analysis, we will start by presenting new features for subjectivity
+analysis. Then, we will present two different paradigms of multi-view
+learning strategies to learn transfer models: multi-view learning with
+agreement and guided multi-view learning. Then, we will present an
+exhaustive evaluation based on both paradigms including two
+states-of-the-art algorithms and show that accuracy over 91% can be
+obtained using three views. In our concluding remarks, we will talk
+about future extensions of the presented methodology. Then, we will
+briefly present the Human Language Technology team of the GREYC
+Laboratory of the University of Caen Basse-Normandie (France) and
+present projects that are being studied ans further prospects.
+
+Biography: Gael Dias is full professor at the University of Caen
+Basse-Normandie (France). His research interests include unsupervised
+methodologies for text mining, information retrieval and text
+summarization. His recent research focuses on Sentiment Analysis,
+Ontology Learning, Lexical Semantics, Web Personalization and
+Collaboration, Temporal Information Retrieval, and Paraphrase Extraction
+and Identification. He has served on program committees of international
+conferences and workshops such as ACL/HLT 2011, COLING 2010, IJCNLP/ACL
+2009, ACL 2007, HLT-NAACL 2007, COLING/ACL 2006 as well as is/was a
+reviewer for Information Processing and Management, IEEE Transactions on
+Audio, Speech and Language Processing, Natural Language Engineering
+Journal, Journal of Language Resources and Evaluation, Journal of
+Computer Speech and Language and  ACM Transactions on Speech and
+Language Processing.
+

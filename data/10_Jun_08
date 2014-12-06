@@ -1,0 +1,9 @@
+Reut Tsarfaty (Uppsala University)
+Morphology in Parsing: A Taxonomy-Based Approach
+10:30 am - 11:30 am
+10th Floor Conference Room [1026]
+
+It has been a prominent empirical fact in the last decade that languages which have properties that are different from those of English, for instance, languages with free word-order and rich morphological structure, do not lend themselves naturally to the application of statistical models developed for processing English. In this talk I focus on the parsing task and based on the kind of correspondence patterns between form and function that characterize richly inflected languages, I aim to identify the properties of models that can successfully cope with parsing such structures. I start by demonstrating complex many-to-many correspondence patterns in Natural Language using data from the Semitic language Modern Hebrew. I review properties of prominent models for morphological analysis (Stump 2001), and isolate the ones that are appropriate for modeling such complex patterns. I then propose to apply the same strategy to the syntactic domain, arguing that this provides not only for a streamlined interface to morphology, but also better yields a better framework for capturing morphosyntactic interactions on the whole. I illustrate this approach via a particular instantiation, the relational-realizational model of (Tsarfaty 2010), applied to parsing Modern Hebrew. I report significant improvements on various measures over competing alternatives and previously reported results. I finally suggest that other modeling frameworks may often be enhanced to cope better with rich morphosyntactic phenomena, by similarly analyzing their underlying properties and enhancing their relational, or realizational, component, accordingly.
+
+Speaker website:
+http://stp.lingfil.uu.se/~tsarfaty/

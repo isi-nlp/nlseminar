@@ -1,0 +1,20 @@
+Hao Zhang (Rochester)
+Lexicalization and A* Searching for Inversion Transduction Grammar
+3:00 pm - 4:30 pm
+4th floor
+
+The Inversion Transduction Grammar (ITG) of \cite{DekaiCL} generates a
+synchronous parse tree for a given pair of sentences in two languages. By
+allowing inversion of the order of children at any level of the
+synchronous parse tree, ITG can do recursive, systematic word reordering.
+We made a version of ITG where the nonterminals are lexicalized by word
+pairs and the inversions are dependent on the so-lexicalized nonterminals.  
+We found out that after lexicalization, the Alignment Error Rate (AER)
+against gold standard is reduced for short sentences. ITG parsing
+complexity is high polynomial. We proposed a pruning techique that
+utilizes IBM Model 1 to estimate the inside and outside probability of a
+bitext cell. Taking a step further, we applied the A* parsing having been
+used for monolingual parsing to ITG.  I will talk about the heuristic
+estimates we used for A* parsing for Viterbi alignment selection and
+decoding.
+

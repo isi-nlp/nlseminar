@@ -1,0 +1,12 @@
+Stephan Gouws (Stellenbosch University)
+Projecting features across domains using deep learning
+3:00 pm - 4:00 pm
+11th Floor Conference Room [1135]
+
+Over the last few years, neural network-based deep-learning models achieved good results in various NLP tasks, such as  language modelling, POS tagging, parsing, chunking, and NER. In contrast to discrete models like HMMs, neural models operate by jointly learning continuous input representations (embeddings), and the model to interpret them. These embeddings represent words and/or phrases in a lower-dimensional, latent, syntactic-semantic space and can often be learned in an unsupervised manner.
+
+We aim to exploit this property of deep learning to transfer knowledge from resource-rich to resource-poor domains. We facilitate the transfer of knowledge by constraining the learned embeddings of both domains to share as much structural similarity as possible. I will discuss preliminary results for noisy text normalization in Twitter, where the task is to transfer the correct clean words from English to the noisy Twitter domain, and review the main deep learning models for NLP (Bengio et al. (2003, Mnih and Hinton (2007), Collobert and Weston (2008), Mikolov et al. (2010), and Socher et al. (2011)).
+
+Bio:
+
+Stephan Gouws is a PhD student at Stellenbosch University in South Africa. He is currently on a short-term visit at the ISI. His main research focus is on developing robust, semi-supervised techniques for processing language in and across noisy domains. In 2011 he was also on a 6-month visit to the ISI during which he worked on orthographic normalization of non-standard Twitter text.

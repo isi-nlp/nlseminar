@@ -1,0 +1,11 @@
+Marc Schulder
+Metaphor Detection through Term Frequency
+3:00 am - 4:00 pm
+11th Floor Conference Room [1135]
+
+Metaphors are used to replace complicated or unfamiliar ideas with familiar, yet unrelated concepts that share an important attribute with the intended idea. The result is a conceptual mapping between metaphoric source and literal target meaning.
+Computational metaphor processing is divided into detection and interpretation.
+To detect metaphors, most existing approaches attempt to identify these conceptual mappings. They require resources for the source (metaphor) as well as the target domain, and a set of defined mappings between the two. Creating these resources is expensive and limits the scope of these systems
+They are also usually restricted to well-observed, conventionalized metaphors, and can not deal with neologisms. Since metaphors are a productive area of language, this is a major shortfall.
+We propose a statistical approach to metaphor detection that utilizes the uncommonness of novel metaphors. Words that do not match a text's typical vocabulary are highlighted as metaphor candidates. No knowledge of semantic concepts or the metaphor's source domain is required for this. We analyze the performance of this approach as an unsupervised standalone classifier and as a feature in a supervised graphical model.
+

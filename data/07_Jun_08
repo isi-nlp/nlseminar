@@ -1,0 +1,30 @@
+Liang-Chih Yu (Cheng Kung U)
+Topic Analysis for Psychiatric Document Retrieval (Practice Talk for ACL)
+3:00 pm - 3:30 pm
+11 Large
+
+Psychiatric document retrieval attempts to help people to efficiently
+and effectively locate the consultation documents relevant to their
+depressive problems. Individuals can understand how to alleviate their
+symptoms according to recommendations in the relevant documents. This
+work proposes the use of high-level topic information extracted from
+consultation documents to improve the precision of retrieval
+results. The topic information adopted herein includes negative life
+events, depressive symptoms and semantic relations between symptoms,
+which are beneficial for better understanding of users'
+queries. Experimental results show that the proposed approach achieves
+higher precision than the word-based retrieval models, namely the
+vector space model (VSM) and Okapi model, adopting word-level
+information alone.  
+
+About the speaker:
+
+Liang-Chih Yu (<a href=http://www.isi.edu/~liangchi>http://www.isi.edu/~liangchi</a>) is
+now a visiting student in the Information Sciences Institute (ISI) of
+University of Southern California (USC). My host advisor is Dr. Eduard
+Hovy. I am also a PhD candidate in the Department of Computer Science
+and Information Engineering, National Cheng Kung University, Tainan,
+Taiwan. My advisor is Dr. Chung-Hsien Wu. My research interests
+include natural language processing, text mining, information
+retrieval, ontology construction, spoken dialogue system. 
+

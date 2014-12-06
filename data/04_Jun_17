@@ -1,0 +1,25 @@
+Marcello Federico
+Statistical Machine Translation at ITC-irst
+3:00 pm - 4:30 pm
+4th Floor
+
+My presentation will overview recent activities on Chinese-English SMT
+carried out at ITC-irst (Trento, Italy).  After an overview of the
+complete architecture of our system, I will focus on progress made in
+Chinese word-segmentation, phrase-based modeling and decoding, log-linear
+modeling and minimum error training, and language model adaptation.
+Experimental results will be provided in terms of Bleu and Nist scores on
+two translation tasks:  basic traveling expressions and news reports,
+respectively adopted by the C-STAR consortium and for the 2002 and 2003
+NIST MT evaluation campaigns.
+
+Bio:
+
+Marcello Federico has been a permanent researcher at ITC-irst since 1991.  
+During 1998-2003, he led the "Multilingual natural speech technologies"
+(MUNST)  research line at ITC-irst.  Since 2004, he is head of the
+"Cross-language information processing" (Hermes) research line. His
+interests include automatic speech recognition, statistical language
+modeling, information retrieval, and machine translation.
+
+

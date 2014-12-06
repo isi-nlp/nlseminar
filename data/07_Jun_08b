@@ -1,0 +1,17 @@
+Jonathan May
+Bisimulation Minimisation for Weighted Tree Automata
+3:30 pm - 4:00 pm
+11 Large
+
+We describe existing forward and backward bisimulation minimisation
+algorithms for nondeterministic automata and extend these algorithms
+to weighted tree automata. The extended algorithms, which work for all
+semirings, retain the time complexity of their counterparts for
+unweighted tree automata for additively cancellative semirings, and
+are only slightly higher (linear instead of logarithmic in the number
+of states) on other semirings. We describe the effectiveness of an
+implementation of these algorithms on a typical task in natural
+language processing. 
+
+This is joint work with Johanna Hogberg, Umea University and Andreas
+Maletti, Technische Universitat Dresden.

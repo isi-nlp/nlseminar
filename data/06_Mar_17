@@ -1,0 +1,25 @@
+Jonathan May
+Tiburon: A Finite State Tree Automata Toolkit
+3:00 pm - 4:30 pm
+4th Floor
+
+In the 1990s, researchers applied their new developments in transducer
+theory using widely available easy-to-use toolkits for string transducers,
+and made well-known advances in parsing, machine translation, and other
+areas. Rapid prototyping via software such as the AT&T toolkit and carmel
+was useful for proofs of concept and in many cases led to unforseen
+developments in novel areas. In the current nlp research environment tree
+based strategies and new models have shown promising results in advancing
+the state of the art, and recent developments in weighted tree automata
+theory are enriching the bedrock created 40 years ago, but as of yet there
+is no toolkit available with the necessary capabilities to turn promise
+into solution.
+
+Tiburon is the first probablistic tree transducer toolkit. Similar in form
+and function to the string-based toolkits of yesteryear, it is designed to
+be easy to use, with simple but expressive definitions of tree automata
+and a concise set of vital operations that can be used to construct many
+useful tree-based nlp projects. Although a work in progress, Tiburon is
+already a usable tool with active users between the ages of 6 and 41. I
+will describe the current status of the system, demonstrate ease of use
+and potential power, and discuss the challenges ahead.

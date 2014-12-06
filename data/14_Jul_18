@@ -1,0 +1,11 @@
+Jonathan May (USC/ISI)
+An Arabizi-English Social Media Statistical Machine Translation System
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+We present a machine translation engine that can translate romanized Arabic, often known as Arabizi, into English. With such a system we can, for the first time, translate the massive amounts of Arabizi that are generated every day in the social media sphere but until now have been uninterpretable by automated means. We accomplish our task by leveraging a machine translation system trained on non-Arabizi social media data and a weighted finite-state transducer-based Arabizi-to-Arabic conversion module, equipped with an Arabic character-based n-gram language model. The resulting system allows
+high capacity on-the-fly translation from Arabizi to English. We demonstrate via several experiments that our performance is quite close to the theoretical maximum attained by perfect deromanization of Arabizi input. This constitutes the first presentation of an end-to-end social media Arabizi-to-English translation system.
+
+
+bio: 
+Jonathan May is a computer scientist at USC-ISI, where he also received a PhD in 2010. His current focus areas are in machine translation, machine learning, and natural language understanding. Jonathan co-developed and patented a highly portable method for optimizing thousands of features in machine translation systems that has since been incorporated into all leading open source MT systems. He has previously worked in automata theory and information extraction and at SDL Language Weaver and BBN Technologies.

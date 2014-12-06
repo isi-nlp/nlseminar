@@ -1,0 +1,19 @@
+Robert Krovetz (Ask Jeeves)
+More than One Sense Per Discourse
+3:00 pm - 4:30 pm
+11 Large
+
+    Previous research has indicated that when a polysemous word appears two
+    or more times in a discourse, it is extremely likely that they will all
+    share the same sense (Gale et al. 92). However, those results were
+    based on a coarse-grained distinction between senses (e.g, {\em
+    sentence} in the sense of a `prison sentence' vs. a `grammatical
+    sentence'). I conducted an analysis of multiple senses within two
+    sense-tagged corpora, Semcor and DSO. These corpora used WordNet for
+    their sense inventory. I found significantly more occurrences of
+    multiple-senses per discourse than reported in (Gale et al. 92) (33\%
+    instead of 4\%). I also found classes of ambiguous words in which as
+    many as 45\% of the senses in the class co-occur within a document. I
+    will discuss the implications of these results for the task of 
+    word-sense tagging and for the way in which senses should be  
+    represented.

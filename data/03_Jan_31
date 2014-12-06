@@ -1,0 +1,24 @@
+Philipp Koehn
+Noun Phrase Translation
+3:00 pm - 4:00 pm
+11 Large
+
+I will give a status report on my current thesis work on
+noun phrase translation. The motivation of this work is
+to break up the machine translation problem into smaller,
+more manageable units. The treatment of noun phrase translation
+as a subtask of machine translation is both linguistically
+and empirically motivated. My approach is to generate 
+a n-best list of candidate translations with a statistical 
+machine translation system and rerank the candidates with
+additional features. For about 90% of all noun phrases we
+can find an acceptable translation in the 100-best list, while 
+an acceptable translation comes out on the very top for only 
+about 60% of the noun phrases. I will discuss a variety of 
+linguistic and empirical features that (may) help to move 
+the acceptable translations higher in the list. I will also
+present results modeling issues such as phrase based 
+translation and compound splitting. This talk is also 
+intended as a fishing expedition for feature suggestions by
+the audience.
+

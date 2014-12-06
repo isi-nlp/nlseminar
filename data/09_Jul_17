@@ -1,0 +1,37 @@
+Paramveer Dhillon (Penn)
+Transfer Learning for WSD & Non-local constraints for Named Entity Recognition
+3:00 pm - 4:00 pm
+11 Large
+
+This talk will be divided into two parts. In the first part I will
+talk about using Transfer Learning techniques to improve the task of
+Word Sense Disambiguation (WSD).
+Usually in supervised WSD, we suffer due to paucity of labeled data as
+there are some words that occur less frequently in the data and its
+very difficult to get enough labeled data for these words. In such
+cases it is very difficult to build high accuracy supervised learning
+models for these words. So, we propose an approach called TransFeat
+(based on the MDL principle) which ``transfers information", from
+similar words in the form of a feature relevance prior to get improved
+accuracies on these rare words. Besides this, our experiments show
+that we also get decent improvement in accuracy for words that have
+more amount of labeled data available. TransFeat gives accuracies that
+are in the worst case comparable to state-of-the-art on ONTONOTES and
+SENSEVAL-2 datasets.
+
+In the second part of the talk I will talk about incorporating
+non-local constraints in Named Entity Recognition (NER) systems. The
+main idea is that some linguistic constraints (e.g. every occurrence
+of the word ``Einstein" in the data should have the tag PER
+i.e. person ) are very useful and can give improved performance but
+they are non - local and hence are intractable and can not be
+efficiently modeled using state-of-the-art sequence modeling methods
+like CRFs. Though people have used Skip-chain CRFs (with Loopy
+BP)(Sutton and McCallum '04) and Gibbs Sampling (Finkel and Manning
+'05) to enforce these non-local constraints, but they turn out to be
+really inefficient and custom-tailored to one particular kind of
+constraints (say) consistency constraints of the type mentioned
+above. We propose a constrained version of EM in which a general set
+of constraints (not limited to consistency constraints!) can be
+incorporated into the model. In the end I will show some results of
+this approach on CoNLL 03 English and CoNLL 02 Spanish NER shared tasks.

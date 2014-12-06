@@ -1,0 +1,11 @@
+Steve DeNeefe (practice job talk)
+Tree Adjoining Machine Translation
+4:30 pm - 5:30 pm
+11th Floor Large Conference Room [1135]
+
+Tree adjoining grammars (TAGs) have greater linguistic expressiveness than the tree substitution grammars used in many natural language tasks, but are typically considered too complex or computationally expensive for practical systems.  Many current statistical machine translation (MT) models use tree substitution to memorize sequences of words or constituents, specifying exactly what phrases to use or exactly what trees are grammatical.  Adding the operation of tree adjoining provides the freedom to splice additional information into an existing grammatical tree.  An adjoining translation model allows general, linguistically-motivated translation patterns to be learned without the clutter of endless variations of optional material.  The appropriate modifiers, such as adjectives, adverbs, and prepositional phrases, can later be grafted in as needed to translate details.  We show that the increased generalization power provided by adjoining, when used carefully, improves MT quality without becoming computationally intractable.
+
+In this talk, we describe challenges encountered by phrase-based and syntax-based MT systems today, and present an in-depth, quantitative comparison of both models.  Then, we describe a novel model for statistical MT which addresses these challenges using a synchronous tree adjoining grammar.  We introduce a method of converting these grammars to a weakly equivalent tree transducer for decoding.   Then we present a method for learning the rules and associated probabilities of this grammar from aligned tree/string training data.
+
+Finally, our results show that adjoining delivers a consistent improvement over a baseline statistical syntax-based MT model on both medium and large-scale MT tasks using several language pairs.
+

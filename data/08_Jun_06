@@ -1,0 +1,6 @@
+Tom Murray (USC)
+Knowledge as a Constraint on Uncertainty for Unsupervised Classification
+3:00 pm - 4:00 pm
+11 Large
+
+This talk investigates the use of domain knowledge to constrain and improve the unsupervised learning of a classifier, by placing limits or biases on the possible hypotheses for each input. Theoretically, we view the contribution of the knowledge source as a reduction in the uncertainty of the model's decisions, quantified by the resulting conditional entropy of the label distribution given the input corpus. Evaluating on the simple case of an unsupervised HMM tagger, we find surprising levels of improvement from little knowledge, with more stable and efficient training convergence and label assignment, and a high degree of correlation between classification entropy and model performance. We conclude that, while we should always seek better generic models and techniques, for applications in an unsupervised setting, knowledge may still be key.

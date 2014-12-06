@@ -1,0 +1,6 @@
+Jonathan May
+Weighted Tree Automata and Transducers for Syntactic Natural Language Processing (Ph.D. Defense practice talk)
+4:00 pm - 5:00 pm
+11th Floor Large Conference Room [1135]
+
+Weighted finite-state string transducer cascades are a powerful formalism for models of solutions to many natural language processing problems such as speech recognition, transliteration, and translation. Researchers often directly employ these formalisms to build their systems by using toolkits that provide fundamental algorithms for transducer cascade manipulation, combination, and inference. However, extant transducer toolkits are poorly suited to current research in NLP that makes use of syntax-rich models. More advanced toolkits, particularly those that allow the manipulation, combination, and inference of weighted extended top-down tree transducers, do not exist. In large part, this is because the analogous algorithms needed to perform these operations have not been defined. This thesis solves both these problems, by describing and developing algorithms, by producing an implementation of a functional weighted tree transducer toolkit that uses these algorithms, and by demonstrating the performance and utility of these algorithms in multiple empirical experiments on machine translation data.

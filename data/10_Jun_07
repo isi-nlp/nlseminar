@@ -1,0 +1,15 @@
+Mark Johnson (Macquarie University)
+"Bayesian models of language acquisition" or "Where do the rules come from?"
+2:00 pm - 3:00 pm
+11th Floor Large Conference Room [1135]
+
+Each human language contains an astronomically large (if not unbounded) number of different sentences.  How can something so large and complex possibly be learnt?  Over the past decade and a half we've figured out how to define probability distributions over grammars and the linguistic structures they generate, opening up the possibility of Bayesian models of language acquisition.  Bayesian approaches are particularly attractive because they can exploit "prior" (e.g., innate) knowledge as well as statistical generalizations from the input.  This opens the possibility of an empirical evaluation of the utility of various kinds of innate knowledge.  Structured statistical learners have two major advantages over other approaches.  First, because the generalizations they learn and the prior knowledge they utilize are both expressed in terms of explicit linguistic representations, it is clear what is learnt and what information is exploited during learning.  Second, because of the "curse of dimensionality", learners that identify and exploit structural properties of their input seem to be the only ones that have a chance of "scaling up" to learn real languages.  This talk describes Bayesian methods for learning Context-Free Grammars and a generalization of them that we call Adaptor Grammars, and applies them to problems of morphological acquisition and word segmentation.
+
+Joint work with Tom Griffiths (Berkeley) and Sharon Goldwater (Edinburgh)
+
+
+Speaker Bio:
+
+Mark Johnson is a Professor of Language Science (CORE) in the Department of Computing at Macquarie University. He was awarded a BSc (Hons) in 1979 from the University of Sydney, an MA in 1984 from the University of California, San Diego and a PhD in 1987 from Stanford University. He held a postdoctoral fellowship at MIT from 1987 until 1988, and has been a visiting researcher at the University of Stuttgart, the Xerox Research Centre in Grenoble, CSAIL at MIT and the Natural Language group at Microsoft Research. He has worked on a wide range of topics in computational linguistics, but his main research area is parsing and its applications to text and speech processing. He was President of the Association for Computational Linguistics in 2003, and was a professor from 1989 until 2009 in the Departments of Cognitive and Linguistic Sciences and Computer Science at Brown University. 
+
+Professor Johnson's research area is computational linguistics, i.e., explicit computational models of language acquisition, comprehension and production. His recent work has focused on probabilistic models for syntactic parsing (identifying the way words combine to form phrases and sentences) and semantic interpretation, and on Bayesian models of the acquisition of phonology, morphology and the lexicon.

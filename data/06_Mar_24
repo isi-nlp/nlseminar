@@ -1,0 +1,29 @@
+Dragos Munteanu
+Automatic creation of parallel corpora
+3:00 pm - 4:30 pm
+11 Large
+
+Parallel texts -- texts that are translations of each other -- are an
+important resource in many cross-lingual NLP applications, such as lexical
+acquisition, cross-language IR, and annotation projection. However, their
+importance is paramount for Statistical Machine Translation (SMT), as they
+provide the training data from which all the translation knowledge is
+learned. The state of the art in SMT is advanced enough that, given
+sufficient parallel data (i.e. a few million words) for any language pair
+in a given domain, a generic SMT system trained on it will achieve a
+reasonable translation performance in that domain. The main reason why SMT
+systems exist only for a handful of languages is that, for most language
+pairs, parallel training data is simply not available.
+
+One way to alleviate this lack of parallel data is to exploit a much
+richer and more diverse resource: comparable corpora, texts which are not
+strictly parallel but related. The prototypical example of comparable
+texts are two news articles in different languages which report on the
+same event. I will present methods for automatic extraction of parallel
+data from such corpora. I will show how to detect parallel data at various
+levels of granularity: parallel documents, parallel sentences, and even
+parallel sub-sentence fragments. The parallel corpora obtained using these
+methods help improve translation performance for both resource-scarce
+language pairs (such as Romanian-English) and resource-rich ones (such as
+Arabic-English).
+

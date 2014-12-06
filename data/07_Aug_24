@@ -1,0 +1,25 @@
+Wei Ho (Princeton) <br> Jennifer Gillenwater (Rice)
+Summer Intern Presentations: Noisy Language Models AND Context for Syntax-Based Translation Rules
+3:30 pm - 5:00 pm
+11 Large
+
+Noisy Language Models
+
+The language models used in statistical machine translation are often
+quite large, requiring significant memory and sometimes pre-processing
+in order to be utilized effectively. It would be desirable to have a
+more compact representations of language models while minimizing the
+impact on translation quality. Various quantization methods and lossy
+storage of language models will be presented.
+
+Context for Syntax-Based Translation Rules
+
+The rules that a translation system employs should be applicable in
+many contexts.  This ensures that a rich language is expressible with
+a minimum number of rules.  However, when rules that are applicable in
+too many contexts are combined, they result in nonsensical
+translations.  How can we keep rules general but constrain the context
+of their use?  This summer we explored the approach of constraining
+the context by conditioning on various neighboring elements of each
+rule. 
+

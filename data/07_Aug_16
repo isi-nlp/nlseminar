@@ -1,0 +1,44 @@
+Anoop Sarkar (Simon Fraser)
+Extensions of Regular Tree Grammars and their relation to Tree Adjoining Grammars
+3:00 pm - 4:30 pm
+11 Large
+
+There is a hierarchy of generative devices that generate trees:
+starting with regular tree languages (RTLs), which are contained
+within context-free tree languages (CFTLs), and so on.  The string
+yield of the RTLs is exactly the set of Context-Free Languages,
+while the yield of the CFTLs is exactly the set of Indexed Languages.
+In this talk we introduce Adjoining Tree Languages (ATLs) which sit
+in between RTLs and CFTLs.
+
+The yield of ATGs is exactly the set of Tree-Adjoining Languages.
+Just like RTGs are stronger than CFGs, ATGs are stronger than TAGs.
+In addition we will show that the ATG notation simplifies many of
+the foundational proofs for TAGs including proofs of the closure
+properties. In particular, ATLs do not use adjunction constraints,
+and thus are much easier to understand than TAGs.
+
+We compare ATGs with previously proposed simplifications of CFTGs,
+called monadic simple CFTGs, which also have been shown to be weakly
+equivalent to TAG (i.e. they generate the same set of string
+languages). We consider the question of whether these two weakly
+equivalent formalisms are strongly equivalent (i.e. generate exactly
+the same set of tree languages).
+
+Finally, we will show that the standard definition used for
+probabilistic TAG is (surprisingly) very different from the natural
+definition of probabilistic ATL. Using an example of PP-attachment
+ambiguity we show that the two probabilistic models are different
+from each other. 
+
+About the speaker:
+
+Anoop Sarkar is an assistant professor in the Department of Computing
+Science at Simon Fraser University. He received his PhD in 2002
+from the Department of Computer and Information Science at the
+University of Pennsylvania, with Prof. Aravind Joshi as his advisor.
+His research work is on machine learning, especially semi-supervised
+learning, applied to the processing of natural language and stochastic
+formal grammars.
+
+Anoop Sarkar's web-page: <a href=http://www.cs.sfu.ca/~anoop/> http://www.cs.sfu.ca/~anoop</a>

@@ -1,0 +1,15 @@
+Aram Galstyan (USC/ISI)
+Deciphering Social Interactions from Text
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Studies of social systems have traditionally focused on analyzing various structural properties of networks induced by social communication, while ignoring the content of communication. Despite recent advances, language-based analysis of social processes is still a challenging problem due to the lack of sound mathematical frameworks and adequate computational methods for extracting and analyzing useful social signals from unstructured text. 
+
+
+Here I will describe our recent work on content-based analysis of social interactions, which involves two main steps: (a) Embedding communication content in an abstract content space, so that a sequence of textual exchanges is represented as trajectories in this space; and (b) Applying tools from information theory and dynamical systems to discover and characterize directional correlations among those trajectories. I will briefly describe the main elements of the technical approach, and demonstrate the usefulness of the proposed framework on two case studies: content-based characterization of social influence, and stylistic coordination in dialogues.
+
+
+Bio:
+
+
+Aram Galstyan is a Project Leader at the USC Information Sciences Institute and a Research Assistant Professor at the USC Computer Science Department. His current research focuses on characterizing and predicting behavior of dynamic networks using information–theoretic concepts. His other research interests include developing statistical–physics based approaches for understanding fundamental limits of various inference algorithms and characterizing the performance of those algorithms with respect to stability and robustness.

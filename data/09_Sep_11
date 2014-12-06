@@ -1,0 +1,20 @@
+David Chiang 
+Tutorial on HPC
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+This tutorial will be a short introduction to using the Linux cluster at 
+USC's High-Performance Computing (HPC) facility. Topics will include:
+    (1) basics of starting jobs on the cluster using Torque/PBS,
+    (2) dealing with common problems like jobs not starting or 
+spontaneously dying,
+    (3) maximizing the performance of your jobs (both yours and other 
+people's), e.g., using the correct filesystem and tuning it for better speed, 
+    (4) embarrassingly parallel processing and poor-man's workflows.
+
+It will NOT cover 
+    Hadoop,
+    MPI,
+    real workflow management tools like Condor.
+
+

@@ -1,0 +1,34 @@
+Yutaka Sasaki (ATR)
+Research Activities in Speech Translation at ATR/QA as Question-Biased Term Extraction
+3:00 pm - 4:30 pm
+11 Large
+
+This talk has two parts. In the first part, I will introduce research
+activities in Speech-to-Speech Translation at ATR, including on-going
+research on statistical machine translation. In the second part, I will
+present a new approach to QA named Question-Biased Term Extraction (QBTE).
+The QBTE directly extracts answers as terms biased by the question. To
+confirm the feasibility of our QBTE approach, we conducted experiments on
+the CRL QA Data based on 10-fold cross validation, using Maximum Entropy
+Models as an ML technique. Experimental results showed that the trained
+system achieved approximately 0.35 in MRR and 50% in TOP5 accuracy. This
+part is an English version of my presentation given in IPSJ SIGNL-163 in
+2004 in Japanese. If time allows, I would like to introduce the NTCIR-5
+(2004/2005) Cross-Lingual QA task (CLQA) that I am going to organize.
+
+About the speaker:
+
+Yutaka Sasaki received his Ph.D. in Engineering from the University of
+Tsukuba, Japan in 2000 for his work on generating Information Extraction
+rules with hierarchically sored Inductive Logic Programming. He joined NTT
+Laboratories in 1988. Since then, he was involved in research in
+rule-based CAI, inductive logic programming, Information Extraction, and
+Question Answering. From 1995 to 1996, he spent one year at Simon Fraser
+University, Canada as a visiting researcher. From 1999, he led a subgroup
+to develop the first practical Japanese Question Answering System SAIQA.
+Then, he applied SVMs to automatically construct the QA system SAIQA-II
+from QA and NE data. In June 2004, he moved to ATR Spoken Language
+Translation Research Laboratories. Currently, he is the head of Department
+of Natural Language Processing. He is also an organizer of the NTCIR 5
+Cross-Lingual Question Answering Task.
+

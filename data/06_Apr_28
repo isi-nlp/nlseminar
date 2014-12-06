@@ -1,0 +1,25 @@
+Feng Pan
+Learning Event Durations from Event Descriptions
+3:00 pm - 4:30 pm
+11 Large
+
+The research of extracting event duration information from texts is 
+potentially very important in applications in which the time course of 
+events is to be extracted from news.  For example, whether two events 
+overlap or are in sequence often depends very much on their durations.  If 
+a war started yesterday, we can be pretty sure it is still going on today. 
+If a hurricane started last year, we can be sure it is over by now.
+
+In the talk, I will first present our work on constructing an annotated 
+corpus for extracting information about the typical durations of events 
+from texts, including the annotation guidelines, the event classes we 
+categorized, the way we use normal distributions to model such vague and 
+implicit temporal information, and how we evaluate inter-annotator 
+agreement. I will then show that machine learning techniques applied to 
+this data yield coarse-grained event duration information, considerably 
+outperforming a baseline and approaching human performance.
+
+At the beginning of the talk, I will also give a brief overview of the 
+time ontology (OWL-Time, formerly DAML-Time) we have developed, which is 
+represented in both first-order logic and the OWL web ontology language.
+

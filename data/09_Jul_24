@@ -1,0 +1,39 @@
+Adam Pauls (UC Berkeley) <br> Ulf Hermjakob
+Practice talks for EMNLP
+3:00 pm - 4:15 pm
+11 Large
+
+
+K-Best A* Parsing (Adam Pauls)
+
+A* parsing makes 1-best search efficient by
+suppressing unlikely 1-best items. Existing k-
+best extraction methods can efficiently search
+for top derivations, but only after an exhaus-
+tive 1-best pass. We present a unified algo-
+rithm for k-best A* parsing which preserves
+the efficiency of k-best extraction while giv-
+ing the speed-ups of A* methods. Our algo-
+rithm produces optimal k-best parses under the
+same conditions required for optimality in a
+1-best A* parser. Empirically, optimal k-best
+lists can be extracted significantly faster than
+with other approaches, over a range of gram-
+mar types.
+
+------------------------------------------
+
+Improved Word Alignment with Statistics and Linguistic Heuristics (Ulf Hermjakob)
+
+We present a method to align words in a bitext that combines elements
+of a traditional statistical approach with linguistic knowledge.
+We demonstrate this approach for Arabic-English, using an alignment
+lexicon produced by a statistical word aligner, as well as linguistic
+resources ranging from an English parser to heuristic alignment rules
+for function words. These linguistic heuristics have been generalized
+from a development corpus of 100 parallel sentences.
+Our aligner, UALIGN, outperforms both the commonly used GIZA++ aligner
+and the state-of-the-art LEAF aligner on F-measure and produces
+superior scores in end-to-end statistical machine translation,
++1.3 BLEU points over GIZA++, and +0.7 over LEAF.
+

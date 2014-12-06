@@ -1,0 +1,13 @@
+Dirk Hovy (University of Copenhagen)
+Two ways to deal with annotation bias
+3:30 pm - 4:30 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: In NLP, we rely on annotated data to train models. This implicitly assumes that the annotations represent the truth. However, this basic assumption can be violated in two ways: either because the annotators exhibit a certain bias (consciously or subconsciously), or because there simply is not one single truth. In this talk, I will present approaches to deal with both problems.
+In the case of biased annotators, we can collect multiple annotations and use an unsupervised item-response model to infer the underlying truth and the reliability of the individual annotators. We present a software package, MACE (Multi-Annotator Competence Estimation) with considerable improvements over standard baselines both in terms of predicted label accuracy and estimates of trustworthiness, even under adversarial conditions. Additionally, we can trade precision for recall, achieving even higher performance by focusing on the instances our model is most confident in.
+In the second case, where not a single truth exists, we can collect information about easily confused categories and incorporate this knowledge into the training process. We use small samples of doubly annotated POS data for Twitter to estimate annotation reliability and show how those metrics of likely inter-annotator agreement can be implemented in the loss functions of structured perceptron. We find that these cost-sensitive algorithms perform better across annotation projects and, more surprisingly, even on data annotated according to the same guidelines. Finally, we show that these models perform better on the downstream task of chunking.
+
+Bio:
+Dirk Hovy is a postdoc in the Center for Language Technology at the University of Copenhagen, working with Anders Søgaard on improving analysis of low-resource languages. Their recent paper on POS tagging with inter-annotator agreement won the best paper award at EACL 2014.
+Dirk received his PhD from the University of Southern California (USC), where he was working at the Information Sciences Institute (ISI) on unsupervised relation extraction. He has a background in socio-linguistics and worked on unsupervised and semi-supervised models for relation extraction, temporal links, and WSD, as well as annotator assessment. He is interested in the "human" aspects of NLP, i.e., the individual bias people have when producing or annotating language, and how it affects NLP applications.
+His other interests include cooking, cross-fit, and medieval art and literature.

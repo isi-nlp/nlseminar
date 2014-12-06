@@ -1,0 +1,11 @@
+Soo-Min Kim
+Identifying and Analyzing Judgment Opinions
+3:00 pm - 4:30 pm
+11 Large
+
+In this talk, we introduce a methodology for analyzing judgment opinions.
+We define a judgment opinion as consisting of a valence, a holder, and a
+topic. We decompose the task of opinion analysis into four parts: 1)
+recognizing the opinion; 2) identifying the valence; 3)  identifying the
+holder; and 4) identifying the topic. We evaluate our methodology using
+both intrinsic and extrinsic measures.

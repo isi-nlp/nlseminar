@@ -1,0 +1,25 @@
+Markus Dreyer (SDL)
+An open-source toolkit for the representation, manipulation and optimization of weighted hypergraphs
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Weighted hypergraphs arise naturally in parsing, syntax-based machine
+translation and other tree-based NLP models, as well as in weighted
+logic programming.
+
+We present an open-source toolkit for the representation and
+manipulation of weighted hypergraphs. It provides hypergraph data
+structures and algorithms, such as the shortest path and
+inside-outside algorithms, composition, projection, and more. In
+addition, it provides functionality to optimize hypergraph feature
+weights from training data. We model finite-state machines as a
+special case. We give a tutorial on hypergraphs and the hypergraph
+toolkit and explain how you can use these tools in your research.
+
+This is joint work with Jonathan Graehl.
+
+Bio: Markus Dreyer is a Senior Research Scientist at SDL Language
+Weaver. His research focuses on algorithms and machine learning
+techniques for large-scale machine translation and NLP. He received
+his PhD in Computer Science from Johns Hopkins University, advised by
+Jason Eisner. For more information, see http://goo.gl/d6mHUi.

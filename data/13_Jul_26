@@ -1,0 +1,8 @@
+Fabienne Braune (University of Stuttgart)
+Multi bottom-up tree transducers in statistical machine translation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+After a brief overview of applications of tree transducers in statistical machine translation, we introduce multi bottom-up tree transducers (XMBOT).
+We then present a complete translation system integrating XMBOT. The two main components of our pipeline are (a) rule extraction and (b) decoding. We begin by presenting the extraction of XMBOT rules from an aligned and bi-parsed parallel corpus. In a second step, we introduce our XMBOT decoder which is an adaptation of the syntax-based component of the Moses open-source MT toolkit to handle XMBOT rules. We end this talk with an evaluation of our system on the WMT 2009 English-to-German translation task.
+

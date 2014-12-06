@@ -1,0 +1,48 @@
+Paul Kingsbury (Penn)
+PropBank: the next stage of Treebank <b>and</b><br>Inducing a Chronology of the Pali Canon
+3:00 pm - 4:30 pm
+11 Large
+
+PropBank: the next stage of Treebank
+
+Natural-language engineers the world over are coming to a consensus that a
+degree of semantic knowledge is a necessary addition to purely structural
+representations of language.  This talk describes the Propbank project at
+Penn, which provides a complete shallow semantic parse of the Treebank II
+corpus.
+
+Inducing a Chronology of the Pali Canon:
+
+Works such as Kroch (1989), Taylor (1994) and Han (2000) have demonstrated
+that syntactic change can be described mathematically as the competition
+between innovating and archaic formations.  This paper demonstrates how
+this same mathematical description can be turned around to predict the
+date of a historical text.  The Middle Indic period showed dramatic change
+in the morphological system, such as the collapse of the past-tense verbal
+system.  Whereas Sanskrit had three competing formations, each with
+multiple possible morphological realizations, Pali (a Middle Indo-Aryan
+language) had only a single formation, based mostly on the sigmatic aorist
+although many archaic nonsigmatic aorists are also attested.  The
+proportions of the archaic and innovative forms can be easily calculated
+for each text in the Pali Canon and these proportions used to assign an
+approximate date for each text.  The accuracy of the method can be
+assessed qualitatively by comparing the derived chronology to chronologies
+based on various non-linguistic criteria, or quantitatively by comparing
+the derived chronology to a known dating scheme.  For the latter it is
+necessary to turn to a different dataset, such as that describing the rise
+of do-support in Early Modern English, as described in Ellegard (1953) and
+Kroch (1989).
+
+Bio:
+
+Paul Kingsbury graduated summa cum laude in linguistics from Ohio State
+University in 1993 with a thesis on "Some sources for L-words in
+Sanskrit".  He subsequently entered the University of Pennsylvania to
+study historical linguistics and Sanskrit, but (like most historical
+students) was diverted to computational issues.  He joined the Propbank
+project in 2000 and soon thereafter engineered a major rethinking of the
+methods and goals of the project, in order to make the annotation
+linguistically meaningful.  He completed his doctorate in 2002 with a
+thesis entitled 'The Chronology of the Pali Canon: the case of the
+aorist'.
+

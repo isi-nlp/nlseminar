@@ -1,0 +1,29 @@
+Alex Fraser and Franz Och
+JHU MT Workshop
+3:00 pm - 4:00 pm
+11 Large
+fraser_mt.pdf.bz2
+We will present the results of the 2003 Johns Hopkins University
+Summer Workshop on "Syntax for Statistical Machine Translation".
+
+We will describe a large effort to extend a high-performing
+phrase-based MT system as baseline by adding new features representing
+syntactic knowledge that deal with specific problems of the underlying
+baseline. We investigate a broad range of possible feature functions,
+from very simple binary features to sophisticated tree-to-tree
+translation models. Simple feature functions test if a certain
+constituent occurs in the source and the target language parse
+tree. More sophisticated features will be derived from an alignment
+model where whole sub-trees in source and target can be aligned node
+by node. We present results on the Chinese-English large data track of
+the recent TIDES MT evaluations.
+
+This is joint work with the other workshop team members: Daniel
+Gildea, Anoop Sarkar, Sanjeev Khudanpur, Kenji Yamada, Libin Shen,
+Shankar Kumar, David Smith, Viran Jain, Katherine Eng, Jin Zhen and
+Dragomir Radev.
+
+See <a
+href="http://www.clsp.jhu.edu/ws03/groups/translate/">http://www.clsp.jhu.edu/ws03/groups/translate/</a>
+for more.
+

@@ -1,0 +1,25 @@
+Beata Klebanov (Hebrew U)
+Experimental and Computational Investigation of Lexical Cohesion in Texts
+3:00 pm - 4:30 pm
+11 Large
+
+Lexical cohesion refers to structure created in a text by use of words with
+related meanings. Apart from its importance in theoretical and applied
+linguistics, lexical cohesion detection is used in NLP tasks like topic
+segmentation, extractive summarization, spelling correction, etc.  However, the
+intuitive potential of lexical cohesion for such tasks is often not realized in
+practice, possibly due to shortcomings of detection algorithms.
+
+I will briefly describe an experiment with readers aimed at providing reliable
+data for a computational investigation of lexical cohesion. We then discuss a
+number of informative features for cohesion detection, drawing on sources like
+WordNet, distributional information, free associations, and the structure of
+information in  the text itself.  Finally, I report experiments 
+with supervised learning of lexical cohesion. 
+
+About the speaker:
+
+Beata Beigman Klebanov is a PhD candidate at the Hebrew University of Jerusalem,
+Israel, currently a visiting scholar at Northwestern University. Beata's 
+interests are in experimental, computational and applied research in text
+pragmatics.

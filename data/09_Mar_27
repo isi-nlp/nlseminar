@@ -1,0 +1,6 @@
+David Chiang
+Tutorial on Hadoop
+3:00 pm - 4:00 pm
+11 Large
+
+Hadoop is an open-source implementation of the Map/Reduce framework introduced by Google Research. It is a simple abstraction for describing parallelizable algorithms that admits very efficient execution: in one case, one of my (poorly implemented) algorithms was improved from a typical runtime of 72 hours to 3 hours. I will give a short introduction to Hadoop that is highly colored by my experiences with it and the likely experiences of other natural language processing researchers at ISI. I will show how to run Hadoop on HPC, how to use Hadoop Streaming (which allows implementation in any language you choose), and how to define Map/Reduce algorithms for a few incarnations of a typical NLP task, relative-frequency estimation of a large probability distribution. Input from others who are more experienced with Hadoop than I am is welcome!

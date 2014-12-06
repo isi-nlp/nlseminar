@@ -1,0 +1,27 @@
+Radu Soricut
+Natural Language Generation for Text-to-Text Applications using an Information-Slim Representation
+3:00 pm - 4:30 pm
+11 Large
+
+Although a considerable number of generic Natural Language Generation
+(NLG) systems has been produced over the years, none of them is usually
+employed in end-to-end, text-to-text applications such as Machine
+Translation, Summarization, Question Answering, etc. In this talk, we
+identify the likely reasons for this state of affairs, and propose
+WIDL-expressions as a flexible formalism that facilitates the integration
+of a generic NLG engine within end-to-end language processing
+applications.
+ 
+WIDL-expressions represent compactly probability distributions over finite
+sets of candidate realizations, and have optimal algorithms for text
+realization via interpolation with language model probability
+distributions. We show the effectiveness of our WIDL-based NLG engine for
+both sentence realization and document realization tasks. By employing
+language models that capture sentence-level properties, we perform Machine
+Translation and Headline Generation at state-of-the-art levels or better.
+By employing language models that capture document-level properties such
+as text coherence, we synthesize output for Multi-document Summarization
+that displays both high content selection performance and increased
+coherence.
+
+

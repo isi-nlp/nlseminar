@@ -1,0 +1,8 @@
+Catalin Tirnauca (Univ. Rovira i Virgili)
+Intern Final Talk:  On the Consistency of Probabilistic Context-Free Grammars
+3:00 pm - 3:30 pm
+11 Large
+ 
+Probabilistic context-free grammars can describe probability distributions over strings, i.e., the sum of probabilities of all generated strings is 1.This condition is often  called consistency. It has applications in fields of natural language processing such as probabilistic parsing (disambiguate by picking the parse with the highest score), or speech recognition (rank hypotheses returned by a speech recognizer). 
+ 
+The talk is a survey of some of the previous results. We investigate how we can determine if a probabilistic context-free grammar is consistent, and if such a test can always be done. Also, we study a method, namely normalization, which guarantees consistent probabilistic context-free grammars. Moreover, we mention briefly some techniques that train probabilistic context-free grammars and guarantee consistency.

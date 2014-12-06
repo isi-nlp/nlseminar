@@ -1,0 +1,11 @@
+Eunsol Choi (University of Washington) and Matic Horvat (Cambridge)
+Towards automatic extraction of experimental data from scientific papers [Intern final talk] 
+3:30 pm - 4:30 pm
+11th Floor Large Conference Room [1135]
+
+Many areas of science have experienced rapid growth in the amount of scientific literature published. For example, there are approximately 400 new papers published each year in the area of Machine Translation. As such amount of new data is virtually impossible to processes by a single researcher, a new tool is needed that would help researchers explore existing and discover new MT literature. To address this problem we built an approach for automatic extraction of experimental data from scientific papers that populates a database enabling structured queries. 
+
+Bios:
+Eunsol Choi is a PhD student at the University of Washington, advised by Prof. Luke Zettlemoyer. Prior to UW, she studied mathematics and computer science at Cornell University.
+
+Matic Horvat is a PhD student at University of Cambridge researching integration of semantics and Statistical Machine Translation. He is originally from Ljubljana, Slovenia, where he completed a BSc in Computer Science in 2012. He continued with a masters in Advanced Computer Science at University of Cambridge, graduating in 2013.

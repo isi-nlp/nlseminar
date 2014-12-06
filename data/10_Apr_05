@@ -1,0 +1,40 @@
+Satoshi Sekine (NYU)
+On-Demand Information Extraction and Knowledge Discovery
+10:30 am - 11:30 am
+11th Floor Large Conference Room [1135]
+
+At present, adapting an Information Extraction system to new topics is
+an expensive and slow process, requiring some knowledge engineering for
+each new topic. We propose a new paradigm of Information Extraction
+which operates 'on demand' in response to a user's query. On-demand
+Information Extraction (ODIE) aims to completely eliminate the
+customization effort. Given a user's query, the system will
+automatically create patterns to extract salient relations in the text
+of the topic, and build tables from the extracted information using
+paraphrase discovery technology. It relies on recent advances in pattern
+discovery, paraphrase discovery, and extended named entity tagging.
+I will show you a demo system, which produce a table in less than a
+minute for any give queries.
+
+I will also explain the need of linguistic knowledge and introduce some
+weakly supervised learning methods. I will show a demo of the ngram
+search engine, which extracts ngrams and sentences which match to a
+query with arbitrary wildcard.
+
+Also, I will give a brief introduction about the Web People Search.
+It is a task to disambiguate search results of people name and people
+attribute extraction task. We organized WePS1 and 2, and currently
+started the third evaluation, which includes 2 tasks: 1) the combined
+task of people disambiguation and attribute extraction and 2)
+organization disambiguation from twitter messages.
+
+Brief Bio:
+
+Satoshi Sekine is an Research Associate Professor at New York University.
+He received his MSc at UMIST, UK in 1992 and his PhD in 1998 at NYU. He
+has been working on various topics, including parsing, NE, Information
+Extraction and minimally supervised knowledge discovery. He edited a book
+about NE from John Benjamins, organized a JHU summer workshop 2009, 
+WePS task, NSF symposium on Semantic Knowledge Discovery, Organization
+and Use in 2008, workshop on Textual Entailment and Parsing 2007 and so on.
+

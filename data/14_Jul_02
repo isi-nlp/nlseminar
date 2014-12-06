@@ -1,0 +1,10 @@
+Matic Horvat (Cambridge)
+A Graph-Based Approach to String Regeneration [Intern talk] 
+2:30 pm - 3:00 pm
+11th Floor Large Conference Room [1135]
+
+I'll talk about a graph based approach to the string regeneration problem, published at 2014 EACL Student Research Workshop. I will conclude my talk by briefly talking about my PhD research direction of including semantics (MRS) into a state-of-the-art SMT system.
+
+String regeneration is the problem of generating a fluent sentence from an unordered list of words. The purpose of investigating and developing approaches to solving the string regeneration problem is grammaticality and fluency improvement of machine generated text. I investigated a graph-based approach to the string regeneration problem that finds a permutation of words with the highest probability under an n-gram language model.
+
+Bio: I am a PhD student at University of Cambridge researching integration of semantics and Statistical Machine Translation. I am originally from Ljubljana, Slovenia, where I completed a BSc in Computer Science in 2012. I continued with a masters in Advanced Computer Science at University of Cambridge, graduating in 2013. 

@@ -1,0 +1,26 @@
+Hal Daume III
+Some Results in Automatic Evaluation for Summarization and MT
+3:00 pm - 4:00 pm
+4 Large
+sumeval.ps
+I will be presenting some recent results of mine regarding the possibility
+of automatic evaluation in summarization.  I will discuss both my own 
+findings, as well of those of people here and at Columbia, and attempt to 
+explain in a principled fashion why there are disparate opinions on the 
+plausibility of performing automatic evaluation in this task.  I will
+discuss my (perhaps pessimistic) views on the plausibility of doing any
+sort of evaluation of summarization, automatic or otherwise.
+
+The results and experimental setups developed in connection with 
+summarization will be extended to the machine translation.  I will review 
+possible reasons why metrics such a bleu have experienced significantly 
+more success in machine translation than in summarization.  I will also 
+connect the evaluation criterea developed in the context of summarization 
+to machine translation, and discuss the automation of these methods.
+
+In short: I'll talk about why I've been doing so much data elicitaiton 
+recently.
+
+This will be a highly informal seminar and participation is highly
+encouraged.
+

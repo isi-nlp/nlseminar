@@ -1,0 +1,12 @@
+Carlos Busso (USC)
+Multimodal Processing of Human Behavior in Intelligent Instrumented Spaces: A Focus on Expressive Human Communication
+3:00 pm - 4:00 pm
+11 Large
+
+Advances in technologies to capture and process multimedia signals are enabling new opportunities for understanding and modeling human behavior, and designing new human-centered applications. Intelligent environments equipped with a range of audio-visual sensors provide suitable means for automatically monitoring and tracking the behavior, strategies and engagement of the participants in multiperson interactions such as meetings, at various levels of interest. We describe a case study of a "Smartroom" being developed at USC in which high-level features are calculated from active speaker segmentations, automatically annotated by our system, to infer the interaction dynamics between the participants. The results show that it is possible to accurately estimate in real-time not only the flow of the interaction, but also how dominant and engaged each participant was during the discussion.
+
+Additionally, we describe analysis of human expressive behavior that can be afforded by such audio-visual data. We describe an analysis of the interrelation between facial gestures and speech using a multimodal approach. Using a controlled setting, motion capture technology was used to simultaneously acquire speech and detailed facial information. Our results indicate that the verbal and non-verbal channels of human communication are internally and intricately connected. The interplay is observed across the different communication channels such as various aspects of speech, facial expressions, and movements of the hands, head and body, and is greatly affected by the linguistic and emotional content of the message being communicated. As a result of the analysis, applications in automatic emotion recognition and synthesis of expressive communication are presented.
+
+[This research was supported in part by funds from the NSF, NIH, and the Department of the Army]
+
+

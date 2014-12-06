@@ -1,0 +1,55 @@
+Ariya Rastrow (Johns Hopkins)
+Going beyond n-grams: Incorporating non-local dependencies for Speech Recognition
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Due to the availability of large amounts of training data and
+computational resources, building more complex models with sentence
+level knowledge and longer dependencies has been an active area of
+research in automatic speech recognition (ASR). Yet, due to the
+complexity of the speech recognition task, integration of many of
+these complex and sophisticated knowledge sources into the first
+decoding pass is not feasible. Many of these long-span models cannot
+be represented as weighted finite-state automata (WFSA), making it
+difficult even to incorporate them in a lattice rescoring pass.
+
+First, we motivate our work by providing compelling empirical evidence
+that n-gram LMs are not sufficient for ASR task and why we need to
+incorporate non-local features such as syntax.  The development of
+language models with such long-span (non-local) features is underway,
+but is not addressed in this talk.  We instead address how such models
+should be trained discriminatively and applied effectively.
+Specifically, we describe a new approach for rescoring speech lattices
+with such models (acoustic or language) that does not entail
+computationally intensive lattice expansion or limited rescoring of
+only an N -best list.
+
+We view the set of word-sequences in a lattice as a discrete space and
+develop a hill climbing technique to start with, say, the 1-best
+hypothesis under the lattice-generating model(s) and iteratively
+improve it using the new model. We demonstrate empirically that to
+achieve the same reduction in error rate using a better estimated,
+higher order LM, our technique evaluates fewer hypotheses than
+conventional N-best rescoring by up to two orders of magnitude.
+
+We also propose to integrate the idea of hill climbing into the
+training of discriminative language models with non-local sentence
+level features. Discriminative models provide the flexibility to
+include both local n-gram features and arbitrary sentence level
+features. However, unlike generative LMs with long-span dependencies
+where one has to resort to N-best lists only during decoding
+(rescoring), discriminative models force the use of N-best lists even
+for LM training. We demonstrate significant computational saving during training as well as error-rate reduction over N-best training methods.
+
+  Bio:
+
+  Ariya Rastrow is a Ph.D. candidate at Johns Hopkins University,
+  working with Sanjeev Khudanpur and Mark Dredze. He was initially
+  advised by Fred Jelinek. The focus of his PhD research is to advance
+  speech recognition systems to efficiently incorporate linguistically
+  motivated non-local features into language models. In his recent work,
+  he has developed an efficient hill-climbing algorithm to apply
+  non-local complex models for the speech recognition task. He has also
+  worked on out-of-vocabulary (OOV) detection, spoken term detection and
+  semi-supervised adaptation techniques for speech recognition.
+

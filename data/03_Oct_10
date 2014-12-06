@@ -1,0 +1,24 @@
+Philipp Koehn
+Advances in Statistical MT: Phrases, Noun Phrases and Beyond
+3:00 pm - 4:00 pm
+11 Large
+
+(This is a practice run for I talk I will give a few times over the next
+weeks when interviewing for job positions.)
+
+I will review the state of the art in statistical machine translation
+(SMT), present my dissertation work, and sketch out the research
+challenges of syntactically structured statistical machine translation.
+
+The currently best methods in SMT build on the translation of phrases (any
+sequences of words) instead of single words. Phrase translation pairs are
+automatically learned from parallel corpora. While SMT systems generate
+translation output that often conveys a lot of the meaning of the original
+text, it is frequently ungrammatical and incoherent.
+
+The research challenge at this point is to introduce syntactic knowledge
+to the state of the art in order to improve translation quality. My
+approach breaks up the translation process along linguistic lines. I will
+present my thesis work on noun phrase translation and ideas about clause
+structure.
+

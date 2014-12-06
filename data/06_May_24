@@ -1,0 +1,46 @@
+Hal Daume III
+Beyond EM: Bayesian Techniques for Human Language Technology Researchers
+9:00 am - 12:00 pm
+4th Floor
+
+This is a practice tutorial for one I am giving at HLT/NAACL one week
+later.  Comments/feedback are very welcome.
+
+----------------------------------------------------------------------
+
+Expectation Maximization (EM) has proved to be a great and useful
+technique for unsupervised learning problems in speech and language
+processing.  Unfortunately, its range of applications is limited either by
+intractable E- or M-steps, or by its reliance on the maximum likelihood
+estimator.  The natural language processing community typically resorts to
+ad-hoc approximation methods to get (some reduced form of) EM to apply to
+NLP tasks.  However, many of the problems that plague EM can be solved
+with Bayesian methods, which are theoretically more well justified.  In
+this tutorial, I discuss Bayesian methods as they can be used in natural
+language processing.  The two primary foci of this tutorial are specifying
+prior distributions and performing the necessary computations to perform
+inference in Bayesian models.  I focus on unsupervised techniques (for
+which EM is the obvious choice), but discuss supervised and discriminative
+techniques at the conclusion with pointers to relevant literature.
+
+Depending on one's inference technique of choice, the math required to
+build Bayesian learning models can be difficult.  Compounding this problem
+is the fact that current written tutorials on Bayesian techniques tend to
+focus on continuous-valued problems, a poor match for the high-dimension
+discrete world of text.  This combination makes the cost of entrance to
+the Bayesian learning literature often too high.  The goal of this
+tutorial is to provide sufficient motivation, intuition and vocabulary
+mapping so that one can easily understand recent papers in Bayesian
+learning that are published at conferences like NIPS, and increasingly at
+ACL.  In addition to the standard tutorial materials (slides), this
+tutorial is accompanied by a technical report that spells out all the
+mathematic derivations in great detail, for those who wish to start
+research projects in this fields.
+
+This tutorial should be accessible to anyone with a basic understanding of
+statistics.  I use a query-focused summarization task as a motivating
+running example for the tutorial, which should be of interest to
+researchers in natural language processing and in information retrieval.  
+Additionally, though the tutorial does not focus on speech problems, those
+attendees interested in graphical modeling techniques for automatic speech
+recognition might also find the tutorial of interest.

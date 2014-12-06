@@ -1,0 +1,19 @@
+Liang Huang (UPenn => Google Research)
+Tree-based and Forest-based Translation
+3:00 pm - 4:00 pm
+4th Floor CR
+
+What is in common, and what is different, between translating from English to Chinese and compiling C++ into machine code?
+
+In this talk I will first introduce a tree-based (aka syntax-directed) paradigm for machine translation, inspired by both human translators and compilers. In this paradigm, a source language sentence is first parsed into a syntactic tree, which is then recursively converted into a target language sentence via tree-to-string transformation rules. Since the translation process is driven by the syntax, this approach resembles the classical "syntax-directed translation" method in compiling theory.
+
+However, natural languages are crucially different from programming languages in that they are fundamentally ambiguous. So we don't (and will probably never) have perfect parsers, and parsing errors adversely affect translation quality. To alleviate this problem, an obvious idea is to use the top-k parses, rather than a single 1-best, but this only helps a little bit due to the limited scope of the k-best list. We instead propose a "forest-based approach", which translates a packed forest encoding *exponentially* many parses in a compact (polynomial) space by sharing common subtrees. Large-scale experiments showed very significant improvements (over the 1-best baseline) in terms of translation quality, which outperforms the best reported systems to date. More interestingly, translating a forest of millions of trees is even faster than translating on top-30 individual trees thanks to dynamic programming.
+
+This talk includes joint work with Kevin Knight and Aravind Joshi (first part), and with Haitao Mi and Qun Liu (second/third parts).
+
+
+Short Bio:
+
+Liang Huang recently completed his PhD study at the University of Pennsylvania, co-supervised by Aravind Joshi and Kevin Knight (USC/ISI). He is mainly interested in the theoretical aspects of computational linguistics, in particular, efficient algorithms in parsing and machine translation, generic dynamic programming, and formal properties of synchronous grammars. His thesis develops a set of "forest-based methods" that have been applied to many problems in NLP including k-best parsing, forest rescoring and reranking, and forest-based translation. His awards include an Outstanding Paper Award at ACL 2008, and a University Teaching Award at Penn in 2005.
+
+http://www.cis.upenn.edu/~lhuang3/ 

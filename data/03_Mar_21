@@ -1,0 +1,20 @@
+Gareth Jones
+An Investigation of the Application of Broad Coverage Automatic Pronoun Resolution in Information Retrieval
+3:00 pm - 4:00 pm
+11 Large
+
+Term weighting methods have been shown to give significant increases
+in information retrieval performance. Term weights are typically
+calculated using frequency counts across the whole retrieval
+collection, frequency of each term within individual documents and
+compensation for varying document length. The presence of pronomial
+references in documents effectively reduces the within document term
+frequency of associated words with a consequent effect on term weights
+and information retrieval behaviour. This presentation will describe
+an experimental investigation into the impact on information retrieval
+performance of broad coverage automatic pronoun resolution. Results
+using a standard information retieval test collection indicate that
+calculating term weights using a pronoun resolved version of the
+document test collection can improve both fixed cutoff and average
+retrieval precision.
+

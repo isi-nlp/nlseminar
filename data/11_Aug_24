@@ -1,0 +1,6 @@
+Xuchen Yao
+Introducing context-dependent features into machine translation (Interns Final Talk)
+2:00 pm - 2:30 pm
+4th Floor Large Conference Room [460]
+
+One fundamental assumption in machine translation is that sentences are translated independently of each other. We attack this assumption by trying to achieve lexical translation consistence among sentences within the same document. An additional lexicon reuse feature is introduced to help the decoder select a more consistent translation. In this talk we will discuss the design of the reuse feature and show experimental results. 

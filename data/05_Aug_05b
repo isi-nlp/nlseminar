@@ -1,0 +1,19 @@
+Jan Hajic (Charles U)
+The Family of Prague Dependency Treebanks
+10:30 am - 12:00 pm
+11 Large
+
+The Prague Dependency Treebank project is aimed at a linguistically
+complex, multi-tier annotation of relatively large amounts of naturally
+occuring sentences of natural language. There are four tiers at present:
+the basic token tier (level 0), and the morphological, surface-syntacic,
+and semantic (called "tectogrammatics") tiers. The syntactic and
+tectogrammatic tiers are based on a richly labelled dependency
+representation principle. So far, the project produced three corpora: the
+Czech-language-only Prague Dependency Treebank, the Prague Czech-English
+Dependency Treebank and the Prague Arabic Dependency Treebank. In the
+talk, the principles of the Prague Dependency Treebank linguistic
+annotation scheme will be presented. Some technical details will also be
+discussed, as well as some of the tools developed both for the manual
+annotation itself and for corpus-based NLP of Czech, English and Arabic.
+

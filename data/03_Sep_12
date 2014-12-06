@@ -1,0 +1,19 @@
+Lara Taylor
+Discourse Coherence for Ordering Information
+2:30 pm - 4:00 pm
+11 Large
+taylor_ordering.ppt
+In this talk, I look at how the notion of discourse coherence can be
+modeled computationally. I begin with the following idea: if you take
+a text and shuffle its sentences into a random order, that text will
+no longer make sense. In other words, the text will be "incoherent".
+Our task is to learn how to reassemble a shuffled text into an order
+that humans would consider to be coherent.
+
+I discuss practical and theoretical motivations for the task,
+evaluations of our model, increases in performance achieved over the
+summer, and directions for future research.
+
+This work was done in collaboration with Kevin Knight, Daniel Marcu,
+Jonathan Graehl and Nick Mote.
+

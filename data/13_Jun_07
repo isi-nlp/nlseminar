@@ -1,0 +1,16 @@
+Malte Nuhn (Aachen University, Germany)
+Is Decipherment Difficult?
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Is it possible to learn useful translations from large amounts of
+monolingual data to improve machine translation? The intuitive
+feeling is that learning a language without bilingual data is at
+least "more difficult than learning from example translations". In
+this talk, I will present recent results on decipherment: I will show
+that the decipherment problem is indeed difficult (NP-hard) and what
+approximations to the original problem can be made without hurting
+decipherment accuracy much.
+
+Bio:
+Having studied Physics and Computer Science at RWTH Aachen University, I'm currently a PhD student at Prof. Ney's Human Language Technology and Pattern Recognition Group in Aachen. I'm particularly interested in applying decipherment techniques to improve machine translation.

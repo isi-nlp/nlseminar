@@ -1,0 +1,35 @@
+Douglas W. Oard (Maryland)
+Who 'Dat? Identity resolution in large email collections
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Automated techniques that can support the human activities of search and
+sense-making in large email collections are of increasing importance for a
+broad range of uses, including historical scholarship, law enforcement and
+intelligence applications, and lawyers involved in "e-discovery" incident
+to civil litigation.  In this talk, I'll briefly describe some of the work
+to date on searching large email collections, and then for most of the
+talk I will focus on the more challenging task of support for
+sense-making.  Specifically, I'll describe joint work with Tamer Elsayed
+to automatically resolve the identity of people who are mentioned
+ambiguously (e.g., just by first name) in a collection of email from a
+failed corporation (Enron).  Our results indicate that for people who are
+well represented in the collection we can use a generative model to guess
+the right identity about 80% of the time, and for others we are right
+about half the time.  I'll conclude the talk with a few remarks on our
+next directions for techniques, evaluation, and additional types of
+collections to which similar ideas might be applied.
+
+About the Speaker:
+
+Douglas Oard is an Associate Professor at the University of Maryland,
+College Park, with joint appointments in the College of Information
+Studies and the Institute for Advanced Computer Studies; he is on
+sabbatical at Berkeley's iSchool for the Fall 2009 semester.  Dr. Oard
+earned his Ph.D. in Electrical Engineering from the University of
+Maryland, and his research interests center around the use of emerging
+technologies to support information seeking by end users.  His recent work
+has focused on interactive techniques for cross-language information
+retrieval and techniques for search and sense-making in conversational
+media.  Additional information is available at
+http://www.glue.umd.edu/~oard/.

@@ -1,0 +1,6 @@
+Steve DeNeefe
+BLEU Sway Issues: one way to get statistical significance, two ways to get a better score, and three ways to thwart them
+3:00 pm - 3:30 pm
+11 Large
+
+BLEU the de facto standard for evaluation and development of statistical machine translation systems.  We describe three real-world situations involving comparisons between different versions of the same systems where one can obtain improvements in BLEU scores that are questionable or even absurd. We propose a very conservative modification to BLEU that addresses these issues while improving correlation with human judgements, then explore some deeper modifications that alleviate the problems further.

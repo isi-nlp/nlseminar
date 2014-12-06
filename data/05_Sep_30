@@ -1,0 +1,15 @@
+David Chiang
+Some Computational Complexity Results for Synchronous Context-Free Grammars
+3:00 pm - 4:30 pm
+4 Large
+
+(This is a practice talk for a paper by Giorgio Satta and Enoch Peserico)
+
+This paper investigates some computational problems associated with
+probabilistic translation models that have recently been adopted in the
+literature on machine translation. These models can be viewed as pairs of
+probabilistic context-free grammars working in a `synchronous' way. Two
+hardness results for the class NP are reported, along with an exponential
+time lower-bound for certain classes of algorithms that are currently used
+in the literature.
+

@@ -1,0 +1,19 @@
+Victoria Fossum (Michigan)
+Improving Precision of Word Alignments Using GHKM Syntax-Based Rule Extraction
+3:00 pm - 3:30 pm
+11 Large
+
+Noisy word alignments negatively affect the quality of the translation 
+rules extracted by the ISI syntax-based MT system.  In the literature, 
+alignment is typically treated as a separate process from subsequent 
+stages in the MT pipeline.  By contrast, we allow rule extraction to 
+guide the alignment process.
+
+We present an unsupervised algorithm for identifying and removing "bad" 
+links using GHKM syntax-based rule extraction.  We show that
+we can improve upon the precision of GIZA union (measured against a gold 
+standard set of manually aligned Chinese-English sentence pairs),
+while only decreasing recall slightly.
+
+
+(Note: This is part of the Summer Intern Series)

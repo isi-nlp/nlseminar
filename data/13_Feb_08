@@ -1,0 +1,10 @@
+Kartik Audhkhasi
+A Computational Framework for Ensembles of Diverse Experts
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Ensembles of machine experts, from simple linear classifiers to complex hidden Markov models, have out-performed single experts across many applications. Likewise, ensembles have been central to computing with human experts, e.g. for data annotation. This widespread use of ensembles, albeit largely heuristic, is motivated by their better generalization and robustness to ambiguity in the production, representation, and processing of information.
+
+This talk will focus on three important problems which contribute towards a unified computational framework for ensembles of diverse experts. The first problem deals with "modeling" a diverse ensemble. I will present our proposed Globally-Variant Locally-Constant (GVLC) model as a statistical framework for answering this question. The second question is about "analysis", where I will address the link between ensemble diversity and performance using statistical learning theory. The final segment of my talk will focus on "designing" an ensemble of diverse linear classifiers, specifically conditional maximum entropy models. Practical applications throughout the talk will include emotion classification from speech, text classification, and crowd-sourcing for automatic speech recognition.
+
+Speaker bio: Kartik Audhkhasi received B.Tech. in Electrical Engineering and M.Tech. in Information and Communication Technology from Indian Institute of Technology, Delhi in 2008. He is currently pursuing the Ph.D. degree in Electrical Engineering from University of Southern California, Los Angeles. His thesis research focuses on modeling, analysis, and design of ensembles of multiple human or machine experts. He is also interested in crowd-sourcing for speech and language processing. His broad interests include machine learning and signal processing. Kartik is the recipient of the Annenberg, IBM, and Ming Hsieh Institute PhD fellowships, and best teaching assistant awards of the EE department at USC.

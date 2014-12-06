@@ -1,0 +1,6 @@
+Rutu Mulkar-Mehta
+Understanding Granularity in Natural Language Discourse (Ph.D. Proposal practice talk)
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Granularity is the task of breaking down a complex description into simpler concepts of finer detail, such that each of the simpler concepts can be collectively describe the main description. It can be thought of as a hierarchy of varying levels of information, with fine grained and specific information i.e. information with more detail at lower levels, and coarse grained and generic information i.e. information with less detail, at higher levels. Shifting in granularity from lower to higher levels leads to information loss or abstraction of certain fine details which become irrelevant at that level. Similarly, shifting granularity from a coarse level to a fine level involves more specific details as compared to the level above this.Humans can seamlessly shift between various granularity levels when interpreting discourse. Textual descriptions are usually written such that the reader gets to know the key features of fine-grained events, and then theoverall picture from the coarse-grained description of a process. This thesis proposal is towards identification and extraction of such structures from Natural Language Discourse.

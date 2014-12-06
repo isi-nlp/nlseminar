@@ -1,0 +1,46 @@
+Abe Kazemzadeh
+Natural Language Description of Emotion (Ph.D. Thesis Defense Practice Talk)
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+This dissertation studies how people describe emotions with language
+and how computers can simulate this descriptive behavior.  Although
+many non-human animals can express their current emotions as social
+signals, only humans can communicate about emotions symbolically.
+This symbolic communication of emotion allows us to talk about
+emotions that we may not currently be feeling, for example describing
+emotions that occurred in the past, gossiping about the emotions of
+others, and reasoning about emotions hypothetically.  Another feature of this
+descriptive behavior is that we talk about emotions as if they were
+discrete entities, even though we may not always have necessary and
+sufficient observational cues to distinguish one emotion from another,
+or even to say what is and is not an emotion. This motivates us to
+focus on aspects of meaning that are learned primarily through
+language interaction rather than by observations through the senses.
+To capture these intuitions about how people describe emotions, we
+propose the following thesis: natural language descriptions of emotion
+are definite descriptions that refer to intersubjective theoretical entities.
+
+We support our thesis using theoretical, experimental, computational
+results. The theoretical arguments use Russell's notion of definite
+descriptions, Carnap's notion of theoretical entities, and the
+question-asking period in child language acquisition. The experimental
+data we collected include dialogs between humans and computers and
+web-based surveys, both using crowd-sourcing on Amazon Mechanical
+Turk. The computational models include a dialog agent based on
+sequential Bayesian belief update within a generalized pushdown automaton, 
+as well as a fuzzy logic model of similarity and subsethood between emotion terms.
+
+For future work, we propose a research agenda that includes a
+continuation of work on the emotion domain as well as new work on
+other domains where subjective descriptions are established through
+natural language communication.
+
+
+Short Bio:
+Abe Kazemzadeh is a PhD candidate at the USC Computer Science Dept and
+a research assistant at the the Signal Analysis and Interpretation
+Laboratory (SAIL). His interests include natural language, logic,
+emotions, games, and algebra. He is currently the chief technology
+officer at the USC Annenberg Innovation Laboratory (AIL).
+

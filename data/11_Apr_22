@@ -1,0 +1,8 @@
+Dirk Hovy
+Models and Training for Unsupervised Preposition Sense Disambiguation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+We present a preliminary study on unsupervised preposition sense disambiguation (PSD), comparing different models and training techniques (EM, MAP-EM with L0 norm, Bayesian inference using Gibbs sampling). To our knowledge, this is the ﬁrst attempt at unsupervised preposition sense disambiguation. Ultimately, we want to disambiguate prepositions not by and for themselves, but in the context of sequential semantic labeling. This should also improve disambiguation of the words linked by the prepositions (here, morning, shopped, and Rome). We propose using unsupervised methods in order to leverage unlabeled data, since, to our knowledge, there are no annotated data sets. Our best accuracy for PSD reaches 56%, a signiﬁcant improvement (at p < .001) of 16% over the most-frequent-sense baseline.
+
+This is a joint work with Ashish Vaswani, Stephen Tratz, David Chiang, and Eduard Hovy 

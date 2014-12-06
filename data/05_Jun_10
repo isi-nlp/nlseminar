@@ -1,0 +1,23 @@
+Liang Huang (Penn)
+Better k-best Parsing, Hypergraphs and Dynamic Programming
+3:00 pm - 4:30 pm
+11 Large
+
+We discuss the relevance of k-best parsing to recent applications in
+natural language parsing, and develop algorithms that substantially
+improve on previously-used algorithms with respect to efficiency,
+scalability, and accuracy. We demonstrate these algorithms in experiments
+on Bikel's implementation of Collins' lexicalized PCFG model, and on a
+synchronous CFG based decoder for statistical machine translation. We show
+in particular how the improved output of our algorithms has the potential
+to improve results from parse reranking systems and other applications.
+
+In this talk, I will demonstrate the convergence of several popular
+parsing formalisms (weighted deduction, shared forest, semiring) under the
+powerful hypergraph formalism. If time permits, I will also show how
+generic Dynamic Programming can be formalised as hypergraph searching.
+
+Joint work with David Chiang (University of Maryland)
+
+
+

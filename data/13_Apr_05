@@ -1,0 +1,10 @@
+Abe Kazemzadeh
+Sentiment and Sarcasm in the 2012 US Presidential Election
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Political discourse is challenging from a sentiment analysis point of view because political issues are subjective and highly dynamic.  Political language may contain neologisms that do not occur frequently in general purpose lexical sentiment models. Also, the presence of humor, sarcasm, and comparatives may introduce errors in sentiment analysis. In Twitter, these issues are amplified by the use of Twitter-specific features and constrained message lengths. In this presentation, we will present a collaborative project between the University of Southern California (USC) Signal Analysis and Interpretation Laboratory, USC Annenberg Innovation Laboratory, and IBM. Our system is relies on manual curation of keywords and hashtags, crowd-sourced annotation, statistical machine learned sentiment models, and a real-time visualization that is ideal for display during live events.  We describe our corpus and several experiments using different settings of our sentiment models.  Among our findings are that sentiment in politics is skewed towards negative, annotation agreement tend to be low, and that sarcasm is a factor that explains some of the annotator disagreement.
+
+We have also studied bigger picture questions such as how much weight tweets by Big Bird (or someone pretending to be Big Bird) should be allocated in reporting the results of sentiment analysis.  Question about the role of humor and sarcasm in social media lead to some skepticism of naive applications of sentiment analysis but present interesting examples of content that influences social media user behavior and spills over into traditional media. 
+
+This is joint work with Dogan Can, Nikos Malandrakis, Hao Wang, Alex Leavitt, Kevin Driscoll, Kristen Guth, Theo Mazumdar, Varun Lingaraju, Sagar Jhobalia, Mellisa Loudon, Shrikanth Narayanan, Françs Bar, Kjerstin Thorson, Mike Ananny, Sam Thomson, Ed Elze, Graham Mackintosh, Robert Uleman, Leon Katsnelson, and Chris Gruber.

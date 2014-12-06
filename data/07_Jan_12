@@ -1,0 +1,32 @@
+Kevin Knight
+Capturing Natural Language Transformations
+2:00 pm - 3:30 pm
+11 Large
+
+Knowledge representation is hard.  As natural language scientists and
+engineers, we'd like something that 
+
+- is expressive enough to capture how natural language works
+
+- permits tractable inference
+
+- admits learning algorithms for automatic knowledge acquisition
+
+- leads to modular system construction
+
+This talk will look at knowledge representation for capturing natural
+language transformations.  A lot of what we do falls into this
+category.  Examples of transformations include language translation
+(French to English), question answering (Question to Answer),
+transliteration (foreign script to Roman alphabet), summarization
+(long text to short text), parsing (string to tree), language
+generation (meaning to string), etc. 
+
+I'll show various knowledge formats (starting with simple finite-state
+transducers) and show how they stack up on the 4 criteria above, using
+theorems and examples.  We'll see that different types of tree and
+string automata lead to good behavior on various subsets of the 4
+criteria, but getting 4 out of 4 is still elusive. 
+
+This is a Krazy Theory talk -- since this kind of talk should not go
+on and on, I promise to finish within 50 minutes.

@@ -1,0 +1,10 @@
+Julian Schamper (RWTH Aachen)
+Solving Homophonic Sustitution Ciphers [Intern talk]
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Performing machine translation with monolingual data instead of parallel data is an interesting problem. Because of the lack of parallel data for many language pairs, solving the problem would arise interesting new use cases.
+On the road towards this we look at similar but easier problems. In the past improvements on simple substitution ciphers (1:1) were made - Even word substitutions ciphers with large vocabularies were solved for example by a beamsearch approach. This talk concentrates on the more complicated cipher class of homophonic substitution ciphers (1:m) like the famous Z408 of the Zodiac killer or the second page of the Beale cipher. We preset a method based on beamsearch. Covered aspects are an improved heuristic, the order the beamsearch should explore the search space, pruning, and the impact of the cipher lengths and cipher alphabet size on the deciphering accuracy.
+
+Bio:
+Julian Schamper studies computer science at RWTH Aachen University. He did its bachelor thesis in the field of deciphering foreign language and works as a student research assistant at Prof. Hermann Ney's Human Language Technology and Pattern Recognition Group.

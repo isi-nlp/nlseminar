@@ -1,0 +1,12 @@
+Dirk Hovy
+Aligning Events and Time Stamps
+4:00 pm - 5:00 pm
+11th Floor Large Conference Room [1135]
+
+Machine Reading relies to a large extent on information about entities and events. While the definition of events is controversial, most people agree that they have certain properties like a time and a place.  
+
+We exploit this by trying to establish relations between events (such as ``bombing''  or ``election'') and temporal expressions that can be resolved to a timestamp, i.e., an expression like ``last Tuesday'' to an absolute value like 20110802.
+This enables a number of interesting applications, such as generation of absolute timelines, cross-document event coreference, and resolution of logical discrepancies.
+
+We define a baseline approach and improve upon it by identifying important subproblems (within-sentence vs. across-sentence), casting them as a relation extraction problem and showing that classification with kernel methods works well in capturing the information. Our results are competitive with previous approaches and reach a F-score of 76.6.
+We also show that resolution across sentences is a lot harder and cannot be approached with the same techniques used for the within-sentence. We outline some promising findings and suggest further research.

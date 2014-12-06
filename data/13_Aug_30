@@ -1,0 +1,10 @@
+Tomer Levinboim (USC/ISI)
+MKL and Low Rank Multiplicative Shaping
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Multiple Kernel Learning (MKL) has been a subject of intensive research over the past decade.
+Instead of searching for a good kernel function (implicitly, feature transformation of our data), the idea is to learn a combination of kernels that optimizes our objective.
+This formulation has found usage in feature selection and interpretability as well as (sometimes) leading to increased classification accuracy.
+In the talk, I will provide an introduction to MKL as well as present and compare a few MKL formulations for SVM classification.
+Given time, I will present our own non-linear (yet still convex) MKL formulation that linearly combines kernels that are first multiplied by low-rank matrices.

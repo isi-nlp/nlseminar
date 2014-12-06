@@ -1,0 +1,13 @@
+Deepak Ravichandran
+Working with Large Corpus, High speed clustering and its applications
+3:00 pm - 4:30 pm
+11 Large
+
+I am going to be talking about stuff that I have been working over the
+past 6-9 months. This includes randomized algorithms and its application
+to 2 NLP problems: noun clustering and noun-pair clustering. I will also
+be commenting on my experience of working with very very large amounts of
+real Natural Language text (This includes processing and working with data
+available from the web. This corpus is not the standard newspaper text
+that we are so used to in the NLP community.) This talk will also cover a
+large part of my thesis work.

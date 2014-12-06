@@ -1,0 +1,14 @@
+Steve DeNeefe
+What Can Syntax-based MT Learn from Phrase-based MT?
+3:00 pm - 4:30 pm
+11 Large
+
+We compare and contrast the strengths and weaknesses of a syntax-based
+machine translation model with a phrase-based machine translation
+model on several levels.  We briefly describe each model, highlighting
+points where they differ.  We include a quantitative comparison of the
+phrase pairs that each model has to work with, as well as the reasons
+why some phrase pairs are not learned by the syntax-based model.  We
+then propose improvements to the syntax-based extraction techniques to
+capture more phrases.  We also compare the translation accuracy for
+all variations. 

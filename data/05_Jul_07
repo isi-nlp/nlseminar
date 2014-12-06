@@ -1,0 +1,29 @@
+Radu Soricut
+Natural Language Generation for Text-to-Text Applications Using an Information-Slim Representation
+3:00 pm - 4:30 pm
+11 Small
+
+Text-to-text applications -- Machine Translation, Summarization, Question
+Answering -- do not usually involve generic Natural Language Generation
+(NLG) systems in their generation components, but rather use
+application-specific algorithms. The main reason for this state of affairs
+is that virtually all the formalisms used by current generic NLG systems
+require information that cannot be reliably extracted from unrestricted
+text.
+
+This thesis proposal is about meeting the demand for natural language
+generation in the context of text-to-text applications. I introduce a new
+representation formalism (WIDL-expressions), propose generation algorithms
+that operate on representations specific to this formalism, and discuss a
+generic sentence realization framework for text-to-text applications. The
+generation mechanism is based on algorithms for intersecting
+WIDL-expressions with probabilistic language models. I present both
+theoretical and empirical results concerning the correctness and
+efficiency of these algorithms. I also discuss the practical aspects
+arising from implementing this generation mechanism.
+
+In a concrete application of the proposed generation mechanisms, I present
+an end-to-end Machine Translation application. I also discuss another
+possible application for Automated Summarization, namely automated
+headline generation.
+

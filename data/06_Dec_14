@@ -1,0 +1,25 @@
+Liang Huang (Penn)
+Faster Decoding with Synchronous Grammars and n-gram Language Models
+1:30 pm - 3:00 pm
+11 Large
+
+A major obstacle in syntax-based machine translation is the  
+prohibitively large search space for decoding with an integrated  
+language model. We develop faster approaches for this problem based  
+on lazy algorithms for k-best parsing. When comparing against  
+Chiang's technique of cube pruning, our method runs up to twice as  
+fast without making more search errors or decreasing translation  
+accuracy as measured by BLEU. We demonstrate the effectiveness of the  
+algorithm on a large-scale translation system.
+
+Interestingly, these techniques can be applied to speed up bilexical  
+parsing as well, where the (bi-) lexical probabilities can be viewed  
+as n-gram probabilities that causes non-monotonicity. This method  
+fits naturally into the coarse-to-fine grained multi-pass parsing  
+schemes.
+
+To push this direction even further, we can generalize cube and lazy  
+cube pruning as generic tools for reducing complicated search spaces,  
+as alternatives to the well-known A* and annealing techniques.
+
+This is joint work with David Chiang (ISI).

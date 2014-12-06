@@ -1,0 +1,8 @@
+Sravana Reddy
+Cracking Running-Key Ciphers and Deciphering Speech (Interns Final Talk)
+2:30 pm - 3:00 pm
+4th Floor Large Conference Room [460]
+
+In the first part of this talk, I will discuss our work on deciphering running-key ciphers, which are produced by encrypting the plaintext with a natural language string of the same length as the plaintext (the 'running key'). These ciphers are harder to crack than simple substitution ciphers, and no previous work has succeeded in decoding them.
+
+The second part of the talk will address the problem of speech recognition without access to word pronunciations or annotated training data. The problem's motivations arise from languages and domains where pronunciation lexicons and transcribed speech are not available. Given a representation of the speech as a sequence of phonemes, and a language model from non-parallel text, we present methods to find the sequence of words correspoding to the speech input. 

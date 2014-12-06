@@ -1,0 +1,14 @@
+Hal Daum&eacute; III
+Acquiring Paraphrase Templates from Document/Abstract Pairs
+3:00 pm - 4:00 pm
+11 Large
+
+We present an approach to automatically extracting paraphrase templates
+from document/abstract pairs. This methodology relies on word-based
+alignments created by off-the-shelf software. Our paraphrases are
+evaluated by human evaluators for precision and automatically for
+applicability. We find that 77% of the extracted paraphrases are judged
+to be always correct and that the generalized templates of 60% are
+judged to be applicable most of the time and 87% are judged to be
+applicable sometimes.
+

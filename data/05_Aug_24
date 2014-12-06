@@ -1,0 +1,55 @@
+Hopkins, Riesa, and Nakov
+Summer Student Presentations
+3:30 pm - 5:00 pm
+11 Large
+
+3:30pm  Mark Hopkins (UCLA)
+Tree Sequence Automata: A Unifying Framework for Tree Relation Formalisms
+
+There exist a wide variety of competing formalisms for representing a
+language of ordered tree pairs.  These include (bottom-up and top-down)  
+tree transducers, synchronous tree-substitution grammars (STSGs),
+synchronous tree-adjoining grammars (STAGs), and inversion transduction
+grammars (ITGs).  Since these formalisms have all developed independently
+of one another, it is difficult to compare their respective
+representational power.  This work seeks to make this task simpler by
+viewing these formalisms as instances of a general unifying formalism,
+which we call tree sequence automata (TSA).  By casting these different
+formalisms in a single framework, we can compare them directly by studying
+the specific subclass of TSA that they fall into.
+
+4:00pm  Jason Riesa (Johns Hopkins)
+A case study in building a cost-effective speech-to-speech machine translation system with sparse resources: English - Iraqi Arabic
+
+The Arabic spoken dialect of Iraq is a language deprived of the vast
+resources that researchers enjoy when working with its written
+counterpart, Modern Standard Arabic (MSA). The Iraqi Arabic lexicon and
+grammar are also sufficiently distinct so that the use of existing tools
+or corpora for MSA yield little or no positive effect on machine
+translation output quality.  One can see that building a machine
+translation system normally dependent on a large parallel corpus is a
+particularly difficult task when given just a 37,000 line translated
+parallel text based on transcribed speech. This talk will explore the
+constraints involved in working with this type of data, how we endeavored
+to mitigate such problems as a non-standard orthography and a highly
+inflected grammar, and propose a cost- effective way for dealing with such
+projects in the future.
+
+4:30pm  Preslav Nakov (UC Berkeley)
+Multilingual Word Alignment
+
+Recently there has been a growing number of available multilingual
+parallel texts. One such source is the European Union, which publishes its
+official documents in the official languages of all member states
+(sometimes also in the languages of the candidates). Another source are
+the United Nations. These corpora are a great source of training data for
+machine translation between new language pairs. But they also offer the
+opportunity to obtain better pairwise word alignments by looking at
+multiple languages in parallel. In this talk I will present my research as
+a summer intern at ISI on getting better French (Fr) to English (En) word
+alignments using an additional language (Xx). First, I will introduce two
+heuristics which start with pairwise alignments between Fr-Xx, En-Xx and
+Fr-En and then combine them probabilistically (in a linear model) or
+graph-theoretically (by looking at in- and out-degrees for each word).  
+Then I will present two Model1 inspired alignment models: (a) from "Fr and
+Xx" to En; and (b) from Fr to "En and Xx".

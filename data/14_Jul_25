@@ -1,0 +1,8 @@
+Daniel Lamprecht (TU Graz)
+Navigation Dynamics in Networks 
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Research on networks has already revealed much about the structure of real-world networks. Network dynamics such as navigation or exploration, however, are something less well-researched. Yet, we constantly design and use networked systems meant for navigation and exploration. In this talk, I will present a short overview of what we know about navigability, followed by the our work on exploring dynamics occurring on recommendation networks - networks formed implicitly by recommender systems. Navigability can serve as an evaluation criterion for recommender systems and reveal to what extent a system supports navigation and exploration. Based on analysis of topology and dynamical processes, we find that current systems do not support navigation very well, and propose techniques to overcome this.
+
+Bio: Daniel Lamprecht is a PhD student at Graz University of Technology and is interning at ISI this summer. His research explores network science, web science and recommender systems and especially focuses on network navigability. This summer, he's working with Kristina Lerman on navigation dynamics and click biases in Wikigames. In the past, he has also studied navigation dynamics in information networks with the aid of biomedical ontologies.

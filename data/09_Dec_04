@@ -1,0 +1,9 @@
+Donald Metzler (Yahoo! Research)
+Learning Query Concept Importance Using a Weighted Dependence Model
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Modeling query concepts through term dependencies has been shown to have a significant positive effect on retrieval performance, especially for tasks such as Web search, where relevance at high ranks is particularly critical. Most previous work, however, treats all concepts as equally important, an assumption that often does not hold, especially for longer, more complex queries. In this talk, I will describe the state-of-the-art practices for modeling query term dependencies for information retrieval using Markov random fields. Within this context I will discuss why many NLP-inspired approaches to the problem, such as query segmentation, have failed to show consistent improvements when applied to information retrieval tasks. Experimental results carried out on a number of TREC and Yahoo! Web search test collections will be presented showing the effectiveness of various types of term (in)dependence models.
+
+Brief bio:
+Donald Metzler is a Research Scientist in the Search and Computational Advertising group at Yahoo! Research. He obtained his Ph.D. from the University of Massachusetts in 2007. He is an active member of the information retrieval and web search communities, having served on the program committees of SIGIR, ECIR, HLT, EMNLP, WSDM, WWW, and ICML. He has published over 35 research papers, has 13 patents pending, and is the co-author of Search Engines: Information Retrieval in Practice. His research interests include information retrieval, web search, computational advertising, and applications of machine learning to large-scale text problems.

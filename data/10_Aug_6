@@ -1,0 +1,29 @@
+Sasha Rush (MIT)
+Dual Decomposition for Natural Language Inference
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+This talk presents dual decomposition as a general technique for NLP.
+
+The first part introduces dual decomposition as a framework for
+deriving inference algorithms for NLP problems. The approach relies on
+standard dynamic-programming algorithms as oracle solvers for
+sub-problems, together with a simple method for forcing agreement
+between the different oracles. The approach provably solves a linear
+programming (LP) relaxation of the global inference problem. It leads
+to algorithms that are simple, in that they use existing decoding
+algorithms; efficient, in that they avoid exact algorithms for the
+full model; and often exact, in that empirically they often recover
+the correct solution in spite of using an LP relaxation.
+
+The second part presents an application of dual decomposition to
+non-projective parsing . We focus on parsing algorithms for
+non-projective head automata, a generalization of head-automata models
+to non-projective structures. The dual decomposition algorithms are
+simple and efficient, relying on standard dynamic programming and
+minimum spanning tree algorithms. They provably solve an LP relaxation
+of the non-projective parsing problem. Empirically the LP relaxation
+is very often tight: for many languages, exact solutions are achieved
+on over 98% of test sentences.The accuracy of our models is higher
+than previous work on a broad range of datasets.
+

@@ -1,0 +1,31 @@
+Gully Burns
+The neuroscience laboratory as a knowledge factory: challenges, approaches and tools
+10:30 am - 12:00 pm
+11 Large
+
+As a discipline of biology, the field of neuroscience suffers greatly from
+information overload, non-standardization and complexity. In the absence
+of a mathematical theoretical structure for the subject, scientists use
+their own ad-hoc methods of collating and synthesizing information from
+both the primary literature and their own data. In order to eventually
+formalize and accelerate the development of theoretical approaches in the
+subject, we are combining an Electronic Laboratory Notebook (ELN) with
+asset management of the primary research literature to construct a
+knowledge engineering framework based around the organizational unit of a
+neuroscience laboratory. This project, called ¡NeuroScholar¢
+(http://www.neuroscholar.org/) is open-source, and is being tested and
+used in the laboratories of Prof. Larry Swanson and Prof. Alan Watts at
+USC. In each laboratory, the system will operate on top of a ¡laboratory
+corpus¢ of knowledge resources (data files, full-text pdf files , etc.)
+that summarizes the relevant knowledge for that laboratory. Not only will
+this collection provide a valuable resource for the members of the
+laboratory, it provides a platform for natural language processing and
+knowledge engineering to answer formally-defined research questions. The
+Society for Neuroscience¢s annual meeting attracts over 30,000 attendees,
+who collectively form potential user-base of this software.
+
+I will talk about the ideas underlying the project, the current
+implementation of NeuroScholar, developments from collaboration with the
+natural language group at ISI and possible collaborations for the future.
+
+

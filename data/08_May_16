@@ -1,0 +1,15 @@
+David Newman (UCI)
+Theory and Applications of Topic Modeling
+3:00 pm - 4:00 pm
+11 Large
+
+Topic models, a class of Bayesian probabilistic models for discrete
+data, have recently gained popularity in applications ranging from
+document modeling to computer vision.  Since the introduction of
+Latent Dirichlet Allocation (LDA) in 2003, there have been numerous
+extensions to this archetype.  I will review the theory behind LDA,
+and discuss subsequent models, including (some of): Correlated Topic
+Model, Dynamic Topic Model, Hierarchical Topic Model, Special Words
+Topic Model, Hierarchical Dirichlet Process Model, Pachinko Allocation
+Machine, Topics and Syntax Model, Bi-LDA, Author-Topic Model,
+Supervised Topic Model, Spatial LDA, etc. 

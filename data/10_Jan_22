@@ -1,0 +1,6 @@
+David Chiang
+Towards Tree-to-Tree Translation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Statistical translation models that try to capture the recursive structure of language have been widely adopted over the last few years. These models make use of varying amounts of information from linguistic theory: some use none at all, some use information about the grammar of the target language, some use information about the grammar of the source language. But progress has been slower on tree-to-tree translation models: models that are able to learn the relationship between the grammars of both the source and target language. I will discuss the reasons why tree-to-tree translation has been a challenge, review existing attempts at tree-to-tree models, and present some of our own work-in-progress on robustly modeling source and target language syntax for significant improvements in translation quality.

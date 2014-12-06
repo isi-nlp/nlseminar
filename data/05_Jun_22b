@@ -1,0 +1,27 @@
+Mitsunori Matsushita
+Lumisight Table: A Face-to-face Collaboration Support System That Optimizes Direction of Projected Information to Each Stakeholder
+11:00 am - 12:00 pm
+11 Large
+
+(This talk occurs in the morning on the same day as the Bayesian tutorial.)
+
+The goal of our research is to support cooperative work performed by
+stakeholders sitting around a table. To support such cooperation, various
+table-based systems with a shared electronic display on the tabletop have
+been developed. These systems, however, suffer the common problem of not
+recognizing shared information such as text and images equally because the
+orientation of their view angle is not favorable. To solve this problem,
+we propose the Lumisight Table. This is a system capable of displaying
+personalized information to each required direction on one horizontal
+screen simultaneously by multiplexing them and of capturing stakeholders'
+gestures to manipulate the information.
+
+About the Speaker:
+
+Mitsunori Matsushita is a research scientist of NTT Communication Science
+Labs., Nippon Telegraph and Telephone Corporation (NTT). He received B.E.,
+M.E., and Dr.E. degrees from Osaka University, in 1993, 1995 and 2003
+respectively. In 1995, he joined NTT, and has been engaged in researches
+on natural language understanding, information visualization, and
+interaction design.
+

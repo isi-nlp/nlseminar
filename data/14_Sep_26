@@ -1,0 +1,8 @@
+Bill MacCartney (Google/Stanford)
+Semantic Parsing at Google
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+With the shift from desktop to mobile, and the rise of voice-driven UIs, a growing proportion of the Google query stream is not well-served by conventional keyword-based information retrieval.  More and more queries use natural language ("when does walgreens close"), seek answers not found on any web page ("how do i get to work from here"), or demand action rather than information ("text my wife i'm 10 minutes late").  Satisfying such queries requires semantic parsing, that is, mapping the query into a structured, machine-readable representation of meaning.  In this talk, I will give an overview of the techniques Google has developed to address the problem of semantic parsing, and discuss some of the challenges that remain.  I'll also highlight differences between academia and industry in how the problem is conceived.
+
+Bio: Bill MacCartney is a Senior Research Scientist at Google, working primarily on semantic parsing. He is also a Consulting Assistant Professor of Computer Science at Stanford.  For more info: http://nlp.stanford.edu/~wcmac/

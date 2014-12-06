@@ -1,0 +1,21 @@
+Alex Fraser
+Measuring Word Alignment Quality for Statistical Machine Translation
+3:00 pm - 4:30 pm
+11 Large
+
+Automatic word alignment plays a critical role in statistical machine
+translation. Unfortunately the relationship between alignment quality and
+statistical machine translation performance has not been well understood.
+In the recent literature the alignment task has frequently been decoupled
+from the translation task, and assumptions have been made about measuring
+alignment quality for machine translation which, it turns out, are not
+justified. In particular, none of the tens of papers published over the
+last five years has shown that significant decreases in Alignment Error
+Rate (AER) result in significant increases in translation quality. I will
+explain this state of affairs and present steps towards measuring
+alignment quality in a way which is predictive of statistical machine
+translation quality.
+
+I will also provide a brief overview of some of my other work on training
+and search for word alignment.
+

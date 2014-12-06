@@ -1,0 +1,20 @@
+Jens-Soenke Voeckler
+perl part 2 - advanced magick
+3:30 pm - 5:00 pm
+11 Large
+
+Since part 1 of the Perl tutorial didn't cover the juicy bits (like a  
+unique function in Perl), based on feedback from participants, I am  
+offering a part 2 "Perl - Advanced Magick" covering:
+
+o the slides from roughly page 40
+    - The Schwartzian Transform
+    - Dissecting a program
+o What to do, if you do need popen or backticks?
+o OO Perl - a start
+o C embedding - definitely only a "start here"
+o Useful recipes, e.g. interpolating variables in configuration  
+scripts from Perl values.
+
+If there is something you are especially interested in seeing, please  
+send me an email

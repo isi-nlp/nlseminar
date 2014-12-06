@@ -1,0 +1,41 @@
+Victoria Fossum
+Integrating Parsing and Word Alignment in Syntax-Based Machine Translation (Ph.D. Defense practice talk) 
+4:00 pm - 5:00 pm
+11th Floor Conference Room [1135]
+
+Training a string-to-tree syntax-based statistical machine translation
+system to translate from a source language (e.g. Chinese or Arabic)
+into a target language (e.g. English) requires the following
+resources: a parallel corpus (a large set of example sentences in the
+source language that have been translated into the target language by
+a human); a word alignment (a word-to-word correspondence between each
+source-target sentence pair); and a parse tree (a syntactic
+representation) of each sentence in the target language.  From these
+training examples, the system learns to translate source-language
+sequences of words into target-language trees.  In order to ensure
+broad coverage, the parallel corpus of training examples must be
+sufficiently large (on the order of millions of sentence pairs).
+Manually annotating such large corpora would be prohibitively
+time-consuming.  Instead, these corpora must be word-aligned and
+parsed automatically.
+
+There are two problems with existing approaches to automatic word
+alignment and parsing for syntax-based machine translation.  First,
+these processes are noisy and introduce errors which impact
+translation quality.  Second, these processes are typically performed
+independently of one another.  Since each process produces constraints
+that can be used to guide the other, by more closely integrating them,
+we can expect to improve the accuracy of each process.  In this
+thesis, we address these two problems as follows: first, we improve
+upon the accuracy of a state-of-the-art parser; second, we use word
+alignments to improve parse accuracy; third, we use parses to improve
+word alignment accuracy; and fourth, we optimize parses and word
+alignments simultaneously.  We examine the impact of each of these
+methods upon parse quality, alignment quality, and translation quality
+in a downstream syntax-based machine translation system.  Our results
+demonstrate that more closely integrating word alignment and syntactic
+parsing can indeed improve the accuracy of each process, and in some
+cases leads to an improvement in translation quality relative to a
+state-of-the-art syntax-based statistical machine translation system.
+
+

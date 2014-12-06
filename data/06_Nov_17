@@ -1,0 +1,36 @@
+David DeVault (Rutgers)
+Scorekeeping in an Uncertain Language Game
+3:00 pm - 4:30 pm
+11 Large
+
+Practical dialogue systems must exploit context to interpret user
+utterances correctly.  Received views of context and coordination in
+pragmatic theory equate utterance context with the occurrent
+subjective states of interlocutors using notions like common knowledge
+or mutual belief.  We argue that these views are not well suited for
+practical modeling due to the uncertainty and robustness of context
+dependence in human-human dialogue.  We present an alternative
+characterization of utterance context as objective and normative.  On
+this view, an interlocutor's representation of context reflects
+private uncertainty about the true objective context as determined by
+prior speaker meanings.  As conversation moves forward, new utterances
+provide interlocutors with retrospective insight about each other's
+prior meanings and therefore about what the true context really is.
+This view reconciles the need for uncertainty with received intuitions
+about coordination, and can directly inform computational approaches
+to dialogue.
+
+Joint work with Matthew Stone, Rutgers and Rich Thomason, Michigan
+
+About the Speaker:
+
+David DeVault is a Ph.D. candidate in the Department of Computer
+Science at Rutgers University.  He holds a B.S. in Engineering and
+Applied Science from the California Institute of Technology and an
+M.A. in Philosophy from Rutgers University.  David's research aims to
+develop techniques to allow computational agents to participate in
+flexible task-oriented conversations with human beings.  His recent
+work has drawn on design challenges encountered in building such an
+agent to try to articulate practical, learnable, and theoretically
+satisfying representations of context, utterance meaning, and speaker
+intention for implemented conversational systems.

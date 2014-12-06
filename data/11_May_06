@@ -1,0 +1,39 @@
+Abe Kazemzadeh (USC)
+Natural Language Descriptions of Emotions
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+This proposal seeks to explain how humans describe emotions using
+natural language. The
+focus of the proposal is on words and phrases that refer to emotions,
+rather than the more general phenomena of emotional language. The main
+problem I address is that if natural language descriptions of emotions
+refer to abstract concepts that are local to a particular human (or
+agent), then how do these concepts vary from person to person and how
+can shared meaning be established between people. The thesis of the
+proposal is that natural
+language emotion descriptions are definite descriptions that refer to
+theoretical objects, which provide a logical framework for dealing
+with this phenomenon in scientific experiments
+and engineering solutions. An experiment, Emotion Twenty Questions
+(EMO20Q), was devised to study the social natural language behavior of
+humans, who must use descriptions of emotions to play the familiar
+game of twenty questions when the unknown word is an emotion.
+The idea of a theory based on natural language propositions is
+developed and used to formalize the knowledge of a sign-using agent.
+Based on this pilot data, it was seen that approximately 25% of the
+emotion descriptions referred to emotions as objects with dimensional
+attributes, similarity, or subsethood. This motivated the author to
+use interval type-2 fuzzy sets as a computational model for the
+conceptual meaning of emotion descriptions. This model introduces a
+definition of a variable that ranges over emotions and allows for both
+inter- and intra-subject variability. A second experiment used
+interval surveys and translation tasks to assess this model. Finally,
+the author proposes the use of spectral graph theory to represent
+emotional knowledge as a network of proposition nodes that are
+connected  to emotion nodes based on data from EMO20Q.
+
+Short Bio: Abe Kazemzadeh is a PhD student at the USC Computer Science Dept and a
+research assistant at the the Signal Analysis and Interpretation
+Laboratory (SAIL). His interests include natural language, logic,
+emotions, games, and algebra.

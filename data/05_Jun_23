@@ -1,0 +1,19 @@
+Michael Fleischman (MIT)
+Intentional Context in Situated Language Learning
+10:30 am - 12:00 pm
+11 Small
+
+Natural language interfaces designed for agents that interact with users
+in shared environments (e.g. training simulators, videogames) must
+incorporate knowledge about the users' context in order to address the
+many ambiguities of situated language use. We introduce a model of
+situated language acquisition that operates in two phases.  First,
+intentional context is represented and inferred from user actions using
+probabilistic context free grammars.  Then, utterances are mapped onto
+this representation in a noisy channel framework.  The acquisition model
+is trained on unconstrained speech collected from subjects playing an
+interactive game, and tested using an understanding task.  Discussion of
+results focuses both on the implications for theoretical models of
+cognition, as well as, for natural language applications in shared
+environments.
+

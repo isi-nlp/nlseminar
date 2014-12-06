@@ -1,0 +1,26 @@
+Idan Szpektor (Bar-Ilan U)
+Textual Entailment: Framework, Learning and Applications
+3:00 pm - 4:30 pm
+11 Large
+
+Textual Entailment has been proposed recently as a generic framework
+for modeling semantic variability in many Natural Language Processing
+applications, such as Question Answering, Information Extraction,
+Information Retrieval and Document Summarization. The Textual
+Entailment relationship holds between two text fragments, termed text
+and hypothesis, if the truth of the hypothesis can be inferred from
+the text.
+
+In this talk, the Textual Entailment framework will be introduced.
+I'll then present an algorithm for large-scale Web-based acquisition
+of entailment rules, a type of knowledge needed for robust inference.
+Finally, I will present an unsupervised Relation Extraction approach
+based on the Textual Entailment framework.
+
+About the speaker:
+
+Idan Szpektor is a PhD student under the supervision of Dr. Ido Dagan
+at Bar Ilan University, Israel. His current research activity is in
+acquisition of knowledge for textual entailment.
+
+

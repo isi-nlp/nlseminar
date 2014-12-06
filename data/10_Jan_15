@@ -1,0 +1,34 @@
+Min-Yen Kan (National University of Singapore)
+ForeCite: towards a more integrated scholarly digital library
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Scholarly digital libraries (DLs) have managed to scale up
+to handle millions of documents and now feature tools to track
+citations and references between articles.  However, users of digital
+libraries typically often access the DL merely to check references or to
+download the PDF of the document.  What features will the
+next-generation DL need to inspire scholars to use digital library for
+more than accessing the document?  In ForeCite, our digital library
+project at NUS, we believe part of the answer lies in integrating
+common end user's concerns: annotation, sharing, off-and-online usage
+and focusing on the intra-document processing.  I will describe and
+demonstrate some of the preliminary components of the ForeCite system:
+including its web based front end, ParsCit (a backend open-source
+citation segmentation system), and ForeCiteNote (TiddyWiki based
+research notetaking system) and ForeCiteReader (Google Books-like
+interface for annotation and collaboration on notetaking, and FireCite
+(browser extension for recognizing citations on webpages).
+
+Speaker Bio:
+
+Min-Yen Kan (BS;MS;PhD Columbia Univ.) is an associate professor at
+the National University of Singapore.  His research interests include
+digital libraries and applied natural language processing.  Specific
+projects include work in the areas of scientific discourse analysis,
+multiword expression extraction and understanding, machine translation
+and applied text summarization.  Currently, he is an associate editor
+for "Information Retrieval" and is the Editor for the ACL Anthology,
+the computational linguistics community's largest archive of published
+research. More information about him and his group can be found at the
+WING homepage: http://wing.comp.nus.edu.sg/

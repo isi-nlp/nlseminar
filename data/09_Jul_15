@@ -1,0 +1,25 @@
+Yang Liu (ICT China)
+An Overview of Tree-to-String Translation Models
+4:00 pm - 5:00 pm
+11 Large
+
+Recent research on statistical machine translation has lead to the rapid development of syntax-based translation models, which
+exploit syntactic information to direct translation. In this talk, I
+will give an overview of tree-to-string translation models, one of the
+state-of-the-art syntax-based models. In a tree-to-string model, the source side is a phrase structure parse tree and the target side is a
+string. This talk includes the following topics: (1) tree-based tree-to-string model, (2) tree-sequence based tree-to-string model,
+(3) forest-based tree-to-string model, and (4) context-aware
+tree-to-string model. Experimental results show that the forest-based
+tree-to-string system outperforms Hiero significantly on Chinese-to-English translation.
+
+About the speaker:
+
+Yang Liu is an Assistant Researcher at Institute of Computing
+Technology (ICT), Chinese Academy of Sciences. He received his PhD
+degree in Computer Science from ICT in 2007. His major research
+interests include statistical machine translation and Chinese
+information processing. He has been working on syntax-based modeling,
+word alignment, and system combination. His paper on tree-to-string
+translation won the Meritorious Asian NLP Paper Award of COLING/ACL
+2006. He served as Reviewers for TALIP, TSLP, JNLE, ACL, EMNLP, AMTA, and SSST.
+

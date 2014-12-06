@@ -1,0 +1,6 @@
+Sujith Ravi
+Deciphering Ciphers Optimally Using Only Minimal Knowledge of the Source Language
+3:00 pm - 4:00 pm
+11 Large
+
+I will be talking about deciphering letter-substitution ciphers *optimally* using only minimal knowledge (bigrams, trigrams, etc.) of the source language, instead of relying on large look-up dictionaries. We also plan to show how our empirical results compare with Shannon's predictions on the equivocation curves and unicity distance measure.

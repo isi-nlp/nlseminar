@@ -1,0 +1,6 @@
+Rutu Mulkar
+Discovering Causal and Temporal Relations in Biomedical Texts (practice talk for AAAI Spring Symposium)
+2:00 pm - 2:30 pm
+4th floor CR
+
+In previous work on "Learning by Reading" we successfully extracted entities, states and events from technical natural language descriptions of processes. The research described here is aimed at the automatic discovery of causal and temporal ordering relations among states and events, specifically, among molecular and other events in biomedical articles. We have annotated causal and temporal relations in articles on the cell cycle, and we discuss our annotation guidelines and the issue of inter-annotator agreement. We then describe the natural language parsing and the inference system we use to extract these relations. We have created axioms manually for this system, focusing on temporal, causal and aspectual information and we have used semi-automatic means to augment these axioms. We have evaluated the performance of this system, and the results are promising.

@@ -1,0 +1,6 @@
+Ashish Vaswani and David Chiang
+Neural Networks for NLP
+3:00 pm - 4:00 pm
+11th Floor Conference Room [1135]
+
+Recent years have seen a resurgence of Neural Networks  in Natural Language Processing. Much of this success can be attributed to learning compact representations (or embeddings) of words, which are used as input to train standard Neural Network architectures. In the first part of the talk I will describe two approaches for learning word embeddings for large vocabularies. In the second part, I will talk about successful applications of Neural Networks in NLP tasks like Part-Of-Speech tagging, Chunking, Parsing etc. without any feature engineering. I will also describe some preliminary work on Neural Networks for unsupervised Part-Of-Speech tagging.

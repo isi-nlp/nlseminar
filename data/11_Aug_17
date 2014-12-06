@@ -1,0 +1,13 @@
+Licheng Fang
+Structured Language Modelling for Machine Translation
+2:00 pm - 2:30 pm
+4th Floor Large Conference Room [460]
+
+Machine translation can potentially benefit from the guidance of a
+language model that evaluates translation candidates based on syntactic
+structures. In this talk we are going to describe the summer project to
+build such an incremental structured language model that can be used in
+machine translation systems that generate the target language in a
+left-to-right manner. We will describe in detail our work in modelling,
+search, and parameter smoothing.
+

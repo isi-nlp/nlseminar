@@ -1,0 +1,27 @@
+Qin Iris Wang (Alberta)
+Improved Large Margin Dependency Parsing via Local Constraints and Laplacian Regularization
+3:00 pm - 4:30 pm
+11 Large
+
+This talk is about an improved approach for learning dependency parsers
+from treebank data. Our technique is based on two ideas for improving
+large margin training in the context of dependency parsing.  First, we
+incorporate local constraints that enforce the correctness of each
+individual link, rather than just scoring the global parse tree. Second,
+to cope with sparse data, we smooth the lexical parameters according to
+their underlying word similarities using Laplacian Regularization.  To
+demonstrate the benefits of our approach, we consider the problem of
+parsing Chinese treebank data using only lexical features, that is,
+without part-of-speech tags or grammatical categories.  We achieve state
+of the art performance, improving upon current large margin approaches.
+
+Here is the link for the paper:
+  http://www.cs.ualberta.ca/~wqin/papers/depar_margin_conll06.pdf
+
+About the speaker:
+
+Qin Iris Wang is a Ph.D. student from the University of Alberta,
+working with Dekang Lin and Dale Schuurmans. Her research interests
+are in natural language processing and machine learning. Specifically,
+she has been working on dependency parsing using both generative and
+discriminative methods.

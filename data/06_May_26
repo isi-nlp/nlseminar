@@ -1,0 +1,55 @@
+Radu Soricut and Hal Daume III
+Defense Practice Talks: Generation and Learning
+3:00 pm - 5:00 pm
+11 Large
+
+These are two practice talks for our upcoming thesis defenses.  The titles 
+and abstracts are:
+
+--------------------------------------------------------------------------
+
+NATURAL LANGUAGE GENERATION FOR TEXT-TO-TEXT APPLICATIONS USING AN INFORMATION-SLIM REPRESENTATION
+
+Radu Soricut
+
+In this talk, I describe a new natural language generation paradigm, based
+on direct transformation of textual information into well-formed textual
+output.  I support this language generation paradigm with theoretical
+contributions in the field of formal languages, new algorithms, empirical
+results, and software implementations. At the core of this work is a novel
+representation formalism for probability distributions over finite
+languages. Due to its convenient representation and computational
+properties, this formalism supports a wide range of language generation
+needs, from sentence realization to text planning.
+
+Based on this formalism, I describe, implement, and analyze theoretically
+a family of algorithms that perform language generation using direct
+transformations of text. These algorithms use stochastic models of
+language to drive the generation process. I perform extensive empirical
+evaluations using my implementation of these algorithms. These evaluations
+show state-of-the-art performance in automatic translation, and
+significant improvements in state-of-the-art performance in abstractive
+headline generation and coherent discourse generation.
+
+
+--------------------------------------------------------------------------
+
+PRACTICAL STRUCTURED LEARNING FOR NATURAL LANGUAGE PROCESSING
+
+Hal Daume III
+
+Natural language processing is replete with problems whose outputs are
+highly complex and structured.  The current state-of-the-art in machine
+learning is not yet sufficiently general to be applied to general problems
+in NLP.  In this thesis, I present Searn (for "search" + "learn"), an
+approach to learning for structured outputs that is applicable to the wide
+variety of problems encountered in natural language.  Searn operates by
+transforming structured prediction problems into a collection of
+classification problems, to which any standard binary classifier may be
+applied.  From a theoretical perspective, Searn satisfies a strong
+fundamental performance guarantee: given a good classification algorithm,
+Searn yields a good structured prediction algorithm.  To demonstrate
+Searn's general applicability, I present applications in such diverse
+areas as automatic document summarization and entity detection and
+tracking.  In these applications, Searn is empirically shown to achieve
+state-of-the-art performance.

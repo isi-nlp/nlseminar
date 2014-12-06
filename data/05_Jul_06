@@ -1,0 +1,50 @@
+Alessandro Moschitti (Rome)
+Kernel Methods for Semantic Role Labeling
+2:00 pm - 3:30 pm
+11 Large
+
+Automatic Natural Language applications often require the processing of
+structured data. Traditional machine learning approaches attempt to
+represent structured syntactic/semantic objects by means of flat feature
+representations, i.e. attribute-value vectors. This raises two problems:
+
+1. There is no well defined theoretical motivation for such feature model.
+Structural properties may not fit in any flat feature representation.
+
+2. To define effective flat features, a deep knowledge about the
+linguistic phenomenon is required.
+
+Kernel methods for Natural Language Processing aim to solve both the above
+problems as kernel functions can be used to define similarities between
+linguistic objects without explicitly defining the target feature space.  
+In this way, a linguistic phenomenon can be modeled at a more abstract
+level where the modeling is easier. Such property is extremely useful when
+the representation of linguistic phenomena is still not well understood.
+For example, the feature design of semantic role labeling appear to be
+quite complex since several and non-definitive feature sets have been
+proposed.
+
+As a viable alternative to manual feature design, kernel methods propose
+two steps: (1) they generate all substructures of the target
+syntactic/semantic structures and (2) they let the learning algorithm
+(e.g. Support Vector Machines) to select the most relevant substructures.
+In this talk, we (1) introduce the PropBank and FrameNet predicate
+argument structures, (2) present the standard approaches to the automatic
+labeling of semantic roles and (3) show advanced semantic role labeling
+models based on kernel methods.
+
+About the speaker:
+
+Alessandro Moschitti is a researcher at the Computer Science Department of
+the University of Rome ^ÓTor Vergata^Ô. In 1998 he took his master degree
+in Computer Science at the University of Rome ^ÓLa Sapienza^Ô. In 2003 he
+finished his PhD in Computer Science at ^ÓTor Vergata^Ô University.  
+Between 2002 and 2004 he worked as an associate researcher in the
+University of Texas at Dallas. His research interests concern machine
+learning approaches for Natural Language Processing and Information
+Retrieval. His deep expertise relates to automated text categorization and
+semantic role labeling.  Recently, he has devised new kernels which enable
+Support Vector and other kernel-based machines to carry out advanced
+semantic processing.
+
+

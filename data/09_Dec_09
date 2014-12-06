@@ -1,0 +1,27 @@
+Tomohide Shibata (Kyoto University)
+Introduction of Our Research (text analysis and IR)
+3:30 pm - 4:30 pm
+11th Floor Large Conference Room [1135]
+
+I am Tomohide Shibata, an assistant professor at Kyoto University,
+Japan. I am working with Prof. Kurohashi. I have been visiting
+Prof. Hovy for three weeks. In this talk, I introduce our
+research. Our research roughly consists of three fields: basic text
+analysis, information retrieval and machine translation. Among them,
+basic text analysis and information retrieval, which I am engaged in,
+are introduced.
+
+In basic text analysis, we have been developed Japanese morphological
+analyzer and parser, which are widely used in research community. Case
+frames, which describe the relation between a verb and its case
+components, are automatically constructed from a large Web
+corpus. Synonym and is-a relations are automatically extracted from a
+dictionary and Web corpus.
+
+In Information Retrieval, we are running a search engine
+infrastructure called TSUBAKI. The features of TSUBAKI are (i) the
+sentence structure (dependency relation) is considered in the document
+ranking, and (ii) the expression divergence between a query and a
+document is assimilated. We are also running a search result
+clustering system based on TSUBAKI.
+

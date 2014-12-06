@@ -1,0 +1,21 @@
+Hal Daume III
+Search-based Structured Prediction
+3:00 pm - 4:30 pm
+11 Large
+
+I present an algorithm, Searn (for "search-learn") that is designed to
+solve structured prediction problem: problems whose goal is to learn to
+predict complex objects such as parts-of-speech, parse trees,
+translations, etc...  Searn functions by "breaking apart" structured
+prediction problems into classification problems in the process of search.  
+I analyze Searn in the framework of learning reductions and show that good
+performance on the underlying classification problems implies good search
+performance.  Moreover, Searn is computationally efficient in a superset
+of the settings where previous algorithms are efficient and is not limited
+by conditional independence assumptions (as in CRFs).  This excessively
+simple and general algorithm turns out to have excellent state-of-the-art
+performance.
+
+This is joint work with John Langford (TTI-C) and Daniel Marcu; and, to a
+lesser extent, with Drew Bagnell (CMU) and Bianca Zadrozny (IBM TJ
+Watson).

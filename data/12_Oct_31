@@ -1,0 +1,11 @@
+Marcello Federico (FBK Trento, Italy), Marco Trombetti (Translated srl, Rome - Italy)
+Towards  the integration of human and machine translation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+We will given an overview of  the challenges and early results of an EC-funded project,  named MateCat,
+whose goal is  developing an enhanced web-based CAT tool integrating new MT functionalities. In particular,
+MateCat will investigate the integration of MT into the CAT working process along three main directions: 
+self-tuning MT, user adaptive MT, and informative MT.  In this seminar, we will report on recent activities 
+concerning domain and on-line MT adaptation and will introduce the first version of the MateCat tool,
+that will be officially released in open source by the end of the year.

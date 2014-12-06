@@ -1,0 +1,33 @@
+Rada Mihalcea (UNT)
+Graph-based Ranking Algorithms for Language Processing
+10:30 am - 12:00 pm
+11 Large
+
+Although we live in a predominantly statistical world, there are still
+many language processing applications that long for accurate
+representations of text meaning. Even applications that found partial
+solutions in statistical modeling, including information retrieval,
+machine translation, or automatic summarization, are likely to get a
+significant boost from deeper text understanding.
+
+In this talk, I will present an innovative method for automatic extraction
+of conceptual graphs as a means to represent text meaning.  The method
+relies on a novel adaptation of graph-based ranking algorithms -
+traditionally (and successfully) used in citation analysis, Web page
+ranking, and social networks. I will show how such algorithms can be
+adapted to semantic networks, resulting in an efficient unsupervised
+method for resolving the semantic ambiguity of all words in open text, and
+identifying relations between entities in the text. I will also outline a
+number of applications that are enabled by this representation, including
+keyphrase extraction, domain classification, and extractive summarization.
+
+BIO: Rada Mihalcea is an Assistant Professor of Computer Science at
+University of North Texas. Her research interests are in lexical
+semantics, minimally supervised natural language learning, and
+multilingual natural language processing. She is currently involved in a
+number of research projects, including word sense disambiguation, shallow
+semantic parsing, (non-traditional) methods for building annotated corpora
+with volunteer contributions over the Web, word alignment for language
+pairs with scarce resources, and graph-based ranking algorithms for
+language processing. Her research is supported by NSF and the state of
+Texas.

@@ -1,0 +1,40 @@
+Ashish Venugopal (CMU)
+Delayed LM Intersection and Left-to-Right N-Best Extraction for Syntax-Based MT
+3:00 pm - 4:30 pm
+11 Large
+
+We begin by describing a set of pruning constraints that are applied
+in the literature to effectively restrict the search space of
+synchronous PCFGs intersected with target language model contexts. We
+apply these constraints to non-binarized grammars with a large number
+of non-terminals and demonstrate effective parsing within the
+framework of Wu, 97.  
+
+We then present a novel parsing approach that avoids language model
+context intersection during parsing in favor of language model driven
+n-best list extraction. The parsing step produces a sentence
+spanning parse forest which is explored in left-to-right target order
+by the N-Best extraction method. 
+
+This method avoids lossy pruning during the parsing process, searching
+a much larger effective parse space than practically possible in the
+full intersection scenario, and has the important benefit of allowing
+integration of a high order language within the N-Best search process,
+rather than only in parse re-scoring.  
+
+We demonstrate the impact of this parsing approach using the SPCFG
+approach described in Zollmann, Venugopal, Vogel 06, which is similar
+to Galley et al., 04 and compare performance against full
+intersection.  
+
+This is joint work with Andreas Zollmann
+
+About the Speaker:
+
+Ashish Venugopal is a Ph.D candidate at the Language Technologies
+Institute at Carnegie Mellon University, and holds B.S (SCS,
+Univ. Honors), M.S degrees from the same institution. He is a Seibel
+Scholar and has received the annual Graduate Student Teaching Award at
+Carnegie Mellon. His research focus is on syntax augmented machine
+translation. 
+

@@ -1,0 +1,6 @@
+Jason Riesa
+Hierarchical Search for Word Alignment (ACL 2010 Practice Talk)
+3:30 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+We present a simple yet powerful hierarchical search algorithm for automatic word alignment. Essentially, we treat word alignment as a parsing problem, and induce a forest of alignments from which we can efficiently extract a ranked k-best list. We score a given alignment within the forest with a flexible, linear discriminative model incorporating hundreds of local and nonlocal features features, trained on a relatively small amount of annotated data. We report results on Arabic-English word alignment and translation tasks. Our model outperforms a GIZA++ Model-4 baseline by 6.3 points in F-measure, yielding a 1.1 BLEU score increase over a state-of-the-art syntax-based machine translation system.

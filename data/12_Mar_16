@@ -1,0 +1,8 @@
+Jason Riesa
+Syntactic Alignment Models for Large-Scale Translation (PhD Defense Practice Talk)
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Word alignment, the process of inferring the implicit links between words across two languages, serves as an integral piece of the puzzle of learning linguistic translation knowledge. It enables us to acquire automatically from data the rules that govern the transformation of words, phrases, and syntactic structures from one language to another. Word alignment is used in many tasks in Natural Language Processing, such as bilingual dictionary induction, cross-lingual information retrieval, and distilling parallel text from within noisy data. In this talk, we focus on word alignment for statistical machine translation.
+
+We advance the state-of-the-art in search, modeling, and learning of alignments and show empirically that, when taken together, these contributions significantly improve the output quality of large-scale statistical machine translation, outperforming existing methods. The work we describe may be used for any language-pair, supporting arbitrary and overlapping features from varied sources.

@@ -1,0 +1,6 @@
+Qing Dou
+Deciphering Gigaword
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+State of the art machine translation systems learn translation rules from large amounts of parallel data (pairs of sentences that are translation of each other). Unfortunately, the amount of parallel data is very limited for many languages and domains. In general, it is easier to obtain monolingual data. Is it possible to learn useful translations from large amounts of monolingual data to improve machine translation when the amount of parallel data is limited? In this talk, I will present my ongoing work that applies decipherment techniques to decipher hundreds of millions Spanish news texts into English and learns a translation lexicon from the decipherment to improve a translation model learned from limited parallel data. 

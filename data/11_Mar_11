@@ -1,0 +1,29 @@
+Cosmin Adrian Bejan (ICT)
+Nonparametric Bayesian Models for Clustering Feature-Rich Linguistic Objects
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+In this talk, I will present how a new class of unsupervised,
+nonparametric Bayesian models can be effectively applied to solve real data applications that involve clustering feature-rich linguistic objects.
+
+First, I will describe a generalization of the hierarchical Dirichlet
+process model to account for additional properties associated with
+observable objects. In addition, to overcome some of the limitations of
+this new model, I will then describe a new hybrid model which combines
+an infinite latent class model with a discrete time series model. The
+main advantages of this hybrid model are the abilities to represent
+a potentially infinite number of features associated with observable
+objects and to perform an automatic selection of the most salient
+features.  Furthermore, all the models described in this talk are
+designed to account for a potential number of categorical outcomes. 
+The evaluation performed for solving both within- and cross document
+event coreference shows significant improvements of the models when
+compared against three baselines for this task.
+
+Short Bio:
+Cosmin Adrian Bejan is a postdoctoral researcher at the USC Institute
+for Creative Technologies, where he is currently working on applications
+that involve extraction and analysis of commonsense knowledge from large
+collections of text documents. His research interests include event
+semantics, semantic parsing, commonsense causal reasoning, unsupervised learning, and nonparametric Bayesian methods.
+

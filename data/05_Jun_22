@@ -1,0 +1,46 @@
+Hal Daume III
+Beyond EM: Bayesian Techniques for NLP Researchers
+1:00 pm - 4:30 pm
+11 Large
+
+EM has proved to be a great and useful technique for unsupervised learning
+problems in natural language.  Unfortunately, it cannot solve every
+problem out there, either because the E-step is intractable, the M-step is
+intractable or both.  Typically our community resorts to a Viterbi
+approximation in this case, which really isn't very justified and can
+easily diverge from our expectations (no pun intended). Moreover, EM --
+like all maximum likelihood methods -- suffers from a need for ad-hoc and
+undesirable smoothing.  All of these problems -- intractable E- or
+M-steps, the Viterbi approximation, and the annoyance of smoothing -- are
+solved by using Bayesian methods. Moreover, from a theoretic point of
+view, the Bayesian paradigm is much more foundationally well justified
+than the frequentist use of estimators (such as the maximum likelihood
+estimator), at some cost in computation (though not as much as you might
+believe).
+
+In this tutorial, I will discuss Bayesian methods as they can be used in
+natural language processing.  The first half will be background (some of
+which you probably won't have seen, some of which you probably will have
+seen, but which will probably be presented in a different way that you're
+used to) including graphical models, EM, priors and pro- (and con-)
+Bayesian arguments.  The second half of the tutorial will focus on solving
+complex inference problems, essentially building on what we've seen from
+EM.  I'll cover MAP (*not* Bayesian -- if you can't tell me why, then you
+should come to the tutorial!), summing, Monte Carlo, MCMC, Laplace,
+variational and expectation propagation.  Time permitting, I will briefly
+discuss Bayesian discriminative models (basically what a Bayesian uses
+instead of SVMs), non-parametric (infinite) models and Bayesian decision
+theory, all of which make use of the inference techniques we will have
+already covered.
+
+This tutorial is intended to be largely self contained, though I will
+expect that you know what probabilities are, what distributions are and
+the standard manipulations of conditional/joint distributions. Familiarity
+with EM would be helpful, but I'll cover this topic in some depth since it
+will be important for understanding the rest of the tutorial.  I hope --
+though this never really seems to come to fruition -- that this will be a
+semi-interactive talk and I will attempt to adjust according to what
+people are interested in and what is putting people to sleep.
+
+(see http://www.isi.edu/~hdaume/bayesnlp/ for more information)
+

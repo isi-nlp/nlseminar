@@ -1,0 +1,10 @@
+Giuseppe Carenini (University of British Columbia, Canada)
+Modeling Topics, Opinions and Discourse Structure in Asynchronous Conversations
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [Rm 689]
+
+Due to the Internet revolution, human conversational data--in written forms--are accumulating at a phenomenal rate, as more and more people engage  in email exchanges, blogging, texting and other social media activities. In this talk, we will present automatic methods for analyzing conversational text generated in asynchronous conversations, i.e., where participants communicate with each other at different times (e.g., email, blog, forum). Our focus will be on novel techniques to detect the topics covered in the conversation, to identify whether an utterance in the conversation is expressing an opinion, as well as to determine the discourse structure of each message. In our work, we apply both graph-based methods and probabilistic graphical models.
+
+Giuseppe is an Associate Professor in Computer Science at the University of British Columbia (BC, Canada). Giuseppe has broad interdisciplinary interests. His work on natural language processing and information visualization to support decision making has been published in over 90 peer-reviewed papers. Dr. Carenini was the area chair for “Sentiment Analysis, Opinion Mining, and Text Classification” of ACL 2009 and the area chair for “Summarization and Generation” of NAACL 2012. He has recently co-edited an ACM-TIST
+Special Issue on “Intelligent Visual Interfaces for Text Analysis”. In July 2011, he has published a co-authored book on “Methods for Mining and Summarizing Text Conversations”. In his work, Dr. Carenini has also extensively collaborated with industrial partners, including Microsoft and IBM. Giuseppe was awarded a Google Research Award and an
+IBM CASCON Best Exhibit Award in 2007 and 2010 respectively.

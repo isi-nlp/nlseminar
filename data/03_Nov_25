@@ -1,0 +1,35 @@
+Hang Li (MSR Beijing)
+Using Bilingual Data to Mine and Rank Translations
+10:30 pm - 12:00 pm
+11th Floor Large
+
+In this talk, I will introduce some of the technologies which
+we have developed in the project on an English reading assistant system
+called English Reading Wizard. The technologies include a method for
+mining translations from web (unparallel corpora), a method for word
+translation disambiguation based on bootstrapping, which is called
+Bilingual Bootstrapping, and a general method of bootstrapping, which is
+called Collaborative Bootstrapping. First, I will introduce the main
+features of English Reading Wizard. Next, I will introduce each of the
+methods. The translation mining method is based on a naïve Bayesian
+ensemble and the EM algorithm. Bilingual Bootstrapping uses the
+asymmetric translation relationship between words in the two languages
+in translation and can construct reliable classifiers for word
+translation disambiguation. Collaborative Bootstrapping contains the
+co-training algorithm as its special case, and it uses the strategy of
+uncertainty reduction in training of the two classifiers.
+
+Bio:
+
+Hang Li is a researcher at the Natural Language Computing Group
+of Microsoft Research in Beijing, China. He is also adjunct professor of
+Xian Jiaotong University. Hang Li obtained a B.S. in Electrical
+Engineering from Kyoto University (Japan) in 1988 and a M.S. in Computer
+Science from Kyoto University in 1990. He earned his Ph.D. in Computer
+Science from the University of Tokyo in 1998. >From 1990 to 2001, Hang
+Li worked at the Research Laboratories of NEC Corporation in Kawasaki,
+Japan. He joined Microsoft Research in 2001.  His research interest
+includes statistical learning, natural language processing, data mining,
+and information retrieval. Hang Li's web site:
+  http://research.microsoft.com/users/hangli/
+

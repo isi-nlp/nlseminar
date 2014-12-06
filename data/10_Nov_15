@@ -1,0 +1,27 @@
+Jason Riesa
+Structured Models for Bilingual Alignment (Ph.D. Proposal practice talk)
+4:00 pm - 5:00 pm
+4th Floor Conference Room [460]
+
+Bilingual alignment serves as an integral step and the foundation in
+the building of any state-of-the-art statistical machine translation
+system. It enables us to automatically learn and extract translation
+rules from hundreds of millions of words of bilingual text.
+
+Twenty years ago, the research area of machine translation was
+beginning to make use of the increasing availability and speed of
+computing resources demanded by the ideas of a previous generation,
+notably Weaver (1949). The IBM translation models -- statistical
+models for automatic word-to-word translation (Brown et al., 1990;
+Brown et al., 1993) - spurred a flurry of new statistical and
+empirical research in this area. They have become ubiquitous in the
+field and are easy to train in an unsupervised fashion; Al-Onaizan et
+al. (1999) and Och and Ney (2003) have given us open-source toolkits
+for this purpose.
+
+However, there are many problems that still exist. The work presented
+in this thesis proposal will eliminate many of the problems with
+alignment systems that have persisted for two decades, significantly improving machine translation
+quality and decidedly advancing the state-of-the-art. In achieving
+this goal, we develop new models of bilingual alignment and efficient
+search algorithms for working with such models.

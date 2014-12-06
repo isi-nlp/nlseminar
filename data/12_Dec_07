@@ -1,0 +1,6 @@
+Shu Cai
+Smatch: an Evaluation Metric for Semantic Feature Structures
+3:00 pm - 4:00 pm
+11th Floor Conference Room [1135]
+
+Feature structures are useful for capturing logical semantic relationships. In this talk, we present smatch, a metric that determines semantic overlap between two semantic feature structures. We give an ef.cient algorithm to compute the metric, and we show the results of an inter-annotator agreement study.

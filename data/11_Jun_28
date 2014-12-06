@@ -1,0 +1,9 @@
+Suzy Howlett (Macquarie University)
+Confidence in Syntax for Statistical Machine Translation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Phrase-based statistical machine translation typically uses no syntactic information during translation, but while this information intuitively seems useful, including it has not necessarily helped translation performance. My PhD project is looking at this problem in the context of a syntactically-informed reordering preprocessing step prior to phrase-based translation. My work so far has shown that this preprocessing step does not necessarily improve performance when applied to every sentence; in my project I aim to develop a lattice-based system, armed with a number of syntax-based confidence features, that can choose on a sentence-by-sentence basis whether to use the reordering. In this presentation I will outline my progress so far, and welcome feedback and suggestions, particularly with respect to features to consider.
+
+Short Bio:
+Suzy Howlett is a PhD student at the Centre for Language Technology at Macquarie University, Australia, under the supervision of Mark Dras. She studied computer science and linguistics as an undergraduate at the University of Sydney, finishing in 2008 with an Honours year with James Curran, looking at automatically annotating additional training data for the C&C statistical CCG parser. 

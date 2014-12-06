@@ -1,0 +1,33 @@
+Stephan Gouws (Stellenbosch University)
+Measuring Conceptual Similarity by Spreading Activation over Wikipedia's Hyperlink Graph
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+The World Wide Web brought with it an unprecedented level of
+information overload. Computers are very effective at processing and
+clustering numerical and binary data, however, the automated conceptual
+clustering of natural-language data is considerably harder to automate.
+Many techniques rely on relatively simple keyword-matching techniques or
+probabilistic methods to measure semantic relatedness between words and
+documents. However, these approaches do not always accurately capture
+conceptual relatedness as measured by humans.
+
+In this talk I'll briefly discuss a novel use of spreading activation
+(SA) techniques (primarily from cognitive science) for computing
+semantic relatedness between words and/or documents. This is done by
+modelling the article hyperlink structure of Wikipedia as an associative
+network structure for knowledge representation. The SA technique is
+adapted and several problems are addressed for it to function over the
+derived Wikipedia hyperlink graph. We evaluate these approaches over
+standard document similarity datasets and by user evaluation
+experiments, and achieve results which compare favourably with state of
+the art methods. 
+
+By making use of the collaboratively-created resource Wikipedia, we
+hereby also overcome a significant problem in making use of spreading
+activation based techniques for information retrieval up to now, as
+noted by Crestani (1997): "The problem of building a network which
+effectively represents the useful relations [between concepts] has
+always been the critical point of many of the attempts to use SA in IR.
+These networks are very difficult to build, to maintain and keep up to
+date.

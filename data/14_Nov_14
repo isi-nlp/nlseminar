@@ -1,0 +1,8 @@
+Gully Burns (USC/ISI)
+Machine Reading of the Biomedical Literature: It's All About Data
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Like most scientific disciplines, cancer biology involves performing experiments and interpreting them. At present, most modeling efforts center on trying to bring together collections of interpretations as 'pathway diagrams' but do not attempt to capture the semantics of supporting experimental data. Here, I will describe a new strategic approach for machine reading of scientific articles based on a generic representation of experimental data with explicit examples within the field of cancer biology. I will also discuss this effort in the context of the Abstract Meaning Representation (AMR) and present an informal generative story for your consideration and feedback. 
+
+Bio: Gully Burns develops pragmatic biomedical knowledge engineering systems for scientists that provide directly useful functionality in their everyday use and is based on innovative, cutting edge computer science. He was originally trained as a physicist at Imperial College in London before switching to do a Ph.D. in neuroscience at Oxford. He came to work at USC in 1997, developing the 'NeuroScholar' project in Larry Swanson's lab before joining the Information Sciences Institute in 2006. He is now works as project leader in ISI's Information Integration Group. 

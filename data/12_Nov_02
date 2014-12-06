@@ -1,0 +1,70 @@
+Christian Chiarcos
+Linguistic Linked Open Data. Linking Corpora
+3:00 pm - 4:00 pm
+11th Floor Conference Room [1135]
+
+In the last 15 years, the interoperability of language resources has
+been recognized as a major problem in the development of NLP
+infrastructures -- partly due to an increased focus on novel,
+underresourced languages and efforts to bootstrap language resources
+by annotation projection -- partly due to the increased interest in
+more abstract levels of linguistic analysis beyond morphosyntax and
+syntax, namely semantics, reference and discourse.
+
+This talk describes the application of Semantic Web formalisms, RDF,
+OWL/DL and SPARQL, to facilitate the interoperability of linguistic
+corpora and linguistic annotations. Interoperability of linguistic
+corpora involves two aspects: Structural interoperability (annotations
+of different origin are represented using the same formalism) and
+conceptual interoperability (annotations of different origin are
+linked to a common vocabulary). I will describe ontology-based
+approaches for both aspects, the POWLA ontology that defines a data
+model for annotated corpora, and the Ontologies of Linguistic
+Annotation (OLiA) that provide definitions for linguistic categories
+and properties (Chiarcos 2012). As compared to state-of-the-art
+approaches based on standoff XML, e.g., the recently published ISO
+standard for an Linguistic Annotation Framework, key advantages of
+this approach include the existence of a rich technological ecosystem
+developed around RDF and OWL, including standardized query languages
+for directed acyclic (multi-) graphs (SPARQL), APIs, data base
+implementations, as well as the availability of OWL reasoners that can
+be applied to validate the consistency of linguistic corpora and their
+annotations and to infer additional information that is relevant, for
+example, for their appropriate visualization.
+
+Naturally, representing corpora in OWL and RDF also allows to
+interlink resources freely, e.g., different annotation layers of a
+multi-layer corpus, translated texts in parallel corpora, or
+linguistic corpora and lexical-semantic resources. Modeled in this
+way, corpora can be fully integrated in a Linked Open Data (sub-)cloud
+of linguistic resources, along with lexical-semantic resources and
+knowledge bases of information about languages and linguistic
+terminology. The second part of my talk will introduce recent efforts
+to create a Linked Open Data sub-cloud of linguistic resources, the
+Linguistic Linked Open Data cloud (Chiarcos et al. 2012, cf.
+http://linguistics.okfn.org).
+
+References
+
+Christian Chiarcos, Sebastian Hellmann, Sebastian Nordhoff, et al.
+(2012), The Open Linguistics Working Group, Proceedings of the 8th
+International Conference on Language Resources and Evaluation
+(LREC-2012). Istanbul, Turkey, May 2012.
+[http://www.lrec-conf.org/proceedings/lrec2012/pdf/912_Paper.pdf]
+
+Christian Chiarcos (2012), Interoperability of Corpora and
+Annotations, In: Christian Chiarcos, Sebastian Nordhoff, and Sebastian
+Hellmann (eds.) Linked Data in Linguistics. Representing and
+Connecting Language Data and Language Metadata. Springer, Heidelberg.
+[http://www.springer.com/computer/ai/book/978-3-642-28248-5]
+
+Bio
+
+Christian Chiarcos studied Computer Science and General Linguistics at
+the Technical University Berlin, Germany, and received his PhD in
+Computational Linguistics from the University of Potsdam, Germany in
+2010. He is currently affiliated with the University of Frankfurt/M.,
+Germany. Since April 2012, he is visiting scholar at the ISI. His
+primary areas of expertese include the study and modeling of discourse
+semantics, as well as the development of infrastructures for rich and
+heterogeneous linguistic annotations.

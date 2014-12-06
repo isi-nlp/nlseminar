@@ -1,0 +1,18 @@
+Patrick Pantel
+Espresso: Making Use of Generic Patterns for Mining Relations from Small and Large Corpora
+3:00 pm - 4:30 pm
+11 Large
+
+In the past decade, researchers have explored many approaches to
+automatically extract large collections of knowledge from text. In this
+talk, we present Espresso, a weakly-supervised, general-purpose, and
+broad-coverage algorithm for harvesting binary semantic relations. The
+main contributions are: i) a method for exploiting generic patterns by
+filtering incorrect instances using the Web; and ii) a principled measure
+of pattern and instance reliability enabling the filtering algorithm. We
+present an empirical comparison of Espresso with various state of the art
+systems, on different size and genre corpora, on extracting various
+general and specific relations. Experimental results show that our
+exploitation of generic patterns substantially increases system recall
+with small effect on overall precision.
+

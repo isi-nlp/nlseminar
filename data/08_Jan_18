@@ -1,0 +1,6 @@
+Victoria Fossum
+Using Syntax to Improve Word Alignment Precision for Syntactic Machine Translation
+3:00 pm - 4:30 pm
+11 Large
+
+Automatically word-aligning a parallel bitext in the source and target languages constitutes the first stage of most statistical machine translation pipelines.  Automatic word alignment is error-prone, and produces many incorrect links.  Incorrect links that violate syntactic correspondences interfere with the extraction of string-to-tree transducer rules for syntactic machine translation.  We present an algorithm for identifying and deleting incorrect word alignment links, using features of the extracted rules.  We obtain gains in both alignment quality and translation quality in Chinese-English and Arabic-English translation experiments, relative to a GIZA++ union baseline.

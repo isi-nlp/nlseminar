@@ -1,0 +1,16 @@
+Chenhai Xi
+Name Entity Transliteration Discovery from Large Bilingual Comparable Corpora
+3:00 pm - 3:30 pm
+11 Large
+
+In this summer project, we investigate a scalable method to extract
+Chinese-English name transliterations from large comparable corpora,  
+which consist of two languages discussing same or similar topics. We show  
+that bigram Jaccard coefficient is a good similarity method to compare English  
+and Chinese names, at Chinese pronunciation (Pinyin) level. Based on this phonetic
+similarity score, an efficient randomized algorithm is then used to  
+find name pair candidates from English and Chinese lists. Finally, context  
+information, such as dates, frequency, place and titles are combined with the  
+phonetic similarity to improve the accuracy of the name pairs list.
+
+(Note: This is part of the Summer Intern Series)

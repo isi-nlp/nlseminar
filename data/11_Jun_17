@@ -1,0 +1,9 @@
+Xuchen Yao
+Nonparametric Bayesian Word Sense Induction (ACL practice talk) 
+3:00 pm - 3:40 pm
+11th Floor Large Conference Room [1135]
+
+We propose the use of a nonparametric Bayesian model, the Hierarchical Dirichlet Process (HDP), for the task of Word Sense Induction. Results are
+shown through comparison against Latent Dirichlet Allocation (LDA), a parametric Bayesian model employed by Brody and Lapata (2009) for this task.
+We find that the two models achieve similar levels of induction quality, while the HDP confers the advantage of automatically inducing a variable number of senses per word, as compared to manually fixing the number of senses a priori, as in LDA. This flexibility allows for the model to adapt to terms with greater or lesser polysemy, when evidenced by corpus distributional statistics.
+

@@ -1,0 +1,19 @@
+Ellen Riloff
+Effective Information Extraction with Relevant Regions and Semantic Affinity Patterns
+3:00 pm - 4:00 pm
+11 Large
+
+I will briefly overview the landscape of event-oriented information
+extraction (IE) systems and explain why it is especially challenging
+to learn IE systems without annotated training data. Then I will
+describe one attempt to do so by decoupling the tasks of finding
+relevant text regions and applying extraction patterns. First, a
+self-trained relevant sentence classifier identifies relevant regions
+in documents. Second, a "semantic affinity" measure identifies
+domain-relevant extraction patterns.  We further distinguish between
+"primary" patterns and "secondary" patterns and apply the patterns
+selectively in the relevant regions.  This approach is weakly
+supervised, requiring only a few seed patterns plus relevant and
+irrelevant (but unannotated) documents for training.  The resulting IE
+system achieves reasonably good performance, despite the fact that the
+relevant region classifier leaves a lot to be desired.

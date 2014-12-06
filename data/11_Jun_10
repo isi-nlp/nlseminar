@@ -1,0 +1,9 @@
+Cartic Ramakrishnan
+The Role of Information Extraction in the Design of a Document Triage Application for Biocuration
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Traditionally, automated triage of papers is performed using lexical (unigram, bigram, and sometimes trigram) features.  This talk
+explores the use of information extraction (IE) techniques to create richer linguistic features than traditional bag-of-words models. Our
+classifier includes lexico-syntactic patterns and more-complex features that represent a pattern coupled with its extracted noun,
+represented both as a lexical term and as a semantic category. Our experimental results show that the IE-based features can improve performance over unigram and bigram features alone. We present intrinsic evaluation results of full-text document classification experiments to determine automatically whether a paper should be considered of interest to biologists at the Mouse Genome Informatics (MGI) system at the Jackson Laboratories. We also further discuss issues relating to design and deployment of our classifiers as an application to support scientific knowledge curation at MGI. 

@@ -1,0 +1,15 @@
+Kenji Sagae (USC/ICT)
+Dependency parsing with directed graph output
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Most data-driven dependency parsing approaches assume that the
+structure of sentences is represented as trees. Although trees have
+several desirable properties from a computational perspective, the
+structure of linguistic phenomena that go beyond shallow syntax often
+cannot be fully captured by tree representations. I will describe
+data-driven dependency parsing approaches that produce more general
+graphs as output, and present results obtained with these approaches
+on predicate-argument structures extracted from CCG and HPSG datasets.
+
+Kenji Sagae is a Research Scientist in the Institute for Creative Technolgies at the University of Southern California, and a Research Assistant Professor in the USC Computer Science Department.  He received his PhD from Carnegie Mellon University in 2006.  Prior to joining USC in 2008, he was a research associate at the University of Tokyo. His main area of research is Natural Language Processing, focusing on data-driven approaches for syntactic parsing, predicate-argument analysis and discourse processing. His current work includes the application of these techniques in analysis of personal narratives in blog posts, the study of child language, spoken dialogue systems, and multimodal processing.

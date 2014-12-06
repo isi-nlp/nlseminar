@@ -1,0 +1,24 @@
+Hal Daume III
+Search, Learning and Features (my thesis proposal proposal)
+10:30 am - 12:00 pm
+11 Small
+
+I'm going to talk about what I've been working on recently.  My thesis
+proposal is something having to do with the interaction of search,
+learning and features in supervised natural language problems.  I will be
+focusing on the task of coreference, since it is a well-studied problem,
+yet nevertheless not really solved and quite difficult.  It is also a 
+great pedagogical example for why we should care about something *other* 
+than standard Markov random fields for structured prediction, since, for 
+the coreference problem (and pretty much every other "real" natural 
+language problem) inference in such models is intractable.
+
+The contents of this talk will be roughly 40% from a paper I have at ICML
+this year on efficient, accurate supervised learning techniques for
+structured prediction (and why I feel inclined to make the very
+controversial statement that supervised learning for NLP problems is
+solved); it will be roughly 40% about an application of this technique to
+the coreference resolution problem and an exploration of the feature space
+for solving this problem (submitted to HLT); and it will be roughly 20%
+about looking forward to what I want to accomplish in the remainder of my
+thesis, not covered by the first 80%.

@@ -1,0 +1,12 @@
+Allen Schmaltz (Harvard)
+Determinantal Point Processes for Human-Augmented Machine Translation [Intern talk] 
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+
+This talk will introduce languageFractal, an online system for human-augmented machine translation (MT) that aims to incorporate monolingual speakers into the translation pipeline in a cost-effective manner. The essential principle is to take a middle ground between pure MT and a fully crowdsourced approach by augmenting MT results with human corrections in an iterative cycle. To efficiently emit phrases and sentences to users and to effectively explore the space of possible translation options, we propose the use of determinantal point processes (DPPs), which can be used to model subset selection problems in which diversity of the subset is a desirable characteristic.
+
+I will provide a brief tutorial on DPPs (including L-ensembles and the structured variant), and I will present an overview of our formulation of DPPs for dynamic programming problems in the context of the human-augmented machine translation pipeline. I will also introduce the languageFractal pilot and pipeline, the full trials of which will run through the 2014-2015 academic year at Harvard University.
+
+
+Bio: Allen Schmaltz is a Ph.D. student in Computer Science in the School of Engineering and Applied Sciences at Harvard University (2013-present; S.M. 2014), working with Stuart Shieber. He is interested in formal, statistical, and human-augmented machine learning approaches for computational linguistics. Before starting his Ph.D. in Computer Science, he completed the better part of an additional Ph.D. in the (quantitative) social sciences at Harvard University (2010-2013), received a M.A. from Stanford University (2010), and received a B.A. from Northwestern University (2006). Earlier in his academic career he also studied at Cornell University and in Yokohama, Japan, among other places.

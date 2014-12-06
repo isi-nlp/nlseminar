@@ -1,0 +1,25 @@
+John Conroy
+Multi-Document Summary Space:What do People Agree is Important?
+3:00 pm - 4:30 pm
+11 Large
+
+A multi-document summary gives the "gist" of what is contained in a
+collection of related documents. But how can we define a "gist?" We
+explore this question by analyzing human written summaries for clusters of
+document sets. In particular, we estimate the probability that word will
+be chosen by a human to be included in a summary. We demonstrate that if
+this probability model were given by an oracle, then a simple automatic
+method of summarization can produce extract summaries which are
+statistically indistinguishable from the human summaries.
+
+About the Speaker:
+
+John M. Conroy received a B.S. in Mathematics from Saint Joseph's
+University in 1980 and a Ph.D. in Applied Mathematics from the University
+of Maryland in 1986. Since then he has been a research staff member for
+the IDA Center for Computing Sciences in Bowie, MD. His research interest
+is applications of numerical linear algebra and statistics. He is a member
+of the Society for Industrial and Applied Mathematics, Institute of
+Electrical and Electronics Engineers (IEEE), and the Association for
+Computational Linguistics.
+

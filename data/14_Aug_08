@@ -1,0 +1,15 @@
+Tim Schlippe (Karlsruhe Institute of Technology)
+Rapid Generation of Pronunciation Dictionaries for New Domains and Languages
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Automatic speech recognition systems exist only for a small fraction of the more than 7,100 languages in the world since the development of such systems is usually expensive and time-consuming. Therefore, porting speech technology rapidly to new languages with little effort and cost is an important part of research and development. 
+Pronunciation dictionaries are a central component for both automatic speech recognition and speech synthesis. They provide the mapping from the orthographic form of a word to its pronunciation, typically expressed as a sequence of phonemes. 
+I will present innovative strategies and methods for the rapid generation of pronunciation dictionaries for new application domains and languages. Depending on various conditions, solutions are developed and proposed – starting from the simple scenario in which the target language can be found in written form on the Internet and we have a simple mapping between speech and written language – up to the difficult scenario in which no written form for the target language exists. We embedded many of the tools implemented in this work in the Rapid Language Adaptation Toolkit. Its web interface is publicly accessible and allows people to build first speech recognition systems with little technical background. 
+
+
+Bio: Since 2008 Tim Schlippe is a research assistent and PhD student at Karlsruhe Institute of Technology (KIT), Institute for Anthropomatics, in Germany. 
+At KIT he is involved in teaching and several projects. He has published multiple publications in the field of multilingual speech recognition. 
+For his master's thesis he was as a visiting researcher at Carnegie Mellon University, doing research in the field of statistical machine translation. 
+Tim Schlippe will finish his PhD in November 2014. His current research interests are: 
+Multilingual speech recognition with a focus on rapid adaptation of speech recognition systems to new domains and languages, pronunciation modeling, and language modeling. 

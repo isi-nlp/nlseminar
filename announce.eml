@@ -1,0 +1,28 @@
+From: Aliya Deri <aderi@isi.edu>
+To: aderi@isi.edu
+Subject: Reminder: TODAY! - [ACL2014 practice talk] Kneser-Ney Smoothing on Expected Counts
+
+*********** NL Seminar Announcement ***********
+
+ Speaker: Hui Zhang (USC/ISI)
+    Date: 25 Apr 2014
+    Time: 10:30 am - 11:30 am
+Location: 11th Floor Large Conference Room [1135]
+
+    Note: Outside visitors should go to the tenth floor lobby where
+          they will be met and escorted to the appropriate location
+          five minutes before the talk.
+
+   Title: [ACL2014 practice talk] Kneser-Ney Smoothing on Expected Counts
+
+Abstract:
+
+Widely used in speech and language processing, Kneser-Ney (KN) smoothing has consistently been shown to be one of the best-performing smoothing methods. However, KN smoothing assumes integer counts, limiting its potential uses—for example, inside Expectation-Maximization. In this paper, we propose a generalization of KN smoothing that operates on fractional counts, or, more precisely, on distributions over counts. We rederive all the steps of KN smoothing to operate on count distributions instead of integral counts, and apply it to two tasks where KN smoothing was not applicable before: one in language model adaptation, and the other in word alignment. In both cases, our method improves performance significantly.
+
+Hui Zhang is a fourth year PhD student working with Professor David Chiang at the USC Information Sciences Institute. His main research interests are in statistical machine translation and machine learning. He has focused on domain adaptation and smoothing techniques.
+
+
+***********************************************
+
+Remember, future seminars can be found at:
+  http://www.isi.edu/natural-language/nl-seminar/

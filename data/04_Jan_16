@@ -1,0 +1,31 @@
+John Prager (IBM)
+Using Constraints to Improve Question-Answering Accuracy
+2:00 pm - 3:00 pm
+11 Large
+
+Leading Question-Answering systems employ a variety of means to boost the
+accuracy of their answers.  Such methods include redundancy (getting the
+same answer from multiple documents/sources), deeper parsing of questions
+and texts (hence improving the accuracy of confidence measures),
+inferencing (proving the answer from information in texts plus background
+knowledge) and sanity-checking (verifying that answers are consistent with
+known facts).  To our knowledge, however, no QA system deliberately asks
+additional questions in order to derive constraints on the answers to the
+original questions.
+
+We present in this talk the method of QA-by-Dossier-with-Constraints (QDC).
+This is an extension of the simpler method of QA-by-Dossier, in which
+definitional questions ("Who/what is X") are addressed by asking a set of
+questions about anticipated properties of X.  In QDC, the collection of
+Dossier candidate answers, along with possibly other answers to questions
+asked expressly for this purpose, are subjected to satisfying a set of
+naturally-arising constraints.  For example, for a "Who is X" question, the
+system will ask about birth, accomplishment and death dates, which, if they
+exist, must occur in that order, and also obey other constraints such as
+lifespan.  Temporal, spatial and kinship relationships seem to be
+particularly amenable to this treatment, but it would seem that almost any
+"factoid" question can benefit from QDC.  We will discuss the setting-up
+and application of constraint networks, and talk about how (and whether) to
+develop the constraint sets automatically.  We will demonstrate several
+applications of QDC, and present one evaluation in which the F-measure for
+a set of questions improved with QDC from .39 to .69.

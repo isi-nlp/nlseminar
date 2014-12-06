@@ -1,0 +1,10 @@
+Vita Markman (Disney Interactive)
+Discovering Latent Similarities in Car Models Based On Customer Reviews: Towards a Consumer-Driven Product Recommendation System
+3:00 pm - 4:00 pm
+11th Floor Conference Room [1135]
+
+This pilot study explores the hypothesis that customer reviews of cars can be used to create and/or fine tune a recommendation system that offers a list of ranked top-N matches for a given vehicle.  Our main premise is that positive or negative reviews invariably focus on the features relevant to the car being reviewed and hence can be used to uncover subtle similarities among various car models, as well as discover macro-types of cars (e.g. family cars, luxury, high performance sports etc).  To discover similar models based on reviews we propose a Weighted Dice Coefficient which weighs each shared or non-shared word token by its tf-idf score.  Closest top five cars are then discovered for each of the 226 reviewed car models.   We also show that integrating tf-idf scores into the similarity metric improves the accuracy of the top five picks, as compared to the standard Dice Coefficient.
+
+Bio:
+
+I graduated from Rutgers in 2005 with a PhD in Linguistics. Having taught linguistics at Pomona College and Simon Fraser University between 2006 and 2008, I moved into industry in 2008. I currently work as a Computational Linguist at Disney Interactive Media Group. My work primarily concerns developing natural language processing techniques to ensure that the content of Disney's online chat is safe for kids. My work involves developing various NLP methods that filter online chat for inappropriate content, while taking into account the vast informality, sparsity, and noise of the on-line child chat language. In addition, I conduct independent research on Twitter data, specifically clustering one-line micro-tweets by topic. My additional research includes mining online car reviews to identify common car-types based on the features people rate as positive or negative.

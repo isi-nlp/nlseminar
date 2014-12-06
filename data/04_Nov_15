@@ -1,0 +1,14 @@
+Thiago Pardo
+Unsupervised learning of verb argument structures
+3:00 pm - 4:30 pm
+8th floor multipurpose room (#849) -- NOT the conference room
+
+In this talk, I'll present the investigation I'm carrying out in ISI
+lately under Daniel Marcu's supervision.  Following the noisy-channel
+framework, we propose a statistical model for learning the argument
+structures of verbs automatically.  We show that we are able to learn both
+lexicalized and generalized structures and achieve good results, relying
+only on basic NLP tools like a POS tagger and named-entity recognizer. We
+also present a comparison of the structures we learn with the predicted
+ones in PropBank.
+

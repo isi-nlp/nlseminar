@@ -1,0 +1,31 @@
+Victoria Fossum <br> Dirk Hovy 
+Practice talks for NAACL HLT
+3:00 pm - 4:00 pm
+11th flr CR
+
+Combining Constituent Parsers (Victoria Fossum: 3:00pm -- 3:30pm)
+
+Combining the 1-best output of multiple parsers via parse selection or
+parse hybridization improves f-score over the best individual parser
+(Henderson and Brill, 1999; Sagae and Lavie, 2006). We propose three ways to improve upon existing methods for parser combination.
+
+---------------------------------------------------------
+
+Disambiguation of Preposition Sense Using Linguistically Motivated
+Features (Dirk Hovy: 3:30pm -- 4:00pm)
+
+Classifying polysemous words into their proper sense classes is
+potentially useful to any NLP application that needs to extract
+information from text or build a semantic representation of the
+textual information. Like instances of other word classes, many
+prepositions are ambiguous, carrying different semantic meanings
+(including notions of instrumental, accompaniment, location, etc.)
+In this paper, we present a supervised classification approach for
+disambiguation of preposition senses. We use the SemEval 2007
+Preposition Sense Disambiguation datasets to evaluate our system and
+compare its results to those of the systems participating in the
+workshop. We derived linguistically motivated features from both sides
+of the preposition. Instead of restricting     these to a fixed window
+size, we utilized the phrase structure. Testing with five different
+classifiers, we can report an increased accuracy (76.4%) that
+outperforms the best system in the SemEval task.

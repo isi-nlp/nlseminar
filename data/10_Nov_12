@@ -1,0 +1,14 @@
+Stephen Tratz
+Semantically-enriched Parsing for Natural Language Understanding (Ph.D. Proposal practice talk)
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Natural language is riddled with many ambiguities, greatly complicating
+natural language processing tasks. Current parsers reconstruct the
+syntax of sentences without addressing the numerous ambiguities of
+language. This talk discusses a proposed solution for
+semantically-enriched parsing that consists of ontological resources,
+datasets, and tools that can be used to produce more informative parses
+of English sentences. The resulting parses consist not only of syntactic
+structure, but also semantic interpretations for noun compounds,
+preposition senses, and possessive constructions.

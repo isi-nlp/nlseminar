@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: googlecalendarsync
+Version: 0.4
+Summary: Google Calendar Synchronizer
+Home-page: http://googlecalendarsync.googlecode.com
+Author: Andrea Righi
+Author-email: righiandr@users.sf.net
+License: GPL
+Description: googlecalendarsync is a tool written in python to bidirectional synchronize a
+        local iCal (.ics) file with Google Calendar
+        
+Platform: Any

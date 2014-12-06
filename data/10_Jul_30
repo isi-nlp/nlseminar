@@ -1,0 +1,13 @@
+William Yang Wang (Columbia)
+Automatic Vandalism Detection in Wikipedia (COLING 2010 Practice Talk)
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Discriminating vandalism edits from non-vandalism edits in Wikipedia is a challenging task, as ill-intentioned edits can include a variety of content and be expressed in many different forms and styles. Previous studies are limited to rule-based methods and learning based on lexical features, lacking in deep linguistic analysis. In this talk, I will discuss a novel Web-based syntactic-semantic modeling method, which utilizes Web search results as resource and trains topic-specific n-tag and syntactic n-gram language models to detect vandalism. By combining basic task-specific and lexical features, we have achieved high F-measures using logistic boosting and logistic model trees classifiers, surpassing the results reported by major Wikipedia vandalism detection systems. This is a joint work with Prof. Kathleen McKeown at Columbia University and will appear in the oral session at COLING 2010.
+
+Bio: 
+William Yang Wang is a graduate student at Columbia University, and he
+is currently visiting the NL Dialog Group at USC/ICT, working on phonetically
+aware natural language understanding and speech synthesis. In 2008-2009, he was
+with the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+

@@ -1,0 +1,20 @@
+Kyle Gorman (Penn)
+Intern Final Talk:  The Entropy of English given French
+3:00 pm - 3:30 pm
+11 Small
+
+The fundamental task in statistical machine translation (SMT) is to  
+characterize the probability of a target sentence given its source  
+translation; for translating French as English, P(f | e). By applying  
+Bayes Rule, we derive the fundamental theorem of SMT: e maximizing  
+P(e) P(f | e). Advances in SMT come from improving estimations of  
+these two terms, or from more efficient ways of searching for optimal  
+solutions (Brown et al. 1993).
+
+In the case of language modeling, Shannon (1949) and Brown et al.  
+(1992) identified upper and lower bounds for the per-character entropy  
+of English, H(e), for humans and machines, respectively. We ask the  
+same question for SMT, H(e | f), comparing the results for human  
+translators and a simple machine baseline based on IBM Model 1. These  
+numbers are the upper and lower bounds for SMT systems trained on  
+parallel data.

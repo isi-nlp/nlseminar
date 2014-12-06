@@ -1,0 +1,13 @@
+Rahul Bhagat
+Learning Paraphrases from Text (Ph.D. Defense practice talk)
+3:00 pm - 4:00 pm
+11 Large
+
+Paraphrases are textual expressions that convey the same meaning using different surface forms. Capturing the variability of language, they play an important role in many natural language applications including question answering, machine translation, and multi-document summarization. In linguistics, paraphrases are characterized by approximate conceptual equivalence. Since no automated semantic interpretation systems available today can identify conceptual equivalence, paraphrases are difficult to acquire without human effort. The aim of this thesis is to develop methods for automatically acquiring and filtering phrase-level paraphrases using a monolingual corpus.
+
+Noting that the real world uses far more quasi-paraphrases than the logically equivalent ones, we first present a general typology of quasi-paraphrases together with their relative frequencies. To our knowledge the first one ever. We then present a method for automatically learning the contexts in which quasi-paraphrases obtained from a corpus are mutually replaceable. Knowing that quasi-paraphrases are often inexact because they contain semantic implications which can be directional, we present an algorithm called LEDIR to learn the directionality of quasi-paraphrases. Since semantic classes play a crucial role in our work, we also investigate the use of a semi-supervised clustering algorithm for learning semantic classes.
+
+We next investigate the task of learning surface paraphrases, i.e., paraphrases that do not require the use of any syntactic interpretation. Since one would need a very large corpus to find enough surface variations, we use a really large but unprocessed corpus of 150GB (25 billion words) obtained from Google News to do this learning. We show that these paraphrases can be used to learn surface patterns for relation extraction. Finally, we use paraphrases to learn patterns for domain-specific information extraction.
+
+Thus, in this thesis we define quasi-paraphrases, present methods to learn them from a corpus, and show that quasi-paraphrases are useful for information extraction.
+

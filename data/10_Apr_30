@@ -1,0 +1,34 @@
+Walter Daelemans (University of Antwerp)
+Robust features for Computational Stylometry
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Computational stylometry is the automatic assignment of
+author properties (e.g., identity, gender, personality,
+region, age, period, ideology, ...) to a text. Applications
+range from forensic use to literary scholarship. The
+methodology currently most successful is based on the well
+known approach to  text categorization using training
+data in the form of texts with known classes. The approach
+works by extracting text features, selecting the best ones
+using statistical methods, representing the text as a vector
+of these features, and applying machine learning methods to
+the resulting vectors with associated classes. The main
+difference with the original text categorization approach is
+that the extracted text features may be complex and
+linguistically motivated (e.g. syntactic features).
+I will describe some recent applications at the University
+of Antwerp using this methodology: personality detection,
+author assignment with many authors and short texts, scribe
+detection  in medieval texts, provenance and ideology detection 
+in Kenyan news articles, etc.
+I will then focus on an empirical comparison of the
+robustness of different feature types in different
+situations.
+
+Bio:
+
+Walter Daelemans (PhD in Computational Linguistics, University of Leuven, 1987). Trained as a linguist and psycholinguist at the Universities of Antwerpen and Leuven, he specialised in computational linguistics and held research posts at the University of Nijmegen and the AI Lab of the University of Brussels before becoming a lecturer in Computational Linguistics and Artificial Intelligence at Tilburg University where he founded an early research group on machine learning of language (ILK). Since 1999 he is full-time professor at the University of Antwerp where he also heads the computational linguistics group within the CLiPS research centre. His main
+research interests are in machine learning of language (especially memory-based learning), text analytics, and computational psycholinguistics. He co-founded ACL's Special Interest Group on Natural Language Learning (SIGNLL) and its associated conference and shared task series (CoNLL).
+
+

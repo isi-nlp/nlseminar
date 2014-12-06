@@ -1,0 +1,39 @@
+Nick Mote
+Developing a Language Model for Second Language Learner Speech
+3:00 pm - 4:30 pm
+11 Large
+
+ISI's Tactical Language Project is a system designed to teach Americans
+how to speak Arabic through a video game environment. We've taken a FPS
+engine (Unreal 2003) and re-did the graphics so it looks like you're in a
+typical Lebanese village. We took away the guns, added speech recognition,
+and set the player in the middle of it all. The theory is that if you
+learn well in a classroom, you'll perform well in a classroom, but if you
+learn well in a pseudo-naturalistic environment, you'll perform better in
+real life.
+
+In a pedagogical context, speech recognition is a hard thing we're trying
+to recover signal from noisy language-learner speech--with all of its
+mispronunciations, disfluencies, and grammatical errors . Language
+understanding is hopeless unless you have a good approximation of what
+kinds of mistakes learners make, and you can build a system to anticipate
+them.
+
+Suppose an English language learner says "Water". Is he asking you for
+water? Is he telling you there's a puddle in front of you? Is he saying
+his name is "Walter", but with horrible pronunciation? There's a lot of
+ambiguity involved. In order to disambiguate, we need to look at the
+speech signal itself, the utterance's context, the learner's past language
+performance, and details about the learner's mother language as it relates
+to English, etc., etc... Only then can we hope to guess what the learner
+is actually trying to say.
+
+And then, of course, once we've made a good guess at the learner's speech
+intentions, what do we do about it? How do we correct him? How do we
+balance the consideration of inherent qualities of learner motivation,
+language errors, learning objectives, and possibly low-confidence speech
+recognition, as we generate good pedagogical feedback?
+
+This is NLP (primarily statistical) with a bit of pedagogy theory and
+linguistic (SLA and phonology) theory sprinkled in.
+

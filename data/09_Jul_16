@@ -1,0 +1,29 @@
+Yang Liu (ICT China)
+Weighted Alignment Matrices for Statistical Machine Translation
+10:30 am - 11:30 am
+11 Large
+
+Current statistical machine translation systems usually
+extract rules from bilingual
+corpora annotated with 1-best alignments. They are prone to learn
+noisy rules due to alignment mistakes. We propose a new structure
+called weighted alignment matrix
+to encode all possible alignments for a parallel text compactly. The
+key idea is to assign a probability to each word pair to indicate how
+well they are aligned. We design new algorithms for extracting phrase
+pairs from weighted alignment matrices and estimating their
+probabilities. Our experiments on multiple language pairs show that
+using weighted matrices achieves consistent improvements over using
+n-best lists in significant less extraction time.
+
+About the speaker:
+
+Yang Liu is an Assistant Researcher at Institute of Computing
+Technology (ICT), Chinese Academy of Sciences. He received his PhD
+degree in Computer Science from ICT in 2007. His major research
+interests include statistical machine translation and Chinese
+information processing. He has been working on syntax-based modeling,
+word alignment, and system combination. His paper on tree-to-string
+translation won the Meritorious Asian NLP Paper Award of COLING/ACL
+2006. He served as Reviewers for TALIP, TSLP, JNLE, ACL, EMNLP, AMTA, and SSST.
+

@@ -1,0 +1,9 @@
+Andrew S. Gordon (USC/ICT)
+Heider-Simmel Interactive Theater
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+In a famous 1944 paper, psychologist Fritz Heider and his student Marianne Simmel described an experiment where undergraduates were shown a short animated film depicting the movement of geometric shapes. Asked to describe what happened in the film, these students produced narratives that described the behavior of these shapes in anthropomorphic terms, ascribing to them plans, goals, emotions, and social roles that accounted for their behavior. Fritz Heider later wrote his seminal book, The Psychology of Interpersonal Relations, which articulated the role of Commonsense Psychology in the interpretation of the behavior of other people.
+In this talk I'll discuss our recent efforts to model the reasoning of the students in Heider and Simmel's original experiment. I'll describe our vision of a "Heider-Simmel Interactive Theater," a software application where people can create their own short movies involving geometric shapes in the style of Heider and Simmel's original film, which are then interpreted by the computer to generate a textual narrative of the author's creation. Then I'll lay out the technical plan, which involves the integration of probabilistic graphical models, weighted abduction, data-driven text generation, logical formalizations of commonsense psychology, and game-based data collection from the public at large.
+Before coming to the talk, please sign up and play "Triangle Charades" at the following website: http://charades.ict.usc.edu
+

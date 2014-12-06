@@ -1,0 +1,14 @@
+David Farwell (Universitat Politecnica de Catalunya)
+Knowledge Acquisition and Textual Entailment: a proposed research program
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+The aim of this presentation is to describe a program of research in the area of automatic knowledge acquisition which has been submitted in response to the European Information and Communication Technologies FP7 Call 5, Objective 4.3: Intelligent Information Management. The objective of this research program is to develop data-driven techniques and tools for extracting common sense knowledge from unstructured text and applying it for making the approximate inferences needed in order to interpret the ambiguities of human language communication.
+
+The central activities include developing techniques and tools for:
+- converting texts into representations of the particular events and entities they refer to,
+- identifying relations between these entity and event instances such as shared participants, temporal and spatial juxtapositions, causal connections, entailments, and so on, thereby constructing representations of complex scenarios,
+- inducing from sets of like entity, event and scenario instances, representations of entity, event and scenario types,
+- using these entity, event and scenario types as background knowledge to support approximate inferencing (e.g., statistical inference rules such as poisoning probably entails death) within important interactive tasks such as Information Retrieval and web search.
+
+The technologies developed will be validated by applying them to two broad NLU tasks: faceted search for Information Retrieval in the domain of health information and open-domain web search for web browsing and UI improvements.

@@ -1,0 +1,6 @@
+Erica Greene
+Automatic Analysis of Rhythmic Poetry with Applications to Generation and Translation (EMNLP 2010 Practice Talk)
+3:00 pm - 3:30 pm
+11th Floor Large Conference Room [1135]
+
+We employ statistical methods to analyze, generate, and translate rhythmic poetry. We first apply unsupervised learning to reveal word-stress patterns in a corpus of raw poetry. We then use these word-stress patterns, in addition to rhyme and discourse models, to generate English love poetry. Finally, we translate Italian poetry into English, choosing target realizations that conform to desired rhythmic patterns.

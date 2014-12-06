@@ -1,0 +1,15 @@
+David Chiang and Kevin Knight
+Synchronous Grammars and Tree Transducers
+2:00 pm - 5:00 pm
+11 Large
+
+(Practice tutorial for ACL/COLING 2006)
+
+Once upon a time, synchronous grammars and tree transducers were esoteric
+topics in formal language theory, far removed from the practice of
+building real, large-scale natural language systems. However, these tools
+are now rapidly becoming essential for modeling machine translation and
+other complex language transformations. It has therefore become practical
+and important to understand the basic properties of tree transformation
+systems, which we cover in this tutorial.
+

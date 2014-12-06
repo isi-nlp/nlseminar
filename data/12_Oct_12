@@ -1,0 +1,10 @@
+Jagadeesh Jagarlamudi
+Discriminative Interlingual Representations for NLP
+11:00 am - 12:00 pm
+11th Floor Conference Room [1135]
+
+The language barrier in many of the multilingual natural language processing (NLP) tasks, such as name transliteration, mining bilingual word translations, etc., can be overcome by mapping objects (names and words in the respective tasks) from different languages (or í—viewsí˜) into a common low-dimensional subspace. Multi-view models learn such a low-dimensional subspace using a training corpus of paired objects, e.g. name pairs written in different languages.
+
+The central idea of my dissertation is to learn low-dimensional subspaces (or interlingual representations) that are effective for various multilingual and monolingual NLP tasks. First, I demonstrate the effectiveness of interlingual representations in mining bilingual word translations for machine translation, and then proceed to developing models for diverse situations that often arise in NLP tasks. In particular, I design models for 1) bridge setting -- when there are more than two views but we only have training data from a single pivot view into each of the remaining views 2) reranking setting -- when an object from one view is  associated with a ranked list of objects from another view, and finally 3) when the underlying objects have rich structure, such as a tree.
+
+These problem settings arise frequently in real world applications. I choose a canonical task for each of the settings and compare my model with existing state-of-the-art baseline systems. I provide empirical evidence for the first two models on multilingual name transliteration and the part-of-speech tagging tasks, respectively. For the third problem setting, I discuss my ongoing work on vector based compositionality learning task. This task aims to find the meaning, represented as a vector in d-dimensional space, of a sentence or a phrase based on the meaning of its constituent words.

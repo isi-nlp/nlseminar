@@ -1,0 +1,33 @@
+Ido Dagan (Bar-Ilan U)
+Textual entailment as a framework for applied semantics
+3:00 pm - 4:30 pm
+11 Large
+
+We have recently proposed Recognizing Textual Entailment (RTE) as a
+generic task that captures major semantic inferences across different
+natural language processing applications. The talk will first review
+the motivation and definition of the textual entailment task and the
+PASCAL RTE-1,2&3 Challenges benchmarks. Then we will demonstrate
+directions for building textual entailment systems, based on knowledge
+acquisition and inference, and for utilizing them within concrete
+applications. Furthermore, we suggest that textual entailment modeling
+may become a comprehensive framework for applied semantics
+research. Such framework introduces useful variants of known semantic
+problems and highlights important tasks which were hardly investigated
+so far at an applied computational level. The semantic modeling
+perspective will be illustrated in more detail by a case study for an
+entailment-based variant of word sense disambiguation. 
+
+About the speaker:
+
+Ido Dagan is a Senior Lecturer at the Department of Computer Science
+at Bar Ilan University, Israel. His areas of interest are largely
+within empirical NLP, particularly empirical approaches for applied
+semantic processing. In the last few years Ido and his colleagues
+introduced <i>textual entailment</i> as a generic framework for applied
+semantic inference and have organized the first three rounds of the
+PASCAL Recognizing Textual Entailment Challenges. Ido received his
+Ph.D. from the Technion. He has been a research fellow at the IBM
+Haifa Scientific Center and a Member of Technical Staff at AT&T Bell
+Laboratories. During 1998-2003 he was co-founder and CTO of
+FocusEngine and VP of Technology of LingoMotors.  

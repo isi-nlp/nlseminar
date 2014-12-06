@@ -1,0 +1,27 @@
+Feng Pan
+Computing Semantic Similarity between Skill Statements for Approximate Matching
+3:00 pm - 4:30 pm
+11 Large
+
+(This will be an extended version of the talk for NAACL-HLT 2007. It's
+based on my summer internship work at IBM T.J. Watson Research Center
+last year.) 
+
+The project aimed to address the problems encountered when trying to
+match available employees to open job positions, based on skill
+matches. Currently, job search applications, like IBM's Professional
+Marketplace, only find exact matches. A skill affinity computation is
+desired to allow searches to be expanded to related/similar skills,
+and return more potential matches. 
+
+In this talk, I will explore the problem of computing text similarity
+between verb phrases describing skilled human behavior for the purpose
+of finding approximate matches. Four parsers (Charniak's parser,
+Stanford's parser, IBM XSG slot grammar parser, and Lin's MINIPAR) are
+evaluated on a corpus of skill statements extracted from an
+enterprise-wide expertise taxonomy. A similarity measure utilizing
+common semantic role features extracted from parse trees was found
+superior to an information-theoretic measure of similarity and
+comparable to the level of human agreement. 
+
+

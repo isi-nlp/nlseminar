@@ -1,0 +1,38 @@
+Doug Oard &amp; Anton Leuski
+Access to Archival Collections of Electronic Mail
+3:00 pm - 4:00 pm
+11 Large
+
+Since its inception more than 30 years ago, electronic mail (email)
+has developed into a powerful communication medium with applications
+that extend well beyond simple asynchronous message exchange between
+individuals. Automated tools to support the use of email in
+individual, organizational and social contexts have received
+increasing attention in recent years. Among the tasks that are now
+supported are filtering (e.g., spam detection), aggregation (e.g.,
+mailing list digests), workflow management (e.g., help desk routing),
+and reuse (e.g., retrospective search). We are interested in how
+today's email will be used in the future -- some will certainly be
+preserved (indeed, some MUST be preserved!), and those records will
+serve as powerful evidence of how we lived our lives and organized our
+societies. The challenges of managing many types of electronic record
+collections are receiving increasing attention, but we are not aware
+of any work yet on supporting access to electronic mail archives.
+That will be the focus of this talk.
+
+We will introduce the Open Archival Information Systems (OAIS) model,
+and then focus on two key processes: ingestion and access. Our focus
+in ingestion is on support for review and redaction, which we believe
+will be key enablers to acquisition and near-term access. For access,
+we will address both browsing based on provenance (original order) and
+user-guided reorganization based on search and visualization. Along
+the way, we will identify potentially productive opportunities to
+apply natural language processing technologies such as topic
+segmentation, link detection, and summarization. We will then
+describe two test collections, and demonstrate a system that we have
+developed to explore user-guided reorganization through visualization
+for one of those collections. We will conclude the talk by sketching
+out a research agenda. At that point, we will expect suggestions and
+comments from the audience. Knowing this audience, it is unlikely
+that we will need to wait that long :-).
+

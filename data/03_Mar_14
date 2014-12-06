@@ -1,0 +1,22 @@
+Kareem Darwish
+Improving the Efficiency and Effectiveness of Structured Query Methods
+3:00 pm - 4:00 pm
+11 Large
+
+One of the key challenges in retrieval is what to do when a query term
+needs to be replaced with more than one term. This problem arises in
+applications such as cross language information retrieval and
+thesaurus expansion. One solution is to use structured query methods,
+which treat all the possible replacements as if they were one query
+term by computing a joint document frequency and a joint term
+frequency. This presentation will review prior work on structured
+query techniques and then introduce three new variants that aim to
+improve computational efficiency and to leverage estimates of
+replacement probabilities to improve retrieval effectiveness. The
+methods have now been tested in cross-language retrieval and
+OCR-degraded text retrieval applications in which replacement
+probability estimates could be estimated. In both applications, the
+new structured query methods showed statistically significant
+improvements in retrieval effectiveness over previously known
+structured query methods.
+

@@ -1,0 +1,49 @@
+Erica Greene (Haverford) <br> Paramveer Dhillon (Penn)
+Intern Final Talks
+3:00 pm - 4:00 pm
+11 Large
+
+TALK 1: Erica Greene
+
+Title: A Statistical Foray into Poetry
+
+Abstract: Although the analysis and generation of poetry is often considered an
+exclusively human task, we have taken some initial steps to automate
+the process.  We build a series of finite state transducers to analyze
+poetic meter and train them on a handmade corpus of poetry. We then
+use these trained transducers to generate poetry.  Specifically, we
+focus on generating sonnets and limericks.
+
+------------------------------------------
+
+TALK 2: Paramveer Dhillon
+
+Title: Learning to simplify target language for MT + Unsupervised log-linear
+models for Word Alignment
+
+Abstract: We consider the Machine Translation task for the language pair
+(Chinese and English), where English is the target language. There are
+lots of redundancies in English language, e.g. It has capitalization,
+i.e. the first word of each sentence is capitalized, and it has
+different morphology i.e. it has noun and verb endings; none of which
+are present in Chinese. In a way, due to these redundancies, we are
+learning that a single Chinese word "tamen" translates to "They" and
+"they" and another Chinese word translates to "run", "runs" and
+"running". We present generative models which learn to "cluster" the
+target language vocabulary, by removing the above redundancies, namely
+(Capitalization and Different morphology). We show results on how this
+"clustering" affects the translation quality in end-to-end MT
+experiments.
+
+In the last part of the talk, I would talk about using unsupervised
+log-linear(discriminative) models for improving word alignments. There
+are very few precedents of using discriminative models for word
+alignment in totally unsupervised settings. (Taskar et. al. '05) and
+(Lacoste-Julien et. al. '06) used maximum weight bipartite matching in
+"nearly" unsupervised setting and (Blunsom et. al. '06) used CRFs for
+supervised word alignment. We use log-linear models in totally
+unsupervised settings to do word alignments. Speicifically we use
+Contrastive Estimation (Smith et. al. '05) to shift the probability
+mass to the correct set of alignments from a well-chosen
+"neighborhood" of those alignments. In the end I will show some
+preliminary word alignment results using our approach.

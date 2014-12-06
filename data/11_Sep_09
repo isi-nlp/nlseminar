@@ -1,0 +1,46 @@
+Richard Socher (Stanford University)
+Recursive Deep Learning in Natural Language Processing and Computer Vision
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Hierarchical and recursive structure is commonly found in different
+modalities, including natural language sentences and scene images.  I
+will present some of our recent work on three recursive neural network
+architectures that learn meaning representations for such hierarchical
+structure. These models obtain state-of-the-art performance on several
+language and vision tasks.
+
+The meaning of phrases and sentences is determined by the meanings of
+its words and the rules of compositionality. We introduce a recursive
+neural network (RNN) for syntactic parsing which can learn vector
+representations that capture both syntactic and semantic information
+of phrases and sentences. For instance, the phrases "declined to
+comment" and "would not disclose" have similar representations.
+Since our RNN does not depend on specific assumptions for language, it
+can also be used to find hierarchical structure in complex scene
+images. This algorithm obtains state-of-the-art performance for
+semantic scene segmentation on the Stanford Background and the MSRC
+datasets and outperforms Gist descriptors for scene classification by
+4%.
+
+The ability to identify sentiments about personal experiences,
+products, movies etc. is crucial to understand user generated content
+in social networks, blogs or product reviews. The second architecture
+I will talk about is based on semi-supervised recursive autoencoders (RAE).
+RAEs learn vector representations for phrases sufficiently well as to
+outperform other traditional supervised sentiment classification methods
+on several standard datasets.
+Lastly, I describe an alternative unsupervised RAE model that can learn
+features which outperform previous approaches for paraphrase
+detection on the Microsoft Research Paraphrase corpus.
+
+This talk presents joint work with Andrew Ng and Chris Manning.
+
+
+Bio:
+Richard Socher is a Computer Science PhD student at Stanford,
+co-advised by Chris Manning and Andrew Ng.
+Most recently, he won the Yahoo! Key Scientific Challenges Program
+Award and the Distinguished Application Paper Award at ICML, 2011
+for his work on recursive deep learning.
+

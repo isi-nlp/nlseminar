@@ -1,0 +1,42 @@
+Hermann Helbig (U at Hagen, Germany)
+Multilayered Extended Semantic Networks as a Knowledge Representation Paradigm and Interlingua for Meaning Representation 
+3:00 pm - 4:30 pm
+4 CR
+
+The talk gives an overview of  Multilayered Extended Semantic Networks
+(abbreviated MultiNet), which is one of the most comprehensively
+described knowledge representation paradigms used as a semantic
+interlingua in large-scale NLP applications and for linguistic
+investigations into the semantics and pragmatics of natural
+language. As with other semantic networks, concepts are represented in
+MultiNet by nodes, and relations between concepts are represented as
+arcs between these nodes. Additionally to that, every node is
+classified according to a predefined conceptual ontology forming a
+hierarchy of sorts, and the nodes are embedded in a multidimensional
+space of layer attributes and their values. MultiNet provides a set of
+about 150 standardized relations and functions which are described in
+a very concise way including an axiomatic apparatus, where the axioms
+are classified according to predefined types. The representational
+means of MultiNet claim to fulfill the criteria of universality,
+homogeneity, and cognitive adequacy. In the talk, it is also shown,
+how MultiNet can be used for the semantic representation of different
+semantic phenomena. To overcome the quantitative barrier in building
+large knowledge bases and semantically oriented computational lexica,
+MultiNet is associated with a set of tools including a semantic
+interpreter NatLink for automatically translating natural language
+expressions into MultiNet networks, a workbench LIA for the computer
+lexicographer, and a workbench MWR for the knowledge engineer for
+managing and graphically manipulating semantic networks. The
+applications of MultiNet as a semantic interlingua range from natural
+language interfaces to the Internet and to dedicated databases, over
+question-answering systems, to systems for automatic knowledge
+acquisition.
+
+About the speaker:
+
+Prof. Helbig is head of the chair Intelligent Information and Communication 
+Systems at the University of Hagen, Germany. His main research areas are
+Knowledge Representation, Semantic Natural Language Processing, and 
+Question-Answering.
+
+A CV can be found <a href="slides/CV-En-HH.pdf"> here</a>.

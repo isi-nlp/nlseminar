@@ -1,0 +1,14 @@
+Donghui Feng
+Natural Language Understanding in MRE
+3:00 pm - 4:00 pm
+11 Large
+
+In this talk, I will present my current work on language understanding
+in the project, Mission Rehearsal Exercise(MRE). One of the challenges
+in a dialogure system is to provide a robust understanding/parsing
+compoment. We applied both Finte State Model and Statistical Learning
+Model for the parsing of separate sentences of dialogue utterances.
+Their performances are evaluated and compared with a new blind set.
+And we hope to incorporate them to make a better solution in this
+specific application.
+

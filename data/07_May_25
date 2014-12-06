@@ -1,0 +1,14 @@
+Wei Wang (Language Weaver)
+Binarizing Syntax Trees to Improve Syntax-Based Machine Translation Accuracy
+3:00 pm - 3:30 pm
+11 Large
+
+We show that phrase structures in Penn Treebank style parses
+are not optimal for syntax-based machine translation. We
+exploit a series of binarization methods to restructure the
+Peen Treebank style trees such that syntactified phrases
+smaller than Penn Treebank constituents can be acquired and
+exploited in translation. We find that by employing the EM
+algorithm for determining the binarization of a parse tree
+among a set of alternative binarizations gives us the best
+translation result.

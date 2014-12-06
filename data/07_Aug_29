@@ -1,0 +1,33 @@
+Carmen Heger (Dresden) <br> Michael Bloodgood (Delaware)
+Summer Intern Presentations: Composition of Tree Transducers AND Using the Perceptron Algorithm to Tune Large Numbers of Feature Weights for Syntax-Based Statistical Machine Translation
+3:00 pm - 4:30 pm
+11 Large
+
+Composition of Tree Transducers
+
+Since finite state (string) transducers are not expressive enough for many NLP 
+applications, computational linguistics started to investigate tree 
+transducers for the task of machine translation, for example. Quite some 
+successful work has been done on generalizing results from string transducers 
+to tree transducers. But when it comes to composition results are not 
+satisfying because generally tree transducers are not closed under 
+composition. Still we think that most of the tree transducers used in NLP are 
+composable and that is why we defined the problem of the composition for two 
+individual transducers instead of the whole class. During the summer we 
+started with linear nondeleting tree transducers with epsilon rules and 
+approached an algorithm to decide for two such transducers whether their 
+composition is again in the same class.
+
+Using the Perceptron Algorithm to Tune Large Numbers of Feature Weights for Syntax-Based Statistical Machine Translation
+
+Current state-of-the-art syntax-based statistical machine translation
+systems produce many candidate translations out of which the output translation
+is selected by taking the argmax over all candidates i of &lt;w,f_i&gt; where w is a 
+weight vector and f_i is a vector of the feature values for candidate i. The
+features used by the system and their corresponding weights have a major impact
+on a system's performance.  Currently, Minimum Error Rate Training (MERT) is used to
+tune the weights of the features.  A drawback of this is that it isn't tractable
+to tune large numbers of feature weights.  I will discuss using the perceptron 
+algorithm to tune feature weights for statistical machine translation.  If I get interesting
+results before my talk, I may also dicsuss new classes of features (potentially very large 
+numbers of features) that can be used for improving MT performance.  

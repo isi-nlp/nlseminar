@@ -1,0 +1,21 @@
+Nate Chambers
+Statistical Language Generation in a Dialogue System
+3:00 pm - 4:00 pm
+11 Large
+
+The large corpora of written text that is available to the language
+community has largely been utilized for language understanding; it has
+somewhat been ignored in the context of language generation. Recent
+developments in stochastic generation have allowed such systems to shift
+the burden from hand crafted databases (lexicons, grammars, ontologies) to
+the knowledge implicitly found in written text. However, when building a
+dialogue system, generation is largely interactive, very different from
+the written structure of most corpora.
+
+In this talk, I will discuss my recent work at applying a stochastic
+generator, HALogen, and its newswire language model to a dialogue system,
+TRIPS. I'll describe the difficulties in mapping the TRIPS semantic form
+into HALogen's representation, the critical differences between newswire
+and dialogue, and the possibility of using HALogen and a large newswire
+model as a domain independent generator. 
+

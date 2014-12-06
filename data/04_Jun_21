@@ -1,0 +1,24 @@
+Emil Ettelaie
+Speech-to-Speech Translation: A Phrase Classification Approach
+3:00 pm - 4:00 pm
+11 Large
+
+This talk will be about automatic speech-to-speech translation.  In our
+system, a doctor speaks one language, the patient speaks another language,
+and the machine translates their utterances from one language to the
+other.  The talk will be followed by a demo of our system.
+
+One approach we have been successful with is phrase classification, i.e.,
+classifying a noisy speech-recognized utterance into one of many meaning
+categories.  Phrase classification is computationally cheap and can
+provide high quality translations for in domain utterances almost
+instantaneously. Speed is important for speech translation, where
+processing delay is a great concern.
+
+In this talk, different aspects of building a classification-based speech
+translator are discussed. Following an overview of automatic
+speech-to-speech translation and its challenges, a comparison of different
+classification methods is presented and data collection techniques for
+that application are introduced.
+
+

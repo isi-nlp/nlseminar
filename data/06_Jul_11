@@ -1,0 +1,31 @@
+Dragos Munteanu + Joseph Turian
+Practice Talks for ACL
+2:30 pm - 4:00 pm
+11 Large
+
+Extracting Parallel Sub-Sentential Fragments from Non-Parallel Corpora
+Dragos Munteanu
+
+We present a novel method for extracting parallel sub-sentential fragments
+from comparable bilingual corpora. Currently, the state of the art in
+comparable corpus mining is only able to extract full sentence pairs which
+are judged to be parallel. We advance the state of the art by showing how
+to obtain useful data even from not-fully-parallel sentences. By analyzing
+sentence pairs using a signal-processing-inspired approach, we detect
+which segments of the source sentence are translated into segments of the
+target sentence, and which are not. We evaluate the quality of the
+extracted data by showing that it improves the performance of a
+state-of-othe-art machine translation system.
+
+
+Advances in Discriminative Parsing
+Joseph Turian
+
+The present work advances the accuracy and training speed of
+discriminative parsing. Our discriminative parsing method has no
+generative component, yet surpasses a generative baseline on constituent
+parsing, and does so with minimal linguistic cleverness. Our model can
+incorporate arbitrary features of the input and parse state, and performs
+feature selection incrementally over an exponential feature space during
+training. We demonstrate the flexibility of our approach by testing it
+with several parsing strategies and various feature sets.

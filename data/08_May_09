@@ -1,0 +1,27 @@
+John DeNero (Berkeley)
+Inference in phrase alignment models
+3:00 pm - 4:00 pm
+11 Large
+
+Models that align phrases instead of words offer an
+appealing alternative to the standard relative frequency estimates of
+phrase translation probabilities.  But, while some effective word
+alignment models (Model 1, Model 2 & HMM) can be estimated tractably
+with EM, phrase alignment models cannot.  I'll talk about how to show
+that estimation and inference under these models is intractable.
+Then, I'll present two useful approximation techniques.
+
+First, I'll talk about how to cast phrase alignment search as an
+integer linear programming (ILP) problem and find the optimal
+alignment reliably and quickly with off-the-shelf ILP software.  Some
+applications of this technique include training phrase alignment
+models and interpreting the output of word alignment models.
+
+Second, we'll look at how to estimate translation probabilities under
+a phrase alignment model using a Gibbs sampling procedure.  The
+sampler has some nice asymptotic convergence properties and also seems
+to produce good results in practice. I'll walk through the different
+models we've trained and how they performed.
+
+Time permitting, I'll also talk about some of the ways in which we
+could potentially extend this work to syntactic MT.

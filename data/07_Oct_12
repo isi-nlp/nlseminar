@@ -1,0 +1,14 @@
+David Talbot (Edinburgh)
+Scalable Language Modeling: Breaking the Curse of Dimensionality
+3:00 pm - 4:30 pm
+11 Large
+
+Randomized data structures can help us scale discrete models encountered in NLP. This talk will describe their use in language modeling and present some more general related results.
+
+N-gram language models are fundamental to speech recognition and machine translation. Unfortunately, the n-gram parameter space grows exponentially with the dimension of the feature vector. I will describe how randomization can be used to remove the space-dependency of such models on the a priori parameter space.
+
+The novel extensions of the Bloom filter that I will present are able to take advantage of the entropy of the distribution of values assigned to feature vectors to save space in a discrete statistical model. I will review some results applying these models to language modeling in machine translation and relate their space-requirements to a novel lower bound on the general problem of querying a map of key/value pairs.
+
+No prior knowledge of randomized data structures will be assumed.
+
+

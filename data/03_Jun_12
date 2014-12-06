@@ -1,0 +1,37 @@
+Dina Demner-Fushman
+Measuring the Effect of Dictionary Coverage on Cross-Language Retrieval
+11:00 am - 12:00 pm
+11 Large
+
+Bilingual term lists have proven to be a useful basis for
+dictionary-based Cross-Language Information Retrieval (CLIR), but
+there is ample anecdotal evidence that differences in vocabulary
+coverage can have a substantial impact on retrieval effectiveness.
+This issue has recently been explored using ablation studies in which
+progressively smaller term lists were synthesized using sampling
+techniques. The ablation techniques used in those studies have not,
+however, been validated using real terms lists. In this talk I will
+report the results of what we believe is the first large coverage
+study use naturally occurring term lists. Thirty-five bilingual terms
+lists were obtained from a variety of sources, each with English as
+one of the two paired languages. From these, we created 35
+English-to-English term lists by taking each term that was present in
+the English side of the list as its own translation. When used with
+an English information retreval test collection, this allowed us to
+measure the reduction in retrieval effectivenss that could be
+attributed to deficiencies in the coverage of English terms. Eight
+types of untranslatable terms were identified in a collection of news
+stories, of which named entitles were found to have the greatest
+impact on retrieval effectiveness. Differences in named entity
+coverage were found to produce large differences in retrieval
+effectiveness for term lists of similar sizes. Controlling for named
+entity effects yielded a clear relationship between retrieval
+effectiveness and the size of the translatable English vocabulary.
+The functional dependence that we observed is consistent with one
+previously applied ablation technique and inconsistent with another.
+Our results indicate that the outcome of a widely cited landmark study
+of query expansion effects for CLIR was likely affected by a flawed
+ablation model. We conclude our talk with a suggestion for further
+work on that topic, and a simple prescription for avoiding such
+problems in the future.
+

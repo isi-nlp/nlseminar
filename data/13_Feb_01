@@ -1,0 +1,6 @@
+Abeer Alwan
+Dealing with Limited and Noisy Data in Speech Processing: A Hybrid Knowledge-Based and Statistical Approach
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+In this talk, I will focus on the importance of integrating knowledge of human speech production and speech perception mechanisms, and language-specific information with statistically-based, data-driven approaches to develop robust and scalable speech processing algorithms. The need for such hybrid systems is especially critical when dealing with data corrupted by background acoustic noise, when training data are limited, and when dealing with accents.

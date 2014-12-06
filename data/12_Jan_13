@@ -1,0 +1,19 @@
+Hercules Dalianis (Stockholm University)
+Reusing clinical documentation for better health
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Today a large number of Electronic Patient Records (EPRs) are produced for legal reasons but they are very seldom reused, neither for clinical research nor for business (hospital) intelligence reasons. Moreover, the clinician's daily work in documenting the patient status is not always supported in a proper way. Hospital management needs key and real time information of the health care processes. Simultaneously, patients have become more demanding customers that want to be involved in their own health care process. We are aiming to support these demands. 
+
+Clinical documentation forms an abundant source to extract valuable information that can be used for this purpose, however clinical corpora contain protected health information and must be kept in a safe way. Today only in Sweden (with a population of 10 million) 4-10 million pages of patient records are produced each year. 
+
+We have studied the Stockholm EPR Corpus, a huge clinical document collection written in Swedish, containing over one million patient records. The document collection is distributed over 900 clinics from the Stockholm area encompassing three years 2006-2008. We have used this clinical corpus as a knowledge base to develop a set of tools that can work as basic building blocks for the future tools for health engineering. We have been assisted by physicians that have interpreted the content in the clinical text to us, they have annotated the clinical text and they have also set requirements on these tools together with their colleagues. We have identified four groups of users in the health domain: physicians, clinical researchers, hospital management and patients. We will show examples on these tools and the benefits they will give to health care.
+
+1) For physicians: Automatic ICD-10 assignment 2) For clinical researchers: Comorbidity networks 3) For hospital management: ICD-10 validation and adverse event detection, and finally 4) For patients: automatic text summarization.
+
+Brief Bio:
+
+Dr. Hercules Dalianis, Professor, born 20 July 1959
+
+Dalianis is a professor in Computer and Systems Sciences at Stockholm University. Dalianis received his Ph.D in 1996. Dalianis was a postdoc researcher at University of Southern California/ISI in Los Angeles in 1997. Dalianis was also postdoc researcher (forskarassistent) at KTH-Royal Institute of Technology in Stockholm, 1999-2003. Dalianis held a three year guest professorship at CST, University of Copenhagen during 2002-2005, founded by the Norfa, the Nordic council. Dalianis works in the interface between industry and university and with the aim to make research results useful for society. Dalianis has specialized in the area of human language technology, to make computers understand and process human language text, but also to make computers produce text automatically. Currently Dalianis is working in the area of clinical text mining with the aim to improve health care in form of better electronic patient record systems, presentation of the patient records and extraction of valuable information for clinical researchers as well as for the patients.
+

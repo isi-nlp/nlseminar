@@ -1,0 +1,26 @@
+Liang Huang (Penn)
+Syntax-Directed Translation with Extended Domain of Locality
+3:00 pm - 4:30 pm
+11th Floor (Large)
+
+(note: this is a very tentative title -- comments welcome!)
+
+We present a novel extension of syntax-directed translation for
+statistical MT. Formally speaking, our model is based on tree-to- string
+transducers that recursively convert a parse-tree in the source-language
+into a string in the target-language. These transduction rules have
+multi-level trees on the source-side, giving this system more
+transformational power due to the extended domain of locality. We also
+present efficient algorithms for decoding based on dynamic programming.
+Initial experiments on English-to-Chinese translation show promising
+results in both speed and the translation quality.
+
+Joint work with Kevin Knight and Aravind Joshi.
+
+Bio:
+
+Liang Huang is a 3rd-year PhD student from the University of Pennsylvania.
+He is mainly interested in algorithms and formalisms for parsing and
+syntax-based machine translation. His recent work has been on k-best
+parsing algorithms (with David Chiang) and synchronous binarization for MT
+(with Hao Zhang, Dan Gildea, and Kevin Knight).

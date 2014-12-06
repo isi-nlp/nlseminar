@@ -1,0 +1,18 @@
+Dagen Wang
+Metalinguistic feature study for spontaneous speech in human computer interaction
+3:00 pm - 4:30 pm
+11 Large (THIS HAS CHANGED!!!)
+
+Speech is a crucial component in human computer interaction. While
+tremendous progress has been made in automatic speech recognition, speech
+transcription -- which is the output of automatic speech recognition -- is
+far from providing all the information that one could retrieve from
+speech. For example, prominence, pause, rhythm, and rate of speech all
+carry important information in speech and are crucial in speech
+perception. Inclusion of such information can facilitate better machine
+recognition and understanding of speech.
+
+In this talk, we will introduce the research effort and result in speech
+rate, prominence, disfluency and utterance boundary detection. We will
+also show some interesting applications utilizing these features in
+natural language understanding and dialog management.

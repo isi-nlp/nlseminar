@@ -1,0 +1,31 @@
+Nicola Ueffing
+Word-Level Confidence Measures for SMT
+3:00 pm - 4:30 pm
+11 Large
+
+This talk will address the problem of assessing the correctness of MT
+output on the word level. I will give an overview on word confidence
+measures for SMT.  Different variants of word posterior probabilities that
+can be directly used as confidence measure will be presented. Their
+connection with the Bayes decision rule and the underlying error measure
+will be shown. Experimental comparison of different word confidence
+measures will be presented on a translation task consisting of technical
+manuals.
+
+Additionally, I will show how word confidence measures can be applied in
+an interactive SMT system. This system predicts translations, taking parts
+of the sentence into account that have already been accepted or typed by
+the user. Through the use of confidence measures, the performance of the
+prediction engine can be improved.
+
+
+About the Speaker:
+
+Nicola Ueffing is a graduate research assistant at the group for "Human
+Language Technology and Pattern Recognition" (Lehrstuhl fuer Informatik
+VI) at RWTH Aachen University. She received her diploma in mathematics
+from RWTH Aachen University in 2000. Her research topic is statistical
+machine translation, focusing on confidence measures for SMT. In 2003, she
+was a member of the team working on "Confidence Estimation for SMT" at the
+CLSP workshop at JHU.
+

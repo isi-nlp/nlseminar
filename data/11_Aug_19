@@ -1,0 +1,62 @@
+Stephen Tratz (PhD defense practice talk)
+Semantically-Enriched Parsing for Natural Language Understanding
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+This thesis details three contributions to the advancement of
+semantic-enriched parsing for English sentences: inventories of semantic
+relations covering three semantically ambiguous linguistic phenomena,
+large datasets annotated according to the inventories, and, finally, a
+suite of tools for semantically-enriched parsing built using the data.
+For the purposes of this thesis, semantically-enriched parsing is
+defined as the reconstruction of the underlying grammatical structure of
+text along with shallow semantic annotation of semantically-ambiguous
+structures. Ultimately, semantically-enriched parsing is one of the most
+critical steps in natural language understanding---the initial step in
+which the text is read by the machine into a knowledge representation
+for further processing and reasoning.
+
+The first contribution of this thesis is to advance the theoretical
+foundations for the interpretation of three ambiguous linguistic
+phenomena in English that have significant overlap in terms of the
+relations expressed: noun compounds, possessive constructions, and
+prepositions. For these, I define inventories of relations based upon
+extensive annotation by myself, previous work by others, and
+inter-annotator agreement studies. In the case of prepositions, the
+relations are created by refining an existing resource whereas the other
+two are created from scratch. In addition to mappings to prior work,
+mappings are provided across the different inventories in order to
+create a unified set of relations.
+
+Second, I produce large datasets annotated according to the
+aforementioned sense inventories. Such data is vital for training most
+automatic tools and also provides exemplars for the theory embodied in
+the inventories. Some of these datasets are created from scratch,
+including a collection of over 17,500 noun compounds and a collection of
+over 21,900 possessive construction examples. In the case of
+prepositions, an existing resource including over 24,000 annotated
+examples is refined.
+
+The final contribution is a suite of tools that can construct
+semantically-enriched parse trees. The suite is designed to work in a
+sequential, pipeline-like fashion and can be thought of as consisting of
+two subsections. The first part reconstructs the grammatical structure
+of the text using a dependency parser that extends the non-directional
+easy-first algorithm developed by Goldberg and Elhadad (2010) in order
+to support non-projective trees and is trained using my improved
+dependency tree conversion of the Penn Treebank. Second is a semantic
+annotation module that adds shallow semantic annotation for noun
+compounds, preposition senses, and possessives. Combined, these tools
+produce semantically-enriched parse trees that include both grammatical
+structure and shallow semantics. The core parser itself achieves
+state-of-the-art accuracy and can process over 75 sentences per second,
+which is substantially faster than most of the accurate parsers
+available today.
+
+In conclusion, this thesis work provides significant contributions to
+computational linguistics, both in terms of theory and resources. It
+advances our understanding of the relations expressed by three
+semantically-ambiguous linguistic phenomena, creates large annotated
+datasets useful for machine learning, and produces a fast, accurate, and
+informative system for semantically-enriched parsing.
+

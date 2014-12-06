@@ -1,0 +1,19 @@
+Sujith Ravi + Steve DeNeefe
+Practice talks for AMTA/EMNLP
+3:00 pm - 4:15 pm
+11 Large
+
+Automatic Prediction of Parser Accuracy (practice talk for EMNLP)
+
+Statistical parsers have become increasingly accurate, to the point where they are useful in many natural language applications. However, estimating parsing accuracy on a wide variety of domains and genres is still a challenge in the absence of gold-standard parse trees.
+
+We propose a technique that automatically takes into account certain characteristics of the domains of interest, and accurately predicts parser performance on data from these new domains. As a result, we have a cheap (no annotation involved) and effective recipe for measuring the performance of a statistical parser on any given domain.
+(Joint work with Kevin Knight and Radu Soricut)
+
+
+
+Overcoming Vocabulary Sparsity in MT Using Lattices  (practice talk for AMTA)
+
+Source languages with complex word formation rules present a challenge for statistical machine translation (SMT). In this paper, we take on three facets of this challenge: (1) common stems are fragmented into many different forms in training data, (2) rare and unknown words are frequent in test data, and (3) spelling variation creates additional sparseness problems. We present a novel, lightweight technique for dealing with this fragmentation, based on bilingual data, and we also present a combination of linguistic and statistical techniques for dealing with rare and unknown words. Taking these techniques together, we demonstrate +1.3 and +1.6 BLEU increases on top of strong baselines for Arabic-English machine translation. 
+(Joint work with Ulf Hermjakob and Kevin Knight)
+

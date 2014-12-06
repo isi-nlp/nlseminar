@@ -1,0 +1,22 @@
+Mary Wood (Manchester)
+A Human-Computer Collaborative Approach to Computer Aided Assessment
+3:00 pm - 4:30 pm
+11 Large
+
+The ABC (Assess by Computer) system has been developed and used in the
+School of Computer Science at the University of Manchester for formative
+and (principally) summative assessment at undergraduate and postgraduate
+level. We believe that fully automatic marking of constructed answers -
+especially free text answers - is not a sensible aim. Instead - drawing on
+parallels in the history of machine translation - we take a
+"human-computer collaborative" approach, in which the system does what it
+can to support the efficiency and consistency of the human marker, who
+keeps the final judgement.
+
+Our current work focuses on what are generally referred to as "short text
+answers" as contrasted to "essays". However we prefer to contrast
+"factual" with "discursive" answers, and speculate that the former may be
+amenable to simple statistical techniques, while the latter require more
+sophisticated natural language analysis. I will show some examples of real
+exam data and the techniques we are using and developing to handle them.
+

@@ -1,0 +1,16 @@
+Hal Daume III
+A Phrase-Based HMM Approach to Document/Abstract Alignment
+1:30 pm - 3:00 pm
+11 Large
+
+I will present work that extends the standard hidden Markov model to a
+version that can emit multiple symbols in a single time step.  Using this
+model, we are able to automatically create phrase-to-phrase mappings in an
+alignment process.  I've applied this model to the task of creating
+alignments between documents and their human-written abstracts, yielding
+an overall alignment F-score of 0.548, a significant improvement on the
+best results to date of 0.363.  These results are published in an EMNLP
+paper this year, but the talk will be an extended version of the talk I
+will give there (namely, I will discuss the mechanics of the extended HMM
+in more detail in this seminar).
+

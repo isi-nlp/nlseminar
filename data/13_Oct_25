@@ -1,0 +1,7 @@
+Roy Schwartz (NLP Lab, Hebrew University in Jerusalem)
+Semantic Representation using Flexible Patterns
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Ever since their introduction in 1992, hand-crafted lexico-semantic patterns have been shown to be useful for many semantic tasks. In recent years, an automatic, fully unsupervised method to generate patterns was developed ("flexible patterns"). I will demonstrate that flexible patterns are useful for extracting semantic information on words, word relations and sentences. I will present in detail the latest results in the field – applying flexible patterns on the task of authorship attribution on tweets (Schwartz et al., EMNLP2013). 
+

@@ -1,0 +1,11 @@
+John DeNero (Berkeley)
+Intern Final Talk: Minimum Risk Decoding over Forests
+3:45 pm - 4:15 pm
+11 Small
+
+Minimum Bayes risk (MBR) decoding improves the output of
+machine translation systems by selecting a translation that matches a
+large proportion of the k-best hypotheses of a system.  We extend this
+idea to apply to packed forests by selecting an output sentence that
+matches a large proportion of all hypotheses in the pruned forest of
+derivations from a syntax-based translation system.

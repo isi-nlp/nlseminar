@@ -1,0 +1,60 @@
+Christian Chiarcos (Uni Potsdam)
+Towards operationalizable models of discourse phenomena: Addressing discourse relations
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+The modeling of discourse has been a major topic of research in the linguistics and AI communities for decades. With respect to language, discourse phenomena refer to the use of linguistic indicators that reflect the functional organization of utterances, relationships between different utterances, with the interlocutors' state of mind and with the situational surrounding.
+The development of models of discourse that are operationalizable (as a part of NLP applications) is essential, for example, in machine translation:
+
+  * to interpret, to translate and to generate pronouns, definite and indefinite NPs correctly,
+
+  * to translate non-canonical constructions (e.g., passive),
+
+  * to generate the correct word order (e.g., when translating into a free-word order language),
+
+  * to insert or to drop discourse markers and conjunctions, or
+
+  * to choose the appropriate type of syntactic embedding in complex sentences.
+
+In other branches of NLP, different aspects of discourse are important, e.g., relations between utterances (machine reading), the hierarchical organization of discourse (text summarization) and the sequential organization of utterances in a text (text structuring/natural language generation).
+
+Numerous models of different aspects of discourse have been proposed, including discourse structure (the hierarchical organization of utterances in discourse), discourse relations (relations between independent utterances in discourse), information structure (the functional structure of utterances in context), and information status (accessibility of antecedents of pronouns, definite descriptions and elliptic constructions). These approaches range from relatively abstract models from cognitive and functional linguistics (e.g.,  Givon 1983), over elaborate formal models developed in formal semantics (e.g., Asher 1993), to "parameterized", rule-based models in AI (e.g., Grosz et al. 1995).
+
+Since the mid-1990s, this traditional, "theory-centered" line of research has been complemented with an "annotation-centered" methodology, i.e., the development and the use of annotated corpora to test predictions and to develop statistical classifiers. In the first part of the talk, I describe selected activities of the applied computational linguistics group at the University of Potsdam/Germany in this direction, which include
+
+  * the annotation of discourse structure, coreference, information structure and information status (Stede 2004, Krasavina and Chiarcos 2007, Ritz et al. 2008)
+
+  * the development of generic multi-layer architectures capable to represent and to access these annotations along with other types of annotation  applied to the same stretch of data (Chiarcos et al. 2008), e.g., annotations for constituent syntax, dependency syntax, or frame semantics, and
+
+  * the application of machine learning techniques to predict discourse features from less abstract annotation layers (Ritz 2007, Chiarcos 2011).
+
+The primary drawback of annotation-centered models are the immense cognitive (and thus, financial) efforts necessary to produce reliable discourse annotations. One way to address this problem is to make use of corpora without discourse annotations to test predictions of candidate models, and to develop unsupervised or weakly supervised approaches to support or to replace manual annotation.
+
+In the second part of my talk, this "data-centered" approach on discourse will be illustrated for the example of discourse relations, one of the main topics of my work at ISI. I describe a pilot study that shows that significant, reproducible and interpretable insights about the discourse relation (that is likely to be) connecting a pair of events can be achieved from a sufficiently large corpus with syntax annotations only. Further, possible lines for subsequent research will be sketched.
+
+
+Nicholas Asher (1993). Reference to Abstract Objects in Discourse. Kluwer, Dordrecht, 1993.
+
+Christian Chiarcos (2011). Evaluating salience metrics for the context-adequate realization of discourse referents. In: Proceedings of the 13th European Workshop on Natural Language Generation (ENLG 2011). Association of Computational Linguistics, Nancy, France, Sep 2011, 32-43.
+
+Christian Chiarcos, Stefanie Dipper, Michael Gotze, Ulf Leser, Anke Lüdeling, Julia Ritz, and Manfred Stede (2008). A Flexible Framework for Integrating Annotations from Different Tools and Tagsets. TAL (Traitement automatique des langues) 49 (2): 218-248.
+
+Talmy Givon (ed., 1983). Topic Continuity in Discourse: A Quantitative Cross-Language Study. John Benjamins, Amsterdam and Philadelphia.
+
+Barbara J. Grosz, Aravind K. Joshi, and Scott Weinstein (1995). Centering: A framework for modelling the local coherence of discourse. Computational Linguistics, 21(2):203–225.
+
+Olga Krasavina and Christian Chiarcos (2007). PoCoS - Potsdam Coreference Scheme. In Proceedings of the Linguistic Annotation Workshop. Held in Conjunction with the ACL-2007, Prague, Czech Republic, pages 156–163.
+
+Julia Ritz, Svetlana Petrova, Michael Götze, and Stefanie Dipper (2007). Automatic Identification of Information Structure in Small Corpora of Modern and Old High German. GLDV-Fruhjahrstagung 2007, Tubingen, Germany.
+
+Julia Ritz, Stefanie Dipper, und Michael Götze (2008). Annotation of Information Structure: An Evaluation Across Different Types of Texts. In Proceedings of the the 6th LREC conference. Marrakech, Morocco.
+
+Manfred Stede (2004). The Potsdam Commentary Corpus. In Bonnie Webber and Donna K. Byron, editors, Proceedings of the ACL-2004 Workshop on Discourse Annotation, Barcelona, pages 96–102.
+
+
+
+Biography:
+
+Christian Chiarcos, born 1977, studied Computer Science (MSc, 2002) and General Linguistics (MA, 2004) at the Technical University Berlin, Germany. From 2002 to 2003, he received a scholarship in the context of the project "Collocations in Dictionary" at the Berlin-Brandenburg Academy of Science under the auspicion of Christiane Fellbaum (Princeton). From 2003 to 2005, he participated in the graduate school "Economy and Complexity in Language" at the Humboldt-Unversity at Berlin and the University of Potsdam, Germany, where he developed a corpus-based approach to predict syntactic alternations for Natural Language Generation. This research formed the basis for his PhD thesis "Mental Salience and Grammatical Form" (University of Potsdam, 2010).
+
+Since 2006, he worked in the Applied Computational Linguistics group at the University of Potsdam, Germany, where he participated in different research projects dedicated to the development of interoperable infrastructures for NLP and multi-layer corpora. Since 2007, this research was carried out in the context of the Collaborative Research Center "Information Structure", a multidisciplinary network of projects at the University of Potsdam and the Humboldt-University Berlin, dedicated to the study of discourse phenomena.

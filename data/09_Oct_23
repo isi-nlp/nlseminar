@@ -1,0 +1,11 @@
+Steve DeNeefe
+Tree Adjoining Machine Translation (thesis proposal practice talk)
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Tree Adjoining Grammars have well-known advantages but are typically considered too difficult for practical systems.  We propose that, when done right, adjoining improves translation quality without becoming computationally intractable.  Using adjoining to model optionality allows general translation patterns to be learned without the clutter of endless variations of optional material.  The appropriate modifiers can later be spliced in as needed to translate details.
+
+In this proposal, we describe challenges encountered by phrase-based and syntax-based machine translation (MT) systems today, and present an in-depth, quantitative comparison of both models. Then, we describe a novel model for statistical MT which addresses these challenges using a Synchronous Tree Adjoining Grammar.  We introduce a method of converting these grammars to a weakly equivalent tree transducer for decoding.   And we present a method for learning the rules and associated probabilities of this grammar from aligned tree/string training data.
+
+Finally, our initial results show that adjoining already delivers an end-to-end improvement of +0.8 BLEU over a baseline statistical syntax-based MT model on a medium-scale Arabic/English MT task.  Furthermore, we demonstrate it is a competitive entry in the Urdu-English track of the 2009 NIST MT evaluation.  We then propose improvements to the model, decoding, and extraction that promise to allow this new, linguistically-motivated MT model to surpass its syntax-based and phrase-based cousins in a wide range of scenarios and language pairs.
+

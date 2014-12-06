@@ -1,0 +1,12 @@
+Boris Gutman (USC/ISI)
+Interplay between Continuous and Discrete Aspects of Brain Image Analysis
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Brain MRI offers tremendous opportunity to learn about cortical anatomy, function and connectivity. In this talk I will go over several standard techniques for image understanding used in brain imaging. These include image registration, segmentation, tractography and graph-based connectivity analyses. Among these algorithms, we routinely encounter both continuous and discrete types of analysis. Non-linear image registration, typically formalized as a diffeomorphism on the image domain, is an example of the former:  we may ask for instance how much volume change the brain is experiencing locally over time, clearly a continuous measure. In another example, we may trace continuous curves in space that best fit a Diffusion Tensor MR image to approximate fibers in the brain’s white matter. One the other hand, connectivity between distinct units within the nervous system is an example of discrete analysis: for instance, the brain’s functionally distinct regions are thought of as nodes in a graph, whose edges are defined by the connecting fiber models.
+
+
+After a brief description of the standard methods at hand, I will suggest an approach for combining the two types of analysis. By assuming the continuous paradigm for connectivity, we can push our connectome model from being a discrete graph to being a linear operator. Using some well-known results from operator theory, we can decompose the operator into its resident “eigen-networks,” and apply continuous methods directly. As an example, we can spatially register connectivity matrices with spatially distributed nodes. Finally, I will show two simple examples of continuous analogues for standard graph theory measures, and their potential application for an Alzheimer ’s disease study.
+
+
+Bio: Boris Gutman received his B.S. in Applied Mathematics and PhD in Biomedical Engineering from UCLA before joining USC’s Imaging Genetics Center (IGC). He is currently a post-doctoral scholar at the IGC, under the supervision of Professor Paul M. Thompson.

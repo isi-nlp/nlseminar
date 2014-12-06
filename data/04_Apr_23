@@ -1,0 +1,11 @@
+Hal Daume III
+A Tree-Position Kernel for Document Compression
+3:00 pm - 4:00 pm
+10 Large
+04-tree-position-kernel.ps.bz2 04-tree-position-kernel.pdf
+I'll describe our entry into the DUC 2004 automatic document summarization
+competition.  We competed only in the single document, headline generation
+task.  Our system is based on a novel kernel dubbed the tree position
+kernel, combined with two other well-known kernels.  Our system performs
+well on white-box evaluations, but does very poorly in the overall DUC
+evaluation.  C'est la vie.

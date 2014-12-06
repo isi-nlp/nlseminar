@@ -1,0 +1,22 @@
+Victoria Li Fossum (Michigan)
+Inducing POS Taggers by Projecting from Multiple Source Languages
+3:00 pm - 4:30 pm
+11 Large
+
+(Yarowsky et al., 2001) present an algorithm for bootstrapping a POS
+tagger for an arbitrary target language, using an existing POS tagger for
+a source language and a parallel corpus in the source and target
+languages.  The source text is annotated with the POS tagger; the parallel
+corpus is word-aligned; the POS tags are "projected" from source to target
+language; and finally smoothing is performed before training a POS tagger
+for the target language on the projected annotations.
+
+I will talk about my work (jointly with my advisor, Steve Abney, at U. of
+Michigan) in which we extend this algorithm by projecting from multiple
+source languages onto a target language, then combining the outputs to
+compute a consensus POS tagger.  Our hypothesis is that systematic
+transfer errors from different source-target pairs can be reduced by using
+multiple source languages.  I will present experimental results for three
+different source languages (English, German, and Spanish), and two
+different target languages (French and Czech).  Our results indicate that
+using multiple source languages improves performance.

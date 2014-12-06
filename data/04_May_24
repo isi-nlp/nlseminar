@@ -1,0 +1,23 @@
+Philipp Koehn
+Challenges in Statistical Machine Translation
+4:00 pm - 5:00 pm
+11 Large
+
+In the last years a standard model in statistical machine
+translation has emerged, which is based on the translation
+of sequences of words (so-called "phrases") at a time.
+I will describe this model, how to train and decode with it,
+but the focus of this talk will be how to address the
+challenges to advance and move beyond the model: my thesis
+work on noun phrase translation, making use of syntax, and
+better modeling, such as discriminative training.
+
+Bio: Philipp Koehn is the author of papers on natural language
+processing, machine translation, and machine learning. He
+received his PhD from the University of Southern California
+in 2003 (advisor: Kevin Knight), and is currently employed as
+a postdoc at the Massachusetts Institute of Technology, working
+with Michael Collins. He has worked at AT&T Laboratories on
+text-to-speech systems, and at WhizBang! Labs on text
+categorization.
+

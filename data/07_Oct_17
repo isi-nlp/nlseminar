@@ -1,0 +1,59 @@
+Jon Patrick (Univ. of Sydney)
+Enhancement Technologies for ICU Information Systems
+3:30 pm - 4:30 pm
+11 Large
+
+The School of Information Technologies at the University of Sydney has
+had a 3 year partnership with the Intensive Care Unit at the Royal
+Prince Alfred Hospital, Sydney. In that time they have managed 8 joint
+projects aimed at producing software solutions that enhance
+productivity in the Unit and in some cases enabled entirely new
+functionalities in their information systems. The principle motivation
+for the research is the processing of the narratives in clinical notes
+but concomitant problems in information systems have also been tackled
+and the combination of the two disciplines have led to the two related
+processing systems to be described in this presentation.
+
+
+- Ward Rounds Information Systems (WRIS) & Handovers -
+The WRIS is designed to support the work of all clinical staff in
+their ward rounds activities. The system, when activated,
+automatically populates from the resident clinical database a pro
+forma report with the most recent relevant data about the patient,
+such as vital signs, pathology reports, and other diagnostic
+measurements, presented as a web page. The clinical staff then write
+their progress notes into the web page which converts the text to
+SNOMED CT codes and other relevant concepts and entities. The
+clinician is given the opportunity to change any analyses done by the
+processor. This clinician approved data is loaded to the patient
+record. The essential elements of this system, that is computing an
+extract of the patient record, accepting narrative input, and
+analysing the text for coding, is a productivity gain of itself, but
+more importantly, also constitutes the beginning of a hospital wide
+Handovers System for use throughout each step in the patient
+journey. This system is being tested at the RPAH ICU in readiness for
+ward usage. The impact of this system in improving the quality and
+safety of handovers has the potential to be very significant.
+
+
+- Clinical Data Analytics Language (CDAL) -
+General purpose access to data from clinical information systems,
+beyond retrieval for point of care work, is needed for many aspects of
+the hospital's work particularly for clinical research, logistics &
+operational planning, and auditing patient safety. Most current
+clinical systems only provide access to data identified in standard
+reports with no flexibility to make ad hoc enquiries or to pursue new
+directions of enquiry. The clinical data analytics language developed
+enables the expression of any question that can be answered from the
+data in the database in a restricted natural language. A prototype of
+the language has been developed for the CareVue information system
+used in the ICU at the Royal Prince Alfred Hospital. It provides for
+the use of local medical dialects, SNOMED CT terminology including all
+forms of collective expressions in SNOMED (e.g. infectious diseases),
+specification of patient groups, a variety of statistical functions,
+and constraints over any medical variable, Time, and Location. CDAL is
+general in that it can be bolted on to any clinical information system
+and is applicable to any clinical specialisation.
+
+
+

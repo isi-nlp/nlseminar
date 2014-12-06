@@ -1,0 +1,13 @@
+Mark Hopkins
+What's in a Translation Rule?
+3:00 pm - 4:00 pm
+11 Large
+
+We propose a theory that gives formal semantics to word-level
+alignments defined over parallel corpora. We use our theory to
+introduce a linear algorithm that can be used to derive from
+word-aligned, parallel corpora the minimal set of syntactically
+motivated transformation rules that explain human translation data.
+
+(joint work with Michel Galley, Kevin Knight, and Daniel Marcu)
+

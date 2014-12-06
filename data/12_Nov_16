@@ -1,0 +1,6 @@
+Jerry Hobbs
+Abduction and Metaphor
+3:00 pm - 4:00 pm
+11th Floor Conference Room [1135]
+
+I will talk about recent progress in implementing an efficient method for doing a type of inferencing called abduction, or inference to the best explanation.  I will illustrate its wide applicability to a variety of language interpretation problems.  I'll describe our recent work on implementing ontologies, or logical theories of commonsense domains.  Then I will show how we are applying all this to the interpretation of metaphors.

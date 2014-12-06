@@ -1,0 +1,28 @@
+Ekaterina Ovchinnikova
+Integration of World Knowledge for Natural Language Understanding
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Traditional inference-based natural language understanding (NLU) in a
+computational framework suffered mainly from a lack of a sufficiently
+large knowledge base of commonsense knowledge. Recent advances have
+changed this situation: A large amount of machine-readable knowledge
+is now freely available to the community. This talk focuses on
+exploiting these developments to model large-scale NLU in an
+inference-based framework.
+
+The three main types of the existing knowledge sources are
+lexical-semantic dictionaries, distributional resources, and
+ontologies. After comparing these types of resources and outlining
+their differences, I will present an integrative knowledge base
+combining lexical-semantic, ontological, and distributional knowledge
+in a modular way.
+
+I will then talk about reasoning procedures able to make use of the
+large scale knowledge base. In particular, I will compare two main
+forms of logical inferences applied to NLU: deduction and abduction.
+
+In the last part of the talk, I will present experiments on the
+following knowledge-intensive NLU tasks: recognizing textual
+entailment, semantic role labeling, and paraphrasing of noun-noun
+dependencies.

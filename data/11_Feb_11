@@ -1,0 +1,6 @@
+Hui Zhang
+Joint Word Alignment and Synchronous Grammar Induction
+3:00 pm - 4:00 pm
+4th Floor Large Conference Room [460]
+
+Synchronous grammars have been shown to be effective as models of translation, and the performance of such systems depends heavily on the quality of the grammar induced from the training data. The standard method for induction of synchronous grammars uses automatic word alignments to constrain possible derivations, which makes them prey to alignment errors. In this work, we propose a method for joint word alignment and grammar induction. Our experiments show that our method significantly outperforms the standard method, while reducing the size of the grammar by more than half.

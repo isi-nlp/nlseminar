@@ -1,0 +1,7 @@
+Zornitsa Kozareva
+Learning Arguments and Supertypes of Semantic Relations using Recursive Patterns (ACL 2010 Practice Talk)
+3:30 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+A challenging problem in open information extraction and text mining is the learning of the selectional restrictions of semantic relations. We propose a minimally supervised bootstrapping algorithm that uses a single seed and a recursive lexico-syntactic pattern to learn the arguments and the supertypes of a diverse set of semantic relations from the Web. We evaluate the performance of our algorithm on multiple semantic relations expressed using "verb", "noun" and "verb prep" lexico-syntactic patterns. We embark on human based evaluation to assess the quality of the harvested information and find out that the overall accuracy of our algorithm is 90%. We also compare our results with existing knowledge base outlining the similarity and differences of the granularity and diversity of the harvested knowledge.
+

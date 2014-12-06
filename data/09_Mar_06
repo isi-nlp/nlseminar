@@ -1,0 +1,8 @@
+Andreas Maletti
+Minimizing Deterministic Weighted Tree Automata
+3:00 pm - 4:00 pm
+11 Large
+
+Weighted tree automata are equivalent to weighted tree grammars, which can be used, for example, to easily model weighted context-free grammars. In constrast to context-free grammars, tree automata work directly on a tree representation and not on strings. We will introduce weighted tree automata and review the important results on minimization of them. For example, it is known that deterministic devices over commutative semifields (commutative semirings with multiplicative inverses) can be effectively minimized. In the main part of the talk, we present the first efficient algorithm for this minimization. If the operations can be performed in constant time, then our algorithm constructs an equivalent minimal (with respect to the number of states) deterministic automaton in time linear in the maximal rank of the input symbols, the number of (useful) transitions, and the number of states of the input automaton.
+
+

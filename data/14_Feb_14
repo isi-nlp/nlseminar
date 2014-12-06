@@ -1,0 +1,10 @@
+Hal Daumé III (University of Maryland)
+Predicting Linguistic Structures Accurately and Efficiently
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Many classic problems in natural language processing can be cast as building mapping from a complex input (e.g., a sequence of words) to a complex output (e.g., a syntax tree or semantic graph).  This task is challenging both because language is ambiguous (learning difficulties) and represented with discrete combinatorial structures (computational difficulties). Often these are at odds: the features you want to add to decrease learning difficulties cause nontrivial additional structure yielding worse computational difficulties.
+
+I will begin by discussing algorithms that side-step the issue of combinatorial blowup and aim to predict an output structure directly. I will then present approaches that explicitly learn to trade-off accuracy and efficiency, applied to a variety of linguistic phenomena. Moreover, I will show that in some cases, we can actually obtain a model that is faster and more accurate by exploiting smarter learning algorithms.
+
+Hal's homepage: http://www.umiacs.umd.edu/~hal/

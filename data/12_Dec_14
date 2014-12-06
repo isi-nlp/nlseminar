@@ -1,0 +1,17 @@
+Ulf Hermjakob
+Launching Semantics-Based Machine Translation
+3:00 pm - 4:00 pm
+11th Floor Conference Room [1135]
+
+I will present work defining an Abstract Meaning Represention (AMR)
+(joint work with Kevin Knight et al.) that serves as an intermediate
+semantic structure when translating between languages such as Chinese
+and English as well as automatic and manual annotation efforts to
+build corpora of AMRs.
+
+I will give a demo of our web-based AMR Editor, which is used by dozens
+of annotators at LDC, SDL/LanguageWeaver (Cluj) and other places.
+Finally, I will give an overview of our initial end-to-end prototype,
+with rule extraction (own work), decoding from source language to AMR
+(work by Yinggong Zhao) and AMR to target language generation (Yang Gao).
+

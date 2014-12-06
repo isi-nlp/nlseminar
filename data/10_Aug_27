@@ -1,0 +1,10 @@
+Sasha Rush
+Intern Final Talk: Large-scale, High-dimensional, Discriminative Machine Translation
+3:00 pm - 3:30 pm
+11th Floor Large Conference Room [1135]
+
+This talk summarizes my summer work on scaling a machine translation
+system to train on a large data set. Similar system are tuned with
+MERT on 1k sentences, we train a CRF on 100k sentences. I will discuss
+techniques for training, features, distributed scaling,
+regularization, and tuning, and give preliminary results.

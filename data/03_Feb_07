@@ -1,0 +1,15 @@
+Jeongwon Cha
+Automatic Pattern Learning for Information Extraction using Web Data
+3:00 pm - 4:00 pm
+11 Large
+
+I will give a status report work on information extraction during last
+10 months. The motivation of this work is to learn extraction
+patterns automatically using seed template and web search engine. My
+approach is to generate linguistics patterns and surface patterns and
+combine them to compenstate for the respective weaknesses of two
+patterns. On the DUC01-test-disasters (67 documents),
+DUC01-training-disasters (54 documents) I got a 0.34/0.26 f-measure
+respectively. In this talk, I will give a status report on ReAD
+project (with Dr. Chin-Yew Lin).
+

@@ -1,0 +1,8 @@
+Shu Cai
+Language-Independent Parsing with Empty Elements
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+We present a simple, language-independent method for integrating recovery of empty elements into syntactic parsing. This method outperforms the best published method we are aware of on English and a recently published method on Chinese.
+
+This is a joint work with David Chiang and Yoav Goldberg

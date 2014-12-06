@@ -1,0 +1,8 @@
+Victor Chahuneau (CMU)
+Translating into Morphologically Rich Languages with Synthetic Phrases
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Translation into morphologically rich languages is an important but recalcitrant problem in machine translation. When confronted with the large vocabulary sizes resulting from various morphological phenomena, the independence assumptions made by standard translation models mean that vast amounts of parallel training data (which do not generally exist) would be necessary to reliably estimate the numerous required parameters. On the other hand, previous attempts to remedy this situation have been unsatisfying either because they were highly language-dependent, or because they failed from a modeling perspective (e.g., they improved performance on long-tail types at the expense of frequent types).
+
+We present a simple and effective approach that deals with the problem in two phases. First, a discriminative model is learned to predict inflections of target words from rich source-side annotations. Then, this model is used to create additional sentence-specific phrases that are added to a standard translation model prior to decoding. Our approach relies on morphological analysis of the target language but we show that an unsupervised Bayesian model can also be used in place of a standard supervised analyzer. We report significant improvements in translation quality when translating from English to Russian, Hebrew and Swahili.

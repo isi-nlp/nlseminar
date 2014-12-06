@@ -1,0 +1,37 @@
+Victoria Fossum
+Sequential vs. hierarchical syntactic models of human sentence processing
+2:00 pm - 3:00 pm
+6th Floor Conference Room [689]
+
+Human incremental sentence processing is the process by which we read
+a sentence, word-by-word, and ultimately comprehend its meaning.  A
+central question in sentence processing research is to understand the
+precise nature of the linguistic representations that we construct
+while comprehending a sentence.  Experimental evidence demonstrates
+that syntactic structure plays a role in these representations.  But
+open questions remain about the type of syntactic structure that is
+most relevant to the human sentence processing mechanism: is this
+syntactic structure sequential or hierarchical?  Does it include
+lexical information (in which case it is "lexicalized"), or is lexical
+information processed independently from the syntactic structure (in
+which case the syntactic structure is "unlexicalized")?
+
+A previous study (Frank and Bod, 2011) compared unlexicalized
+sequential and hierarchical models of human sentence processing, and
+found that sequential models explain observed human behavior (e.g. eye
+movements) during sentence processing better than hierarchical models.
+The authors concluded that the human sentence processing mechanism is
+insensitive to hierarchical syntactic structure.
+
+We investigate this claim, and find a picture that is more complicated
+than the one presented by the previous study.  First, we show that
+lexicalized syntactic models explain observed human behavior during
+sentence processing better than unlexicalized syntactic models.
+Second, we consider a broader set of sequential and hierarchical
+models, and show that the findings of (Frank and Bod, 2011) do not
+generalize to this broader set.  Finally, we show why, even within the
+set of models considered by (Frank and Bod, 2011), their findings are
+not entirely conclusive.  Our results indicate that the claim that the
+human sentence processing mechanism is insensitive to hierarchical
+syntactic structure is premature.
+

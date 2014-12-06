@@ -1,0 +1,48 @@
+Christopher Manning (Stanford)
+Natural Language Parsing: Graphs, the A* Algorithm, and Modularity
+10:00 am - 11:00 am
+11 Large
+
+Probabilistic parsing methods have in recent years transformed our ability to
+robustly find correct parses for open domain sentences.  Much of this work has
+been within a common architecture of heuristic search for good pares in
+lexicalized probabilistic context-free grammars, with many layers of back-off
+to avoid problems of sparse data. 
+
+In this talk, I will outline some different ideas that we have been pursuing. 
+I will connect stochastic parsing with finding shortest paths in hypergraphs,
+and show how this approach naturally provides a chart parser for arbitrary
+probabilistic context-free grammars (finding shortest paths in a hypergraph is
+easy; the central problem of parsing is that the hypergraph has to be
+constructed on the fly). From this viewpoint, a natural approach is to use the
+A* algorithm to cut down the work in finding the best parse. On unlexicalized
+grammars, this can reduce the parsing work done dramatically, by at least 97%.
+This approach is competitive with methods standardly used in statistical
+parsers, while ensuring optimality, unlike most heuristic approaches to
+best-first parsing. 
+
+Finally, I will present a novel modular generative model in which semantic
+(lexical dependency) and syntactic structures are scored separately. This
+factored model is conceptually simple, linguistically interesting, admits exact
+inferenence with an extremely effective A* algorithm, and provides
+straightforward opportunities for separately improving the component models. In
+particular, I will mention some of the work we have done focusing on the PCFG
+component to produce a very high accuracy unlexicalized grammar. 
+
+This is joint work with Dan Klein. 
+
+About the Speaker:
+
+Christopher Manning is an Assistant Professor of Computer Science and
+Linguistics at Stanford University. He received his Ph.D. from Stanford
+University in 1995, and served on the faculty of the Computational Linguistics
+Program at Carnegie Mellon University (1994-1996) and the University of Sydney
+Linguistics Department (1996-1999) before returning to Stanford. His research
+interests include probabilistic models of language, natural language parsing,
+constraint-based linguistic theories, syntactic typology, information
+extraction and text mining, and computational lexicography. He is the author of
+three books, including Foundations of Statistical Natural Language Processing
+(MIT Press, 1999, with Hinrich Schuetze). 
+
+Chris' schedule is available in <a href="manning.ps">Postscript</a> or
+<a href="manning.pdf">PDF</a> format.
