@@ -22,13 +22,13 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION: How are concepts represented in the brain? When we hear the ringing of a bell, or watch a bell swinging back and forth, is there a shared "BELL" pattern of neural activity in our brains? Philosophers have debated the nature of concepts for centuries, but recent technical advances have allowed neuroscientists to make contributions to this topic. The combination of functional neuroimaging and machine learning has allowed us to examine distributed patterns of activity in the human brain to decode what they represent about the world, and to what level of abstraction. I describe our recent findings that revealed a hierarchical organization of multisensory information integration, leading to representations that generalize across different sensory modalities. I will also discuss our work on the social function of concepts, which enables the communication of similar thoughts and associations between individuals.Bio:I am a research associate at the Brain and Creativity Institute of the University of Southern California. I earned my Ph.D. at USC, mentored by Antonio Damasio. I am interested in the general problem of consciousness, and in particular how different sensations are bound together by the brain into a unified experience of the world.
+DESCRIPTION: TBD
 
-DTEND;TZID=America/Los_Angeles:20141205T160000
-DTSTART;TZID=America/Los_Angeles:20141205T150000
+DTEND;TZID=America/Los_Angeles:20150313T160000
+DTSTART;TZID=America/Los_Angeles:20150313T150000
 LOCATION:6th Floor Large Conference Room [689]
-SUMMARY:Multisensory integration in a neural framework for concepts
-UID:20141205T150000@NL
+SUMMARY:TBD
+UID:20150313T150000@NL
 URL:http://www.isi.edu/natural-language/nl-seminar
 END:VEVENT
 BEGIN:VEVENT
@@ -52,12 +52,12 @@ UID:20150213T150000@NL
 URL:http://www.isi.edu/natural-language/nl-seminar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: TBD
+DESCRIPTION: Understanding what people mean when they use metaphoric language is a central problem in natural language understanding. Metaphors give a partial understanding of one kind of experience in terms of another, highlighting similarities and hiding differences. In this talk, I give an overview of the problems posed by metaphoric language. I then describe ongoing crosslinguistic work on the knowledge-based interpretation of metaphors by abductive inference. This work moves us toward a better understanding not only of what people are saying with metaphors but also how the metaphors used by groups of people (e.g., the supporters and opponents of gun control) expose their different world views.Bio:Jonathan Gordon is a postdoctoral researcher at the USC Information Sciences Institute, where he is advised by Jerry Hobbs. His 2014 doctoral dissertation, 'Inferential Commonsense Knowledge from Text', was supervised by Lenhart Schubert at the University of Rochester. Jonathan's research interests include natural language understanding, semantics, and knowledge extraction.
 
 DTEND;TZID=America/Los_Angeles:20150116T160000
 DTSTART;TZID=America/Los_Angeles:20150116T150000
 LOCATION:6th Floor Large Conference Room [689]
-SUMMARY:TBD
+SUMMARY:Towards the Interpretation of Metaphoric Language
 UID:20150116T150000@NL
 URL:http://www.isi.edu/natural-language/nl-seminar
 END:VEVENT
@@ -89,6 +89,16 @@ DTSTART;TZID=America/Los_Angeles:20150206T150000
 LOCATION:6th Floor Large Conference Room [689]
 SUMMARY:TBD
 UID:20150206T150000@NL
+URL:http://www.isi.edu/natural-language/nl-seminar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: NLP Technologies have developed a technology for automated analysis of social media data. TRANSLI™ Social Media Analytics and monitoring, is an online visual analytics system designed to provide social intelligence from news and other events from Twitter. During this seminar, Dr. Atefeh Farzindar will give a presentation on TRANSLI™-SM where the system features an intuitive user interface and is designed to browse and visualise the results of the semantic analysis of social discussion on specific events from Twitter. The user can obtain the information not only limited to the main event of interest but also to the intelligence for the sub events.About NLP technologiesNLP Technologies Inc. is a Canadian company founded in 2005 and that expanded to California in 2014. The company specialises in natural language processing, NLP-based search engines, translation technologies and services, social media analytics, and automatic summarization.http://www.nlptechnologies.ca/Bio: Dr. Atefeh Farzindar, CEO NLP Technologies Inc.and Adjunct professor at University of MontrealDr. Atefeh Farzindar is the co-founder and CEO of NLP Technologies. She received her PhD in Computer Science from the University of Montreal and her Doctorate in automatic summarization of legal documents from Paris-Sorbonne University in 2005. She has been an Adjunct professor at the Department of Computer Science at the University of Montreal since 2010, and she was Honorary Research Fellowship at the Research Group in Computational Linguistics at the University of Wolverhampton, UK (2010-2012).Dr. Farzindar has been Action Editor in the international journal of Computational Intelligence since 2011. She co-edited two special issues on social media analysis for the International Journal of Computational Intelligence (CI) and Journal TAL, an international journal on natural language processing.She co-authored an upcoming book on Natural Language Processing for Social Media [Morgan & Claypool Publishers, 2014], and authored a book chapter in Social Network Integration in Document Summarization, Innovative Document Summarization Techniques: Revolutionizing Knowledge Understanding, IGI Global publisher January 2014.In 2013, Dr. Farzindar won  Femmessor-Montréal’s contest,  Succeeding with a balanced lifestyle, in the  Innovative Technology and Information and Communications Technology category because of her involvement in the arts. Her paintings have recently been published in a book titled One Thousand and One Nights, in which the palette of vivid colours and her unique contemporary style revolved around on the place of women in modern society (Vernissage & Artist Book Launch April, Montréal, Galerie 203 https://www.youtube.com/watch?v=TLCghx1mvzY)
+
+DTEND;TZID=America/Los_Angeles:20150227T160000
+DTSTART;TZID=America/Los_Angeles:20150227T150000
+LOCATION:6th Floor Large Conference Room [689]
+SUMMARY:TRANSLI™, NLP-based social media analytics and monitoring
+UID:20150227T150000@NL
 URL:http://www.isi.edu/natural-language/nl-seminar
 END:VEVENT
 BEGIN:VEVENT
@@ -339,6 +349,16 @@ DTSTART;TZID=America/Los_Angeles:20060823T153000
 LOCATION:11 Large
 SUMMARY:Speeding-up Syntax-based Decoding
 UID:20060823T153000@NL
+URL:http://www.isi.edu/natural-language/nl-seminar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: How are concepts represented in the brain? When we hear the ringing of a bell, or watch a bell swinging back and forth, is there a shared "BELL" pattern of neural activity in our brains? Philosophers have debated the nature of concepts for centuries, but recent technical advances have allowed neuroscientists to make contributions to this topic. The combination of functional neuroimaging and machine learning has allowed us to examine distributed patterns of activity in the human brain to decode what they represent about the world, and to what level of abstraction. I describe our recent findings that revealed a hierarchical organization of multisensory information integration, leading to representations that generalize across different sensory modalities. I will also discuss our work on the social function of concepts, which enables the communication of similar thoughts and associations between individuals.Bio:I am a research associate at the Brain and Creativity Institute of the University of Southern California. I earned my Ph.D. at USC, mentored by Antonio Damasio. I am interested in the general problem of consciousness, and in particular how different sensations are bound together by the brain into a unified experience of the world.
+
+DTEND;TZID=America/Los_Angeles:20141205T160000
+DTSTART;TZID=America/Los_Angeles:20141205T150000
+LOCATION:6th Floor Large Conference Room [689]
+SUMMARY:Multisensory integration in a neural framework for concepts
+UID:20141205T150000@NL
 URL:http://www.isi.edu/natural-language/nl-seminar
 END:VEVENT
 BEGIN:VEVENT

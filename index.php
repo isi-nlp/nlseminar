@@ -29,39 +29,7 @@ function exp_coll(ind) {
   </head>
 <body text="#000033" link="#000099" vlink="#000099" alink="#000099">
 <?php include('includes/usc-header.php'); ?><br><center><h2><b>USC/ISI NL Seminar</b></h2></center>
-<?php include('includes/about.php'); ?>  <div class="nlheader"><h2><b>Today:</b></h2></div>
-<table width=90% border=0 cellspacing=1 cellpadding=4 bgcolor="#FFFFFF" align=center>
-<tr class="seminarTableHeader"><td align=left width=14%>
-    <b>Date</b>
-  </td><td align=left width=25%>
-    <b>Speaker</b>
-  </td><td align=left>
-    <b>Title</b>
-  </td></tr>
-<tr class="speakerItem" border=0 >
-<td align=left valign=top>05 Dec 2014</td>
-<td align=left valign=top>Kingson Man (USC/BCI)</td>
-<td align=left valign=top>
-<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Dec_2014');">
-Multisensory integration in a neural framework for concepts
-</a><br>
-<span id=abs05_Dec_2014 style="display:none;">
-<font size=-1>
-<b>Time:</b> 3:00 pm - 4:00 pm<br>
-<b>Location:</b> 6th Floor Large Conference Room [689]<br>
-<b>Abstract:</b> <p>
-How are concepts represented in the brain? When we hear the ringing of a bell, or watch a bell swinging back and forth, is there a shared "BELL" pattern of neural activity in our brains? Philosophers have debated the nature of concepts for centuries, but recent technical advances have allowed neuroscientists to make contributions to this topic. The combination of functional neuroimaging and machine learning has allowed us to examine distributed patterns of activity in the human brain to decode what they represent about the world, and to what level of abstraction. I describe our recent findings that revealed a hierarchical organization of multisensory information integration, leading to representations that generalize across different sensory modalities. I will also discuss our work on the social function of concepts, which enables the communication of similar thoughts and associations between individuals.
-<p>
-<p>
-<p>
-Bio:
-<p>
-I am a research associate at the Brain and Creativity Institute of the University of Southern California. I earned my Ph.D. at USC, mentored by Antonio Damasio. I am interested in the general problem of consciousness, and in particular how different sensations are bound together by the brain into a unified experience of the world.
-<br>
-</font>
-</span>
-</td></tr></table><br><br>
-  <div class="nlheader"><h3>Upcoming talks:</h3></div>
+<?php include('includes/about.php'); ?>  <div class="nlheader"><h3>Upcoming talks:</h3></div>
 <table width=90% border=0 cellspacing=1 cellpadding=4 bgcolor="#FFFFFF" align=center>
 <tr class="seminarTableHeader"><td align=left width=14%>
     <b>Date</b>
@@ -75,13 +43,16 @@ I am a research associate at the Brain and Creativity Institute of the Universit
 <td align=left valign=top>Jonathan Gordon (USC/ISI)</td>
 <td align=left valign=top>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jan_2015');">
-TBD
+Towards the Interpretation of Metaphoric Language
 </a><br>
 <span id=abs16_Jan_2015 style="display:none;">
 <font size=-1>
 <b>Time:</b> 3:00 pm - 4:00 pm<br>
 <b>Location:</b> 6th Floor Large Conference Room [689]<br>
-<b>Abstract:</b> TBD
+<b>Abstract:</b> Understanding what people mean when they use metaphoric language is a central problem in natural language understanding. Metaphors give a partial understanding of one kind of experience in terms of another, highlighting similarities and hiding differences. In this talk, I give an overview of the problems posed by metaphoric language. I then describe ongoing crosslinguistic work on the knowledge-based interpretation of metaphors by abductive inference. This work moves us toward a better understanding not only of what people are saying with metaphors but also how the metaphors used by groups of people (e.g., the supporters and opponents of gun control) expose their different world views.
+<p>
+Bio:
+Jonathan Gordon is a postdoctoral researcher at the USC Information Sciences Institute, where he is advised by Jerry Hobbs. His 2014 doctoral dissertation, 'Inferential Commonsense Knowledge from Text', was supervised by Lenhart Schubert at the University of Rochester. Jonathan's research interests include natural language understanding, semantics, and knowledge extraction.
 <br>
 </font>
 </span>
@@ -160,6 +131,52 @@ TBD
 <br>
 </font>
 </span>
+</td></tr><tr class="speakerItem" border=0 >
+<td align=left valign=top>27 Feb 2015</td>
+<td align=left valign=top>Atefeh Farzindar (NLP Technologies)</td>
+<td align=left valign=top>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs27_Feb_2015');">
+TRANSLI™, NLP-based social media analytics and monitoring
+</a><br>
+<span id=abs27_Feb_2015 style="display:none;">
+<font size=-1>
+<b>Time:</b> 3:00 pm - 4:00 pm<br>
+<b>Location:</b> 6th Floor Large Conference Room [689]<br>
+<b>Abstract:</b> NLP Technologies have developed a technology for automated analysis of social media data. TRANSLI™ Social Media Analytics and monitoring, is an online visual analytics system designed to provide social intelligence from news and other events from Twitter. During this seminar, Dr. Atefeh Farzindar will give a presentation on TRANSLI™-SM where the system features an intuitive user interface and is designed to browse and visualise the results of the semantic analysis of social discussion on specific events from Twitter. The user can obtain the information not only limited to the main event of interest but also to the intelligence for the sub events.
+<p>
+About NLP technologies
+NLP Technologies Inc. is a Canadian company founded in 2005 and that expanded to California in 2014. The company specialises in natural language processing, NLP-based search engines, translation technologies and services, social media analytics, and automatic summarization.
+http://www.nlptechnologies.ca/
+<p>
+<p>
+Bio: Dr. Atefeh Farzindar, CEO NLP Technologies Inc.
+and Adjunct professor at University of Montreal
+<p>
+Dr. Atefeh Farzindar is the co-founder and CEO of NLP Technologies. She received her PhD in Computer Science from the University of Montreal and her Doctorate in automatic summarization of legal documents from Paris-Sorbonne University in 2005. She has been an Adjunct professor at the Department of Computer Science at the University of Montreal since 2010, and she was Honorary Research Fellowship at the Research Group in Computational Linguistics at the University of Wolverhampton, UK (2010-2012).
+<p>
+Dr. Farzindar has been Action Editor in the international journal of Computational Intelligence since 2011. She co-edited two special issues on social media analysis for the International Journal of Computational Intelligence (CI) and Journal TAL, an international journal on natural language processing.
+<p>
+She co-authored an upcoming book on Natural Language Processing for Social Media [Morgan & Claypool Publishers, 2014], and authored a book chapter in Social Network Integration in Document Summarization, Innovative Document Summarization Techniques: Revolutionizing Knowledge Understanding, IGI Global publisher January 2014.
+<p>
+In 2013, Dr. Farzindar won  Femmessor-Montréal’s contest,  Succeeding with a balanced lifestyle, in the  Innovative Technology and Information and Communications Technology category because of her involvement in the arts. Her paintings have recently been published in a book titled One Thousand and One Nights, in which the palette of vivid colours and her unique contemporary style revolved around on the place of women in modern society (Vernissage & Artist Book Launch April, Montréal, Galerie 203 https://www.youtube.com/watch?v=TLCghx1mvzY)
+<br>
+</font>
+</span>
+</td></tr><tr class="speakerItem" border=0 >
+<td align=left valign=top>13 Mar 2015</td>
+<td align=left valign=top>Don Metzler (Google)</td>
+<td align=left valign=top>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Mar_2015');">
+TBD
+</a><br>
+<span id=abs13_Mar_2015 style="display:none;">
+<font size=-1>
+<b>Time:</b> 3:00 pm - 4:00 pm<br>
+<b>Location:</b> 6th Floor Large Conference Room [689]<br>
+<b>Abstract:</b> TBD
+<br>
+</font>
+</span>
 </td></tr></table><br><br>
  <div class="nlheader"><h3>Past talks:</h3></div>
 <table width=90% border=0 cellspacing=1 cellpadding=4 bgcolor="#FFFFFF" align=center>
@@ -171,6 +188,28 @@ TBD
     <b>Title</b>
   </td></tr>
 <tr class="speakerItem" border=0 >
+<td align=left valign=top>05 Dec 2014</td>
+<td align=left valign=top>Kingson Man (USC/BCI)</td>
+<td align=left valign=top>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs05_Dec_2014');">
+Multisensory integration in a neural framework for concepts
+</a><br>
+<span id=abs05_Dec_2014 style="display:none;">
+<font size=-1>
+<b>Time:</b> 3:00 pm - 4:00 pm<br>
+<b>Location:</b> 6th Floor Large Conference Room [689]<br>
+<b>Abstract:</b> <p>
+How are concepts represented in the brain? When we hear the ringing of a bell, or watch a bell swinging back and forth, is there a shared "BELL" pattern of neural activity in our brains? Philosophers have debated the nature of concepts for centuries, but recent technical advances have allowed neuroscientists to make contributions to this topic. The combination of functional neuroimaging and machine learning has allowed us to examine distributed patterns of activity in the human brain to decode what they represent about the world, and to what level of abstraction. I describe our recent findings that revealed a hierarchical organization of multisensory information integration, leading to representations that generalize across different sensory modalities. I will also discuss our work on the social function of concepts, which enables the communication of similar thoughts and associations between individuals.
+<p>
+<p>
+<p>
+Bio:
+<p>
+I am a research associate at the Brain and Creativity Institute of the University of Southern California. I earned my Ph.D. at USC, mentored by Antonio Damasio. I am interested in the general problem of consciousness, and in particular how different sensations are bound together by the brain into a unified experience of the world.
+<br>
+</font>
+</span>
+</td></tr><tr class="speakerItem" border=0 >
 <td align=left valign=top>20 Nov 2014</td>
 <td align=left valign=top>Robert Munro (Idibon)</td>
 <td align=left valign=top>
@@ -10764,6 +10803,6 @@ that we will need to wait that long :-).
 </span>
 </td></tr></table><br><br>
 <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-This web page was last generated on Fri Dec 05 17:35:03 2014.<br>
+This web page was last generated on Thu Jan 08 13:12:33 2015.<br>
 </font></div>
 </body></html>
