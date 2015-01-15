@@ -43,13 +43,16 @@ function exp_coll(ind) {
 <td align=left valign=top>Jonathan Gordon (USC/ISI)</td>
 <td align=left valign=top>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jan_2015');">
-TBD
+Towards the Interpretation of Metaphoric Language
 </a><br>
 <span id=abs16_Jan_2015 style="display:none;">
 <font size=-1>
 <b>Time:</b> 3:00 pm - 4:00 pm<br>
 <b>Location:</b> 6th Floor Large Conference Room [689]<br>
-<b>Abstract:</b> TBD
+<b>Abstract:</b> Understanding what people mean when they use metaphoric language is a central problem in natural language understanding. Metaphors give a partial understanding of one kind of experience in terms of another, highlighting similarities and hiding differences. In this talk, I give an overview of the problems posed by metaphoric language. I then describe ongoing crosslinguistic work on the knowledge-based interpretation of metaphors by abductive inference. This work moves us toward a better understanding not only of what people are saying with metaphors but also how the metaphors used by groups of people (e.g., the supporters and opponents of gun control) expose their different world views.
+<p>
+Bio:
+Jonathan Gordon is a postdoctoral researcher at the USC Information Sciences Institute, where he is advised by Jerry Hobbs. His 2014 doctoral dissertation, 'Inferential Commonsense Knowledge from Text', was supervised by Lenhart Schubert at the University of Rochester. Jonathan's research interests include natural language understanding, semantics, and knowledge extraction.
 <br>
 </font>
 </span>
@@ -10800,6 +10803,6 @@ that we will need to wait that long :-).
 </span>
 </td></tr></table><br><br>
 <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-This web page was last generated on Thu Jan 08 05:00:05 2015.<br>
+This web page was last generated on Mon Jan 12 05:00:02 2015.<br>
 </font></div>
 </body></html>
