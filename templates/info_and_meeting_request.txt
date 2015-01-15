@@ -1,0 +1,19 @@
+#Note: send this around 2 weeks before the talk.
+#For speakers coming in from outside USC and LA, you should ask them about meetings earlier while organizing the date of their visit, and then set up the actual meeting schedule about 3-4 weeks before their talk.
+#USC people can do a shorter schedule.
+
+Hi BLANK,
+
+This is a friendly reminder that you're signed up to speak at ISI's Natural Language Seminar on January 23, 3-4 PM.
+We publicize the talks within the ISI and USC communities, so I'll need your talk information (a title, abstract, and short bio) by next Wednesday, January 17.
+You can see examples on the talks' website: http://nlg.isi.edu/nl-seminar/.
+
+#Optional, for outside and/or high-profile speakers:
+Also, would you be interested in having lunch and setting up some meetings with ISI faculty, researchers, and students? 
+#Can omit next line if you know they are coming for the full day.
+If you're interested, let me know what your availability that day is. Many speakers do either a full (9-5) or half(12-5) schedule. 
+Also, let me know if there's anyone you'd like to talk to in particular so I can check their availability, and then I'll open it up so anyone at ISI who's interested.
+
+
+Thanks!
+<Your Name>

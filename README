@@ -42,5 +42,7 @@ How to use the ISI Seminar tool
 6. Create your own meeting schedule on Google Docs, or use an existing one. Example: http://goo.gl/pgSD4j.
 
 7. Misc:
-	- invitation.txt from Qing Dou and Aliya Deri and thankyou.txt from Peter Zamar
+	-in templates/ invitation.txt from Qing Dou and Aliya Deri and thankyou.txt from Peter Zamar
+	-remember to commit and push to git, so you're safeguarded against any accidental deletes
+	
 
