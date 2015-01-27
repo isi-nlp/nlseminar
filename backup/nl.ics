@@ -34,16 +34,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: TBD
 
-DTEND;TZID=America/Los_Angeles:20150220T160000
-DTSTART;TZID=America/Los_Angeles:20150220T150000
-LOCATION:6th Floor Large Conference Room [689]
-SUMMARY:TBD
-UID:20150220T150000@NL
-URL:http://www.isi.edu/natural-language/nl-seminar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: TBD
-
 DTEND;TZID=America/Los_Angeles:20150213T160000
 DTSTART;TZID=America/Los_Angeles:20150213T150000
 LOCATION:6th Floor Large Conference Room [689]
@@ -52,33 +42,13 @@ UID:20150213T150000@NL
 URL:http://www.isi.edu/natural-language/nl-seminar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION: Understanding what people mean when they use metaphoric language is a central problem in natural language understanding. Metaphors give a partial understanding of one kind of experience in terms of another, highlighting similarities and hiding differences. In this talk, I give an overview of the problems posed by metaphoric language. I then describe ongoing crosslinguistic work on the knowledge-based interpretation of metaphors by abductive inference. This work moves us toward a better understanding not only of what people are saying with metaphors but also how the metaphors used by groups of people (e.g., the supporters and opponents of gun control) expose their different world views.Bio:Jonathan Gordon is a postdoctoral researcher at the USC Information Sciences Institute, where he is advised by Jerry Hobbs. His 2014 doctoral dissertation, 'Inferential Commonsense Knowledge from Text', was supervised by Lenhart Schubert at the University of Rochester. Jonathan's research interests include natural language understanding, semantics, and knowledge extraction.
-
-DTEND;TZID=America/Los_Angeles:20150116T160000
-DTSTART;TZID=America/Los_Angeles:20150116T150000
-LOCATION:6th Floor Large Conference Room [689]
-SUMMARY:Towards the Interpretation of Metaphoric Language
-UID:20150116T150000@NL
-URL:http://www.isi.edu/natural-language/nl-seminar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: TBD
+DESCRIPTION: The highly complex structure of the human brain is strongly shaped by genetic influences. Subcortical brain regions act jointly with cortical areas to coordinate movement, memory, motivation, reinforcement and learning. To investigate how common genetic variants affect the structure of these brain regions, we conducted genome-wide association studies (GWAS) of the volumes of seven subcortical regions and intracranial volume, derived from magnetic resonance images (MRIs) of 30,717 individuals. By identifying genetic influences on brain structure, we can begin to map the genetic architecture underlying variability in human brain development and function, a process that will help elucidate the dysfunctions that lie at the core of neuropsychiatric disorders.Bio: Derrek Hibar is an assistant professor in the Department of Neurology in the Keck School of Medicine of USC where he studies common genetic influences on brain structure and susceptibility to psychiatric disorders. He is currently coordinating one of the largest studies of brain structure to date as part of the ENIGMA Consortium (http://enigma.ini.usc.edu).
 
 DTEND;TZID=America/Los_Angeles:20150130T160000
 DTSTART;TZID=America/Los_Angeles:20150130T150000
 LOCATION:6th Floor Large Conference Room [689]
-SUMMARY:TBD
+SUMMARY:Neuroimaging Genetics in the ENIGMA Consortium
 UID:20150130T150000@NL
-URL:http://www.isi.edu/natural-language/nl-seminar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: TBD
-
-DTEND;TZID=America/Los_Angeles:20150123T160000
-DTSTART;TZID=America/Los_Angeles:20150123T150000
-LOCATION:6th Floor Large Conference Room [689]
-SUMMARY:TBD
-UID:20150123T150000@NL
 URL:http://www.isi.edu/natural-language/nl-seminar
 END:VEVENT
 BEGIN:VEVENT
@@ -89,6 +59,26 @@ DTSTART;TZID=America/Los_Angeles:20150206T150000
 LOCATION:6th Floor Large Conference Room [689]
 SUMMARY:TBD
 UID:20150206T150000@NL
+URL:http://www.isi.edu/natural-language/nl-seminar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: TBD
+
+DTEND;TZID=America/Los_Angeles:20150306T160000
+DTSTART;TZID=America/Los_Angeles:20150306T150000
+LOCATION:6th Floor Large Conference Room [689]
+SUMMARY:TBD
+UID:20150306T150000@NL
+URL:http://www.isi.edu/natural-language/nl-seminar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: TBD
+
+DTEND;TZID=America/Los_Angeles:20150320T160000
+DTSTART;TZID=America/Los_Angeles:20150320T150000
+LOCATION:6th Floor Large Conference Room [689]
+SUMMARY:TBD
+UID:20150320T150000@NL
 URL:http://www.isi.edu/natural-language/nl-seminar
 END:VEVENT
 BEGIN:VEVENT
@@ -789,6 +779,16 @@ DTSTART;TZID=America/Los_Angeles:20061103T153000
 LOCATION:11 Large
 SUMMARY:perl part 2 - advanced magick
 UID:20061103T153000@NL
+URL:http://www.isi.edu/natural-language/nl-seminar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: Understanding what people mean when they use metaphoric language is a central problem in natural language understanding. Metaphors give a partial understanding of one kind of experience in terms of another, highlighting similarities and hiding differences. In this talk, I give an overview of the problems posed by metaphoric language. I then describe ongoing crosslinguistic work on the knowledge-based interpretation of metaphors by abductive inference. This work moves us toward a better understanding not only of what people are saying with metaphors but also how the metaphors used by groups of people (e.g., the supporters and opponents of gun control) expose their different world views.Bio:Jonathan Gordon is a postdoctoral researcher at the USC Information Sciences Institute, where he is advised by Jerry Hobbs. His 2014 doctoral dissertation, 'Inferential Commonsense Knowledge from Text', was supervised by Lenhart Schubert at the University of Rochester. Jonathan's research interests include natural language understanding, semantics, and knowledge extraction.
+
+DTEND;TZID=America/Los_Angeles:20150116T160000
+DTSTART;TZID=America/Los_Angeles:20150116T150000
+LOCATION:6th Floor Large Conference Room [689]
+SUMMARY:Towards the Interpretation of Metaphoric Language
+UID:20150116T150000@NL
 URL:http://www.isi.edu/natural-language/nl-seminar
 END:VEVENT
 BEGIN:VEVENT
@@ -2029,6 +2029,16 @@ DTSTART;TZID=America/Los_Angeles:20040430T150000
 LOCATION:11 Large
 SUMMARY:Automating the Building of Summarization Systems
 UID:20040430T150000@NL
+URL:http://www.isi.edu/natural-language/nl-seminar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: Analogies allow us to make connections between different domains of knowledge and to apply what we already know to new situations. For this reason, they're important to developing new theories and new understandings of the social and natural world, and have often been seen as an important task for machine learning. In my talk, I'll explore how different theories of how analogy works shape the different approaches that research teams take when modeling analogical thinking. Specifically, I'll contrast what I term "formal" or "top-down" theories of analogy with a "serial" or "bottom-up" approach. Finally, I'll describe a syntactic and semantic method for searching out analogies within corpora. I'm convinced that understanding analogies better, and being able to find locate new analogies in historical documents, can help us understand where new ideas come from.Bio: Devin Griffiths is an assistant professor in the English Department at USC, where he studies nineteenth-century British literature and scientific history. His current book project, titled "Between the Darwins," explores how analogies were used in the nineteenth century to create new theories of evolution and social progress. His areas of research include science and literature, poetics, book history, and the digital humanities.Webcast Link: http://webcasterms1.isi.edu/mediasite/Viewer/?peid=56439af4a5cb41f49a2c5faef5683cd11d
+
+DTEND;TZID=America/Los_Angeles:20150123T160000
+DTSTART;TZID=America/Los_Angeles:20150123T150000
+LOCATION:6th Floor Large Conference Room [689]
+SUMMARY:Understanding Analogies: Theory and Method
+UID:20150123T150000@NL
 URL:http://www.isi.edu/natural-language/nl-seminar
 END:VEVENT
 BEGIN:VEVENT

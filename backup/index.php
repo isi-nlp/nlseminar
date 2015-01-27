@@ -39,50 +39,20 @@ function exp_coll(ind) {
     <b>Title</b>
   </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left valign=top>16 Jan 2015</td>
-<td align=left valign=top>Jonathan Gordon (USC/ISI)</td>
-<td align=left valign=top>
-<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jan_2015');">
-Towards the Interpretation of Metaphoric Language
-</a><br>
-<span id=abs16_Jan_2015 style="display:none;">
-<font size=-1>
-<b>Time:</b> 3:00 pm - 4:00 pm<br>
-<b>Location:</b> 6th Floor Large Conference Room [689]<br>
-<b>Abstract:</b> Understanding what people mean when they use metaphoric language is a central problem in natural language understanding. Metaphors give a partial understanding of one kind of experience in terms of another, highlighting similarities and hiding differences. In this talk, I give an overview of the problems posed by metaphoric language. I then describe ongoing crosslinguistic work on the knowledge-based interpretation of metaphors by abductive inference. This work moves us toward a better understanding not only of what people are saying with metaphors but also how the metaphors used by groups of people (e.g., the supporters and opponents of gun control) expose their different world views.
-<p>
-Bio:
-Jonathan Gordon is a postdoctoral researcher at the USC Information Sciences Institute, where he is advised by Jerry Hobbs. His 2014 doctoral dissertation, 'Inferential Commonsense Knowledge from Text', was supervised by Lenhart Schubert at the University of Rochester. Jonathan's research interests include natural language understanding, semantics, and knowledge extraction.
-<br>
-</font>
-</span>
-</td></tr><tr class="speakerItem" border=0 >
-<td align=left valign=top>23 Jan 2015</td>
-<td align=left valign=top>Devin Griffiths (USC/Dornsife)</td>
-<td align=left valign=top>
-<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Jan_2015');">
-TBD
-</a><br>
-<span id=abs23_Jan_2015 style="display:none;">
-<font size=-1>
-<b>Time:</b> 3:00 pm - 4:00 pm<br>
-<b>Location:</b> 6th Floor Large Conference Room [689]<br>
-<b>Abstract:</b> TBD
-<br>
-</font>
-</span>
-</td></tr><tr class="speakerItem" border=0 >
 <td align=left valign=top>30 Jan 2015</td>
-<td align=left valign=top>Derrek Hibar (USC/ISI)</td>
+<td align=left valign=top>Derrek Hibar (USC/INI)</td>
 <td align=left valign=top>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jan_2015');">
-TBD
+Neuroimaging Genetics in the ENIGMA Consortium
 </a><br>
 <span id=abs30_Jan_2015 style="display:none;">
 <font size=-1>
 <b>Time:</b> 3:00 pm - 4:00 pm<br>
 <b>Location:</b> 6th Floor Large Conference Room [689]<br>
-<b>Abstract:</b> TBD
+<b>Abstract:</b> The highly complex structure of the human brain is strongly shaped by genetic influences. Subcortical brain regions act jointly with cortical areas to coordinate movement, memory, motivation, reinforcement and learning. To investigate how common genetic variants affect the structure of these brain regions, we conducted genome-wide association studies (GWAS) of the volumes of seven subcortical regions and intracranial volume, derived from magnetic resonance images (MRIs) of 30,717 individuals. By identifying genetic influences on brain structure, we can begin to map the genetic architecture underlying variability in human brain development and function, a process that will help elucidate the dysfunctions that lie at the core of neuropsychiatric disorders.
+<p>
+Bio: Derrek Hibar is an assistant professor in the Department of Neurology in the Keck School of Medicine of USC where he studies common genetic influences on brain structure and susceptibility to psychiatric disorders. He is currently coordinating one of the largest studies of brain structure to date as part of the ENIGMA Consortium (http://enigma.ini.usc.edu).
+<p>
 <br>
 </font>
 </span>
@@ -109,21 +79,6 @@ TBD
 TBD
 </a><br>
 <span id=abs13_Feb_2015 style="display:none;">
-<font size=-1>
-<b>Time:</b> 3:00 pm - 4:00 pm<br>
-<b>Location:</b> 6th Floor Large Conference Room [689]<br>
-<b>Abstract:</b> TBD
-<br>
-</font>
-</span>
-</td></tr><tr class="speakerItem" border=0 >
-<td align=left valign=top>20 Feb 2015</td>
-<td align=left valign=top>Neda Jahanshad (USC/ISI)</td>
-<td align=left valign=top>
-<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Feb_2015');">
-TBD
-</a><br>
-<span id=abs20_Feb_2015 style="display:none;">
 <font size=-1>
 <b>Time:</b> 3:00 pm - 4:00 pm<br>
 <b>Location:</b> 6th Floor Large Conference Room [689]<br>
@@ -163,6 +118,21 @@ In 2013, Dr. Farzindar won  Femmessor-Montréal’s contest,  Succeeding with a 
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
+<td align=left valign=top>06 Mar 2015</td>
+<td align=left valign=top>Neda Jahanshad (USC/ISI)</td>
+<td align=left valign=top>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs06_Mar_2015');">
+TBD
+</a><br>
+<span id=abs06_Mar_2015 style="display:none;">
+<font size=-1>
+<b>Time:</b> 3:00 pm - 4:00 pm<br>
+<b>Location:</b> 6th Floor Large Conference Room [689]<br>
+<b>Abstract:</b> TBD
+<br>
+</font>
+</span>
+</td></tr><tr class="speakerItem" border=0 >
 <td align=left valign=top>13 Mar 2015</td>
 <td align=left valign=top>Don Metzler (Google)</td>
 <td align=left valign=top>
@@ -170,6 +140,21 @@ In 2013, Dr. Farzindar won  Femmessor-Montréal’s contest,  Succeeding with a 
 TBD
 </a><br>
 <span id=abs13_Mar_2015 style="display:none;">
+<font size=-1>
+<b>Time:</b> 3:00 pm - 4:00 pm<br>
+<b>Location:</b> 6th Floor Large Conference Room [689]<br>
+<b>Abstract:</b> TBD
+<br>
+</font>
+</span>
+</td></tr><tr class="speakerItem" border=0 >
+<td align=left valign=top>20 Mar 2015</td>
+<td align=left valign=top>Kaveri Thakoor (USC/BRL)</td>
+<td align=left valign=top>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Mar_2015');">
+TBD
+</a><br>
+<span id=abs20_Mar_2015 style="display:none;">
 <font size=-1>
 <b>Time:</b> 3:00 pm - 4:00 pm<br>
 <b>Location:</b> 6th Floor Large Conference Room [689]<br>
@@ -188,6 +173,43 @@ TBD
     <b>Title</b>
   </td></tr>
 <tr class="speakerItem" border=0 >
+<td align=left valign=top>23 Jan 2015</td>
+<td align=left valign=top>Devin Griffiths (USC/Dornsife)</td>
+<td align=left valign=top>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs23_Jan_2015');">
+Understanding Analogies: Theory and Method
+</a><br>
+<span id=abs23_Jan_2015 style="display:none;">
+<font size=-1>
+<b>Time:</b> 3:00 pm - 4:00 pm<br>
+<b>Location:</b> 6th Floor Large Conference Room [689]<br>
+<b>Abstract:</b> Analogies allow us to make connections between different domains of knowledge and to apply what we already know to new situations. For this reason, they're important to developing new theories and new understandings of the social and natural world, and have often been seen as an important task for machine learning. In my talk, I'll explore how different theories of how analogy works shape the different approaches that research teams take when modeling analogical thinking. Specifically, I'll contrast what I term "formal" or "top-down" theories of analogy with a "serial" or "bottom-up" approach. Finally, I'll describe a syntactic and semantic method for searching out analogies within corpora. I'm convinced that understanding analogies better, and being able to find locate new analogies in historical documents, can help us understand where new ideas come from.
+<p>
+Bio: Devin Griffiths is an assistant professor in the English Department at USC, where he studies nineteenth-century British literature and scientific history. His current book project, titled "Between the Darwins," explores how analogies were used in the nineteenth century to create new theories of evolution and social progress. His areas of research include science and literature, poetics, book history, and the digital humanities.
+<p>
+Webcast Link: http://webcasterms1.isi.edu/mediasite/Viewer/?peid=56439af4a5cb41f49a2c5faef5683cd11d
+<br>
+</font>
+</span>
+</td></tr><tr class="speakerItem" border=0 >
+<td align=left valign=top>16 Jan 2015</td>
+<td align=left valign=top>Jonathan Gordon (USC/ISI)</td>
+<td align=left valign=top>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs16_Jan_2015');">
+Towards the Interpretation of Metaphoric Language
+</a><br>
+<span id=abs16_Jan_2015 style="display:none;">
+<font size=-1>
+<b>Time:</b> 3:00 pm - 4:00 pm<br>
+<b>Location:</b> 6th Floor Large Conference Room [689]<br>
+<b>Abstract:</b> Understanding what people mean when they use metaphoric language is a central problem in natural language understanding. Metaphors give a partial understanding of one kind of experience in terms of another, highlighting similarities and hiding differences. In this talk, I give an overview of the problems posed by metaphoric language. I then describe ongoing crosslinguistic work on the knowledge-based interpretation of metaphors by abductive inference. This work moves us toward a better understanding not only of what people are saying with metaphors but also how the metaphors used by groups of people (e.g., the supporters and opponents of gun control) expose their different world views.
+<p>
+Bio:
+Jonathan Gordon is a postdoctoral researcher at the USC Information Sciences Institute, where he is advised by Jerry Hobbs. His 2014 doctoral dissertation, 'Inferential Commonsense Knowledge from Text', was supervised by Lenhart Schubert at the University of Rochester. Jonathan's research interests include natural language understanding, semantics, and knowledge extraction.
+<br>
+</font>
+</span>
+</td></tr><tr class="speakerItem" border=0 >
 <td align=left valign=top>05 Dec 2014</td>
 <td align=left valign=top>Kingson Man (USC/BCI)</td>
 <td align=left valign=top>
@@ -10803,6 +10825,6 @@ that we will need to wait that long :-).
 </span>
 </td></tr></table><br><br>
 <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-This web page was last generated on Mon Jan 12 05:00:02 2015.<br>
+This web page was last generated on Tue Jan 27 05:00:01 2015.<br>
 </font></div>
 </body></html>
