@@ -39,24 +39,6 @@ function exp_coll(ind) {
     <b>Title</b>
   </td></tr>
 <tr class="speakerItem" border=0 >
-<td align=left valign=top>30 Jan 2015</td>
-<td align=left valign=top>Derrek Hibar (USC/INI)</td>
-<td align=left valign=top>
-<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jan_2015');">
-Neuroimaging Genetics in the ENIGMA Consortium
-</a><br>
-<span id=abs30_Jan_2015 style="display:none;">
-<font size=-1>
-<b>Time:</b> 3:00 pm - 4:00 pm<br>
-<b>Location:</b> 6th Floor Large Conference Room [689]<br>
-<b>Abstract:</b> The highly complex structure of the human brain is strongly shaped by genetic influences. Subcortical brain regions act jointly with cortical areas to coordinate movement, memory, motivation, reinforcement and learning. To investigate how common genetic variants affect the structure of these brain regions, we conducted genome-wide association studies (GWAS) of the volumes of seven subcortical regions and intracranial volume, derived from magnetic resonance images (MRIs) of 30,717 individuals. By identifying genetic influences on brain structure, we can begin to map the genetic architecture underlying variability in human brain development and function, a process that will help elucidate the dysfunctions that lie at the core of neuropsychiatric disorders.
-<p>
-Bio: Derrek Hibar is an assistant professor in the Department of Neurology in the Keck School of Medicine of USC where he studies common genetic influences on brain structure and susceptibility to psychiatric disorders. He is currently coordinating one of the largest studies of brain structure to date as part of the ENIGMA Consortium (http://enigma.ini.usc.edu).
-<p>
-<br>
-</font>
-</span>
-</td></tr><tr class="speakerItem" border=0 >
 <td align=left valign=top>13 Feb 2015</td>
 <td align=left valign=top>Dogan Can (USC/SAIL)</td>
 <td align=left valign=top>
@@ -64,6 +46,21 @@ Bio: Derrek Hibar is an assistant professor in the Department of Neurology in th
 TBD
 </a><br>
 <span id=abs13_Feb_2015 style="display:none;">
+<font size=-1>
+<b>Time:</b> 3:00 pm - 4:00 pm<br>
+<b>Location:</b> 6th Floor Large Conference Room [689]<br>
+<b>Abstract:</b> TBD
+<br>
+</font>
+</span>
+</td></tr><tr class="speakerItem" border=0 >
+<td align=left valign=top>20 Feb 2015</td>
+<td align=left valign=top>Jonathan May (USC/ISI)</td>
+<td align=left valign=top>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Feb_2015');">
+TBD
+</a><br>
+<span id=abs20_Feb_2015 style="display:none;">
 <font size=-1>
 <b>Time:</b> 3:00 pm - 4:00 pm<br>
 <b>Location:</b> 6th Floor Large Conference Room [689]<br>
@@ -158,6 +155,24 @@ TBD
     <b>Title</b>
   </td></tr>
 <tr class="speakerItem" border=0 >
+<td align=left valign=top>30 Jan 2015</td>
+<td align=left valign=top>Derrek Hibar (USC/INI)</td>
+<td align=left valign=top>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs30_Jan_2015');">
+Neuroimaging Genetics in the ENIGMA Consortium
+</a><br>
+<span id=abs30_Jan_2015 style="display:none;">
+<font size=-1>
+<b>Time:</b> 3:00 pm - 4:00 pm<br>
+<b>Location:</b> 6th Floor Large Conference Room [689]<br>
+<b>Abstract:</b> The highly complex structure of the human brain is strongly shaped by genetic influences. Subcortical brain regions act jointly with cortical areas to coordinate movement, memory, motivation, reinforcement and learning. To investigate how common genetic variants affect the structure of these brain regions, we conducted genome-wide association studies (GWAS) of the volumes of seven subcortical regions and intracranial volume, derived from magnetic resonance images (MRIs) of 30,717 individuals. By identifying genetic influences on brain structure, we can begin to map the genetic architecture underlying variability in human brain development and function, a process that will help elucidate the dysfunctions that lie at the core of neuropsychiatric disorders.
+<p>
+Bio: Derrek Hibar is an assistant professor in the Department of Neurology in the Keck School of Medicine of USC where he studies common genetic influences on brain structure and susceptibility to psychiatric disorders. He is currently coordinating one of the largest studies of brain structure to date as part of the ENIGMA Consortium (http://enigma.ini.usc.edu).
+<p>
+<br>
+</font>
+</span>
+</td></tr><tr class="speakerItem" border=0 >
 <td align=left valign=top>23 Jan 2015</td>
 <td align=left valign=top>Devin Griffiths (USC/Dornsife)</td>
 <td align=left valign=top>
@@ -10810,6 +10825,6 @@ that we will need to wait that long :-).
 </span>
 </td></tr></table><br><br>
 <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-This web page was last generated on Tue Jan 27 10:26:10 2015.<br>
+This web page was last generated on Tue Feb 03 12:01:35 2015.<br>
 </font></div>
 </body></html>
