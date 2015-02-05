@@ -54,6 +54,21 @@ TBD
 </font>
 </span>
 </td></tr><tr class="speakerItem" border=0 >
+<td align=left valign=top>20 Feb 2015</td>
+<td align=left valign=top>Jonathan May (USC/ISI)</td>
+<td align=left valign=top>
+<a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs20_Feb_2015');">
+TBD
+</a><br>
+<span id=abs20_Feb_2015 style="display:none;">
+<font size=-1>
+<b>Time:</b> 3:00 pm - 4:00 pm<br>
+<b>Location:</b> 6th Floor Large Conference Room [689]<br>
+<b>Abstract:</b> TBD
+<br>
+</font>
+</span>
+</td></tr><tr class="speakerItem" border=0 >
 <td align=left valign=top>27 Feb 2015</td>
 <td align=left valign=top>Atefeh Farzindar (NLP Technologies)</td>
 <td align=left valign=top>
@@ -10810,6 +10825,6 @@ that we will need to wait that long :-).
 </span>
 </td></tr></table><br><br>
 <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-This web page was last generated on Tue Feb 03 05:00:03 2015.<br>
+This web page was last generated on Thu Feb 05 05:00:03 2015.<br>
 </font></div>
 </body></html>

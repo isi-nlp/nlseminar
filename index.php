@@ -43,13 +43,15 @@ function exp_coll(ind) {
 <td align=left valign=top>Dogan Can (USC/SAIL)</td>
 <td align=left valign=top>
 <a onMouseOver="window.status='View abstract'; return true" onMouseOut="window.status=' '; return true" href="javascript:exp_coll('abs13_Feb_2015');">
-TBD
+Efficient Computation of Substring Posteriors from Lattices using Weighted Factor Automata
 </a><br>
 <span id=abs13_Feb_2015 style="display:none;">
 <font size=-1>
 <b>Time:</b> 3:00 pm - 4:00 pm<br>
 <b>Location:</b> 6th Floor Large Conference Room [689]<br>
-<b>Abstract:</b> TBD
+<b>Abstract:</b> Efficient computation of substring posteriors from lattices has applications in the estimation of document frequencies in spoken corpora and lattice-based minimum Bayes-risk decoding in statistical machine translation. In this talk, we present a new algorithm for exact substring posterior computation that leverages the following observations to speed up computation: i) the set of substrings for which the posteriors will be computed typically comprises all n-grams in the lattice up to a certain length, ii) posterior probability is equivalent to expected count for substrings that do not repeat on any path of the input lattice, iii) there are efficient algorithms for computing expected counts from lattices. We present experimental results comparing our algorithm with the best known algorithm in literature as well as a baseline algorithm based on finite state automata operations.
+<p>
+Bio: Dogan Can is a fifth year Ph.D. student at USC SAIL (Signal Analysis and Interpretation Lab). He works with Professor Shrikanth Narayanan on a range of topics including lattice indexing for spoken information retrieval, concurrent/online speech processing architectures and statistical modeling of psychotherapy sessions. His research interests include weighted finite state automata, automatic speech recognition, information retrieval, dialogue modeling and behavioral informatics.
 <br>
 </font>
 </span>
@@ -10825,6 +10827,6 @@ that we will need to wait that long :-).
 </span>
 </td></tr></table><br><br>
 <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-This web page was last generated on Tue Feb 03 12:01:35 2015.<br>
+This web page was last generated on Thu Feb 05 09:28:36 2015.<br>
 </font></div>
 </body></html>
