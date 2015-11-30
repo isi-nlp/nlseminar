@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Set working, storage, and seminar-data directories
-SEMINAR_HOME=/nfs/isd/damghani/nlseminar
+SEMINAR_HOME=/nfs/isd/xingshi/workspace/temp/nlseminar
 SEMINAR_LIVE=/nfs/web/htdocs/division3/natural-language/nl-seminar
 BACKUP=$SEMINAR_HOME/backup
 DATA=$SEMINAR_HOME/data
@@ -22,9 +22,9 @@ python $SEMINAR_HOME/seminar.py --data $DATA \
                                 --website $WEBSITE \
                                 --ical $CALENDAR \
                                 --mailer $MAILER \
-                                --sender_name "Nima Pourdamghani" \
-                                --sender_email "damghani@isi.edu" \
-                                --recipient "damghani@isi.edu" \
+                                --sender_name "Xing Shi" \
+                                --sender_email "xingshi@isi.edu" \
+                                --recipient "xingshi@isi.edu" \
                                 --public_url  "http://www.isi.edu/natural-language/nl-seminar/"
 
 # COPY TO LIVE LOCATION
