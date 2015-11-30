@@ -1,0 +1,9 @@
+Sudha Rao (Maryland / ISI Intern)
+Distant supervision for relation extraction using AMR
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+In this talk I will present the work I did with Prof Daniel Marcu and Prof Kevin Knight at ISI over the summer. In this work, we show how we can improve relation extraction for biomedical text using distant supervision from existing knowledge sources like BioPax. We label the data using heuristics from AMR which obviates the need for expensive manual annotation and allows us to make use of large amounts of data for training. I will also talk about some ongoing work on training a simpler model that exploits linguistic information stored in the path via the least common ancestor in an AMR.
+
+Bio. I am a PhD student from University of Maryland, College Park working under Prof. Hal Daume III and Prof. Philip Resnik. My recent project on "Dialogue focus tracking for zero pronoun resolution" appeared at NAACL 2015. At ISI, I am working with Prof. Daniel Marcu and Prof. Kevin Knight on application of Abstract Meaning Representation (AMR) to biology literature. Specifically we will be developing techniques for constructing text level AMRs from sentence level AMRs and then assess its impact on reading-against-a-model molecular biology tasks. In my spare time, I enjoy singing, dancing and watching movies.
+

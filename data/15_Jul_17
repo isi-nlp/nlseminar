@@ -1,0 +1,20 @@
+Wenduan Xu (Cambridge / ISI Intern)
+Shift-Reduce CCG Parsing with a Dependency Model
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+CCG is able to derive typed dependency structures, providing a useful
+approximation to the underlying predicate-argument relations of “who
+did what to whom” and dependency structures form an integral part of
+CCG. In this talk, I will first cover some essential background on
+CCG, its dependency structures and CCG parsing; I will then discuss a
+recent dependency model we developed for shift-reduce CCG parsing.  A
+challenge arises in this model from the fact that the oracle needs to
+keep track of exponentially many gold-standard derivations, which are
+all hidden. And we solve this by integrating a packed parse forest
+with the beam-search decoder and introduce a novel technique for
+querying an exponentially-sized oracle on-the-fly during beam-search
+decoding.
+
+Bio. Wenduan Xu is a graduate student in Cambridge advised by Stephen Clark,
+working on CCG parsing.

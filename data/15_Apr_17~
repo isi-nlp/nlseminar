@@ -1,0 +1,8 @@
+Longhua Qian (Soochow / ISI)
+Exploiting Bilingual Corpora for Relation Extraction
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Large-scale labeled corpora are always critical for Natural Language Processing tasks using statistical machine learning methods, but at the great expense of human labor of annotation. While we have various labeled corpora in different languages at hand, such as English and Chinese, either resource-rich or resource-poor, can these corpora be taken full advantage of for NLP tasks in different languages to help each other? The difficult lies in the fact that parallel corpora with aligned NLP entities are hard to acquire. In this talk, I shall first discuss how to generate pseudo-parallel corpora for relation extraction via machine translation and entity alignment techniques, and then I will proceed to apply this corpora to statistical ML-based relation extraction in terms of the degree of supervision: (1) supervised learning; (2) bilingual co-training; (3) bilingual active learning. This talk is chiefly based on the ACL-2014 paper “Bilingual Active Learning for Relation Classification via Pseudo Parallel Corpora”.
+
+Bio: Longhua Qian is a visiting researcher from the School of Computer Science and Technology, Soochow University, China. He joined the Natural Language Group and will work with Professor Kevin Knight and his team members for one year. He will participate in on-going projects on Abstract Meaning Representation (AMR) and Machine Reading etc. His mainly focuses on information extraction, relation extraction, and entity linking etc. He is also interested in extracting information from clinical medical records and building social networks from free text. 

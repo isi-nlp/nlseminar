@@ -1,0 +1,10 @@
+David Kauchak (Pomona )
+Learning To Simplify Text One Sentence at a Time
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Information can now be found on almost any topic ranging from news to do-it-yourself guides to health-related articles.  Unfortunately for readers, the complexity and readability of these texts can vary widely.  Even if the concepts of an article are accessible, the language and structure of the text can prohibit a person from understanding these concepts.  
+
+Text simplification techniques are aimed at reducing the reading and grammatical complexity of text while retaining the meaning and are one approach to increasing information accessibility.  Motivated by both corpus analyses and human experiments, I will introduce a number of recent text simplification techniques ranging from semi-automated approaches, that require a human in the loop, to automated approaches, including word-level, phrase-level and syntax-level models.
+
+Bio: David Kauchak is currently an assistant professor in the Computer Science Department at Pomona College.  Previously, he was at Middlebury College and has worked at Google, ISI, PARC and Adchemy.  He received his Ph.D. in Computer Science from University of California, San Diego.

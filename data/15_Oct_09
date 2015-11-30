@@ -1,0 +1,10 @@
+Liron Cohen (USC)
+Using Highways for Bounded-Suboptimal Multi-Agent Path Finding
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Multi-agent path-finding (MAPF) is important for applications such as the kind of warehousing done by Kiva systems. Solving the problem optimally is NP-hard, yet finding low-cost solutions is important. Bounded-suboptimal MAPF algorithms, such as enhanced conflict-based search (ECBS), often do not perform well in warehousing domains with many agents. We therefore develop bounded-suboptimal MAPF algorithms, called CBS+HWY and ECBS+HWY, that exploit the problem structure of a given MAPF instance by finding paths for the agents that include edges from user-provided highways, which encourages a global behavior of the agents that avoids collisions. On the theoretical side, we develop a simple approach that uses highways for MAPF and provides suboptimality guarantees. On the experimental side, we demonstrate that ECBS+HWY can decrease the runtimes and solution costs of ECBS in Kiva-like domains with many agents if the highways capture the problem structures well.
+
+Bio: Liron received a B.S. in Computer Engineering in 2007 and an M.S. in Computer Science in 2012, both from the Hebrew University of Jerusalem. Liron is interested in combinatorial problems related to constraint-based reasoning and symbolic planning. Specifically, he is looking at novel algorithmic techniques for exploiting structure in such combinatorial problems.
+
+

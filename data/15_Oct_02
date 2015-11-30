@@ -1,0 +1,9 @@
+David Kale (USC / ISI)
+Automated Deep Multi-Phenotyping with Noisy Labels
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+The increasing volume of electronic health records (EHR) data has spurred significant interest in the development of algorithmic phenotyping, used to identify patient cohorts in massive databases. Data-driven phenotyping, which formulates phenotyping as a statistical learning problem, offers superior scalability and generalization. Building upon previous work at Stanford, we propose a deep multi-phenotyping model: we train a single multi-task neural network to recognize multiple phenotypes, trained on noisy labels generated via an automatic process. We present preliminary results on classifying over 30 different phenotypes on a data set of over one million patients from the Stanford clinical system. This is joint work with Nigam Shah at Stanford University Center for Biomedical Informatics Research.
+
+BIO: Dave Kale is a fourth year PhD student in Computer Science and an Alfred E. Mann Innovation in Engineering Fellow at the University of Southern California. He is advised by Greg Ver Steeg. Before joining USC and ISI, he worked in the Whittier VPICU at Children's Hospital LA and co-founded the Meaningful Use of Complex Medical Data (MUCMD) Symposium. Dave holds a BS and MS from Stanford University.
+

@@ -1,0 +1,8 @@
+Guido Zarrella (MITRE)
+Neuromorphic Language Understanding
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Recurrent neural networks are effective tools for processing natural language. RNNs can be effectively trained to perform sequence processing tasks such as translation, classification, language modeling, and paraphrase detection. However despite major gains in fields related to these power hungry artificial neural networks, it remains difficult to construct functional models of cognition inspired by biological nervous systems. In this talk I'll describe how RNNs can be trained to excel at language understanding tasks and then adapted to run on ultra-low power neuromorphic hardware which simulates the spiking of individual neurons. The result is an interactive embedded system that uses recurrent neural networks to process language while consuming an estimated .000048 watts (48 microwatts).
+
+Bio: Guido Zarrella is a Principal Artificial Intelligence Engineer at the MITRE Corporation in Denver, Colorado. He leads a R&D effort pursuing advances in deep learning for language understanding. He is a former President of the Association for Computational Linguistics, having served in this role on December 5th, 2011.

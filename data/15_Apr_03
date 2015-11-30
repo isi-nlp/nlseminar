@@ -1,0 +1,9 @@
+Don Metzler (Google)
+Keeping Topic Models Fresh: Technical and Practical Challenges
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Topic models are statistical models that can be used to infer the most likely topics that some piece of text is about. Such models are useful for applications that rely on semantic representations of text, such as query classification, document understanding, and measuring semantic similarity. These models are widely used within Google. In this talk, I will first describe the details of one of these models -- one that learns over a million topics covering just about every language. I will then describe a number of technical and practical challenges involved in keeping such a model fresh and up-to-date within real-world applications.
+
+Bio: Donald Metzler is a Staff Software Engineer at Google Inc. Prior to that, he was a Research Assistant Professor at the University of Southern California (USC) and a Senior Research Scientist at Yahoo!. He has served as the Program Chair of the WSDM, ICTIR, and OAIR conferences and sat on the editorial boards of the major journals. He has published over 40 research papers, has been awarded 4 patents, and co-authored the textbook Search Engines: Information Retrieval in Practice.
+

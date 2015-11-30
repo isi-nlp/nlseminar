@@ -1,0 +1,9 @@
+Dehua Cheng (USC/Melady)
+Exploring LDA: Parallel Inference and Model Selection
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Latent Dirichlet allocation (LDA) and its Bayesian nonparametric generalization hierarchical Dirichlet processes (HDP) have been proven successful in modeling large, complex, real-world domains. However, inference on LDA/HDP is challenging and it has received notable attention from the researchers. In this talk, we present two algorithmic advances for LDA/HDP inference by examining their mathematical properties. We will first present an effective parallel Gibbs sampling algorithm for LDA/HDP by exploring the equivalency between the Dirichlet-multinomial hierarchy and the Gamma-Poisson hierarchy. Secondly, we will show how to provably select the number of topics for LDA by studying the spectral space of its second order moments (bi-gram statistics). 
+
+Bio: Dehua Cheng is a third year Ph.D. student in the CS department at USC, advised by Professor Yan Liu. Prior to that, he received his B.S. degree in Mathematics and Physics from Tsinghua University, China. His research interests include randomized numerical algorithm in machine learning and parallel inference for probabilistic graphical model. 
+

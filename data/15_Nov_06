@@ -1,0 +1,6 @@
+Fabrizio Morbini (USC / ICT)
+Text generation from abductive interpretations
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Abduction is an inference method often used to formalize what the process of interpretation is. In this talk i'll describe a system that generates a textual description of an abductive proof and its evaluation when applied to the interpretations generated for a set of 100 movies from the Heider-Simmel Interactive Theater project. The goal of the system is to generate text that explains the system's interpretation fluently without having to read or understand a proof graph and first order logic.

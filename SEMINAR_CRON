@@ -1,1 +1,1 @@
-0 5 * * * /nfs/guest2/damghani/nlseminar/seminar.sh
+0 11 * * * /nfs/guest2/damghani/nlseminar/seminar.sh

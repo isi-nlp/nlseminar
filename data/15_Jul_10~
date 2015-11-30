@@ -1,0 +1,6 @@
+Deniz Yuret (Koç University / ISI Visitor)
+Parsing with word vectors
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+We investigate the use of distributed word representations instead of word forms and parts of speech in syntactic parsing.  Distributed representations are dense, low-dimensional, and real valued vector representations (embeddings) for words.  Instead of ad-hoc feature conjunctions, we use kernels and neural networks for non-linearity, greatly simplifying feature engineering.  We show that dense representations offer both computational and learning advantages compared to sparse one-hot vector representations.  We introduce context vectors, distributed representations for word contexts, and show that they can replace or complement parts of speech in parsing models.  We show that distributed representations give accuracies comparable to the state-of-the-art word form and part-of-speech based feature sets.

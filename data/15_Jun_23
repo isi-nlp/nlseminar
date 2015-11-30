@@ -1,0 +1,7 @@
+Sravana Reddy (Dartmouth / ISI Visitor)
+Automated tools for analyzing sociophonetic variation
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+The phenomenal amount of text on social media has recently spawned endeavors on computational methods to study language variation and change. However, we also have access to an unprecedented quantity of speech -- from Youtube video blogs to podcasts to recordings of radio and television shows, spanning several different accents and dialects. This data is a boon to sociophoneticians, who have traditionally relied on small-scale interviews to study systematic variation in speech. At the same time, it presents a challenge: the usual manual speech analysis methods do not scale.
+I will present ongoing work on an application that allows sociophoneticians to identify dialect features from potentially noisy speech data without the need for manual transcription.

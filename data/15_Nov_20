@@ -1,0 +1,10 @@
+Jia Xu (Chinese Academy of Sciences 
+Better Bootstraps, Better Translation.
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Bagging [Breiman, 96] and its variants is one of the most popular methods in aggregating classifiers and regressors. Its original analysis assumes that the bootstraps are built from an unlimited, independent source of samples. In the real world this analysis fails because there is a limited number of training samples.
+ 
+We analyze the effect of intersections between bootstraps to train different base predictors, which shows that the real-world bagging behaves very differently than its ideal analog [Breiman, 96]. Most importantly, we provide an alternative subsampling method called design-bagging based on a new construction of combinatorial designs. We prove that this is universally better than bagging.  Our analytical results are backed up by experiments on general classification and regression settings, and significantly improved all machine translation systems we used in the NIST-15 C-E competition.
+  
+Bio:  Jia Xu is an associate professor at ICT/CAS, after being an assistant professor in Tsinghua University and a senior researcher at DFKI lecturing at Saarland University in Germany. She worked at IBM Watson and MSR Redmond during her Ph.D. advised by Hermann Ney at RWTH-Aachen University. Her current research interests are in Machine Learning with a focus towards highly competitive machine translation systems, where she led and participated in teams winning first place in WMT-11, TC-Star -05-07 and NIST-08. In NIST-15 she led one more team that won 4th place, which is the 1st among academic institutions.

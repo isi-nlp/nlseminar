@@ -1,0 +1,12 @@
+Vivi Nastase (FBK / ISI Visitor)
+Metonymy resolution with multi-faceted knowledge from Wikipedia
+3:00 pm - 4:00 pm
+10th Floor Classroom [1016]
+
+Metonymic words stand-in for concepts closely related to the words' literal interpretation. Resolving metonymies would then require identifying potentially metonymic words, finding closely related concepts, and determining which one fits the local
+(grammatically-related) and global context best. Each of these tasks can be resolved best by using different types of resources: a network of concepts for finding related concepts; a grammatically analyzed corpus (and, ideally, an ontology) for computing selectional preferences for the local context; a large corpus for computing co-occurrence probabilities, to factor in the global context. Within NLP we do have all these types of resources, but because of their different requirements -- e.g. relational models of meaning rely on differentiating word senses, while distributional representations do not (cannot) make such distinctions -- they are separate from one another. By using Wikipedia and exploiting its various structured/semi-structured sources of information, we can build a resource that combines the three types of meaning representations mentioned above. I will discuss the task of metonymy resolution and show how the combination of representations extracted from Wikipedia makes possible an unsupervised approach to this task.
+
+Bio: Vivi Nastase is a researcher at the Fondazione Bruno Kessler in Trento, working mainly on lexical
+semantics, semantic relations, knowledge acquisition and language evolution. She holds a Ph.D.
+from the University of Ottawa, Canada, and has previously worked at the Heidelberg Institute of Theoretical Studies (HITS) and the University of Heidelberg.
+

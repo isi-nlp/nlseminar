@@ -1,0 +1,8 @@
+Barret Zoph (USC/ISI)
+How Much Information Does a Human Translator Add to the Original?
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+We ask how much information a human translator adds to an original text, and we
+provide a bound. We address this question in the context of bilingual text com-
+pression: given a source text, how many bits of additional information are required to specify the target text produced by a human translator? We develop new compression algorithms and establish a benchmark task.

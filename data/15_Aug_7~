@@ -1,0 +1,23 @@
+Marius Pasca (Google)
+Understanding the World's Compositional Concepts
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Compositional topics ("Swiss passport", "German grammar") of
+interest to Web users may be available as entries within structured
+knowledge resources. But such topics are not necessarily connected to,
+let alone represented in relation to, entries of the constituent
+topics ("Switzerland" and "Passport", or "German language" and
+"Grammar") from which their approximate meaning could be aggregated.
+Web documents - more precisely, encyclopedic articles - and Web search
+queries are shown to be useful in complementary tasks relevant to
+understanding compositional topics. The tasks are the decomposition of
+potentially compositional topics into zero, one or more constituent
+topics; and the interpretation of the role ("issued by", "of") played
+by constituents ("Swiss", "German") within ambiguous compositional
+phrases that might refer to compositional topics.
+
+Bio: Marius Pasca is a research scientist at Google in Mountain View,
+California. Current research interests include factual information
+extraction from unstructured text within documents and queries, and
+its applications to Web search.
