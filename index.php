@@ -50,6 +50,8 @@ What Can We Learn From An Agent that Plays Word-Guessing Games?
 <b>Time:</b> 3:00 pm - 4:00 pm<br>
 <b>Location:</b> 6th Floor Large Conference Room [689]<br>
 <b>Abstract:</b> In this talk I will discuss an agent that can play a simple word-guessing game with a user.   The fast-paced, multi-modal, and interactive nature of the dialogue that takes place in word-guessing games are challenging for today’s dialogue systems to emulate.   The agent serves as a research testbed to explore issues of fast-paced incremental interaction and user satisfaction in such a setting.  I will trace how the agent's design was motivated by a human-human corpus as well as discuss two empirical studies involving the agent.  The first study was designed to learn an algorithm to automatically select effective clues (clues likely to elicit a correct guess from a human).  The second study was an evaluation of several synthetic voices and 1 human voice which showed how participant's subjective perceptions and objective task performances fluctuated based on the voice used and the duration of the participant's exposure to the voice.
+<p>
+Bio. Eli Pincus is a 3rd year USC PhD student and a graduate research assistant in the Natural Dialogue Group at USC Institute for Creative Technologies.  He is advised by Professor David Traum. Eli's main research is in human-computer dialogue.  Since joining USC he has been working on improving virtual human dialogue.  He won the best computer science department TA award in spring 2015.   He was a research intern in the NLP and AI group at Nuance Communications in summer 2015.
 <br>
 </font>
 </span>
@@ -11335,6 +11337,6 @@ that we will need to wait that long :-).
 </span>
 </td></tr></table><br><br>
 <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">
-This web page was last generated on Mon Nov 30 11:05:41 2015.<br>
+This web page was last generated on Mon Nov 30 12:46:19 2015.<br>
 </font></div>
 </body></html>
