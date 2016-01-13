@@ -1,0 +1,21 @@
+Reid Swanson (USC/ICT)
+Leveraging the Social Web to Enable Open-Domain Interactive Storytelling
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Storytelling is an integral part of human interaction and critical to nearly all forms of entertainment. Since the introduction of TALE-SPIN over thirty years ago, automating the process of storytelling has been an active area of research. However, despite the incredible advances in other areas of computer science, such as 3D graphics and computational physics, that have enabled dazzling immersive interactive environments, there has been little progress in delivering automated *stories* that have the richness and complexity we expect in this genre of discourse.
+
+In this talk I will primarily discuss work done during my thesis that leverages the vast amounts of knowledge hidden implicitly in the social web in order to enable a text-based open-domain interactive storytelling system. In this system the human and computer take turns writing sentences of an emerging fictional story on any topic the author chooses. The system uses an architecture inspired by case-based reasoning with a knowledge base of over a million personal stories about the daily lives and experiences of ordinary people. At each turn the system selects a sentence from the corpus that tries to maximize the semantic and discourse coherence given the text of the story so far.
+
+I will also describe how crowd-sourcing communities were used to collect thousands of collaborative stories with the system and tens of thousands of ratings from hundreds of participants on several subjective evaluation criteria. The best models show significant improvements over the baseline and are judged to be indistinguishable from entirely human written weblog stories from a held out part of the collection. 
+
+I will conclude with some more recent and ongoing research that examines additional methods of evaluation and new models of narrative generation based on Recurrent Neural Networks.
+
+Bio. Reid Swanson received his PhD in Computer Science from the University of Southern California in 2010 where he focused on a large-scale text-based interactive storytelling system. His primary research interest is in large-scale open-domain interpretation and generation of interactive narratives.
+
+After graduating he spent a year at the Walt Disney Imagineering Research & Development lab in Glendale, CA. At Disney he worked with an interdisciplinary team of industry engineers, academics, artists and performers to develop technologies for bringing persistent interactive storytelling to select groups of guests at their theme parks and resorts. 
+
+From 2011 until 2015, Reid worked as a postdoc at UC Santa Cruz where he participated in a range of different projects. As part of the SIREN project, with Arnav Jhala, he investigated games for teaching conflict resolution management. On the SSIM project, with Michael Mateas, he helped research and develop virtual training environments targeting the military and law enforcement agencies to help prevent conflict escalation in unknown social environments. With Marilyn Walker, he also investigated automated methods for analyzing and mining prototypical arguments on internet debate forums about controversial topics such as gun control, gay marriage and evolution.
+
+In August of 2015 he rejoined the Institute of Technologies as a Research Scientist where he is researching the role of narrative structure in the persuasiveness of an intended message embedded in the story across different cultures.
+

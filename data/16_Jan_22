@@ -1,0 +1,9 @@
+Jiwei Li (Stanford)
+Extracting User Information from Online Social Media 
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+The overwhelming popularity of online social media creates an unprecedented opportunity to  display aspects of oneself.  Inferring information about these users has the potential to benefit many 
+downstream applications such as recommendation engines and targeted advertising. In this talk I will show how to extract important personal information such as major life events  and personal attributes (e.g., gender, education, job)  from social evidence  such as the text produced by users and their friends and from properties of their social network. I will describe algorithms making use of a variety of frameworks, including distant supervision, and a deep learning architecture that learns user representations by integrating many heterogeneous social signals. 
+
+Bio. Jiwei Li is a PH.D. student in the computer science department at Stanford University, working with Prof. Dan Jurafsky. His research interests include discourse, language generation, and social networks, with a focus on deep learning methods. Jiwei receives his B.S. from Peking University in 2012.  He was rewarded the Facebook Fellowship in 2015.
