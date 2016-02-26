@@ -1,0 +1,8 @@
+Linhong Zhu (ISI)
+Deciphering Dark Web through k-partite Graph Summarization
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Facts and their relations extracted from web are commonly modeled as graphs with different types of vertices. In this work, we focus on the problem of revealing latent entities from a $k$-partite graph, by co-clustering $k$ types of different vertices. We propose a CoSum approach, which creates a summary graph, where each super node (a cluster of original vertices) represents a hidden entity and the weighted edges encode important relations among extracted entities. The resulted summary graph also allows for investigation and interpretation of hidden entities. Evaluation verifies that CoSum outperforms several baselines in terms of entity coherence, query supporting and recovering hidden victims in the applied human trafficking domain.
+
+Bio: Linhong Zhu is currently a computer scientist at Information Sciences Institute, University of Southern California, where she also received training as a Postdoctoral Research Associate. Before that, she worked as a Scientist-I in data analytics department at Institute for Infocomm Research, Singapore. She obtained her Ph.D. degree in computer engineering from Nanyang Technological University, Singapore in 2011. Her research interests are large-scale graph analytics with applications to social network analysis, social media analysis, and predictive modeling. She has been awarded with University of Southern California Postdoctoral travel and training award in 2014 and her paper has been selected as two of the best papers in SIGMOD 2010.

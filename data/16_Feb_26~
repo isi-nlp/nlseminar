@@ -1,0 +1,8 @@
+Angel Chang (Stanford)
+Interactive scene design using natural language
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: Designing 3D scenes is currently a creative task that requires significant expertise and effort in using complex 3D design interfaces.  This design process starts in contrast to the easiness with which people can use language to describe real and imaginary environments.  We present an interactive text to 3D scene generation system that allows a user to design 3D scenes using natural language.  A user provides input text from which we extract explicit constraints on the objects that should appear in the scene.  Given these explicit constraints, the system then uses a spatial knowledge base learned from an existing database of 3D scenes and 3D object models to infer an arrangement of the objects forming a natural scene matching the input description.  Using textual commands the user can then iteratively refine the created scene by adding, removing, replacing, and manipulating objects.
+
+Bio: Angel Chang recently received her PhD after working in the Stanford NLP group where she was advised by Chris Manning.  Her research focuses on the intersection of natural language understanding, computer graphics, and AI.  She is currently a visiting expert at Tableau Research.  More details at http://stanford.edu/~angelx/
