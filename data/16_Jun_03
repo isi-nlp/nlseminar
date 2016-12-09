@@ -1,0 +1,10 @@
+Ke Tran (University of Amsterdam)
+Title: Memorization and Exploration in Recurrent Neural Language Models
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: In this talk, I will focus on two important aspects in language modeling: memorization and exploration.
+First, I will present Recurrent Memory Network, a recurrent language model augmented with an external memory block. I will show that by explicitly addressing the memory, RMN not only amplifies the power of recurrent neural network but also facilitate our understanding of its internal functioning and allows us to discover underlying patterns in data. Furthermore, our experiments demonstrate that using external memory allows RMN capturing sentence coherence better than previous models on sentence completion task.
+In context of language generation (e.g. using conditional recurrent language models), memorization might hurt the performance of the whole system especially when recurrent models start hallucinating. In the second part, I will present preliminary findings in training neural machine translation (NMT) to avoid this pitfall. Particularly, we allow NMT to explore during training using REINFORCE/deep Q-network/minimum risk training.
+
+Bio: Ke is a third year PhD candidate at University of Amsterdam, advised by Christof Monz and Arianna Bisazza. Before that, he received Msc degree from University of Groningen and Charles University in Prague. He is interested in neural machine translation.

@@ -1,0 +1,10 @@
+Stephen Rawls / Huaigu Cao (ISI)
+Title: LSTM's for OCR
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: We present ongoing research into OCR for both machine print and handwriting recognition. We utilize a neural network along with LSTM's to perform OCR directly from pixel intensity. We are exploring a few novel improvements, including using a CNN for feature extraction prior to the LSTM, and combining reinforcement learning into our training to directly optimize word error rate in our test-time decoding procedure, which utilizes a (non-differentiable) language-model based decoding of the LSTM output. Finally, we present the design of the OCR system we used to win a pilot project with the US Census for recognizing handwritten first and last names.
+
+Bio: Stephen Rawls is a research programmer and a PhD student at USC/ISI advised by Dr. Prem Natarajan. He works in the Computer Vision group at ISI on face recognition and OCR, among other projects.
+
+Huaigu Cao is a computer scientist at USC ISI. His interest of research includes image processing and pattern recognition. 

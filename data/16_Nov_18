@@ -1,0 +1,25 @@
+Ramesh R Manuvinakurike (USC/ICT)
+Incremental spoken dialogue system for reference resolution in images
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+In this talk, I will be speaking about our ongoing effort in the
+development of Eve, state-of-the-art incremental reference resolution
+in images based spoken dialogue agent. Incrementality is central to
+developing a naturally conversing spoken dialogue systems.
+Incrementality makes the conversations more natural and efficient
+compared to non-incremental alternatives. The performance of the Eve
+was found to be comparable to human performance and she conveniently
+outperforms alternative non-incremental architectures. However,
+building such a system is not trivial. It needs high-performance
+architectures and dialogue components (ASR, dialogue policies,
+language understanding etc.). I will also speak about future plans for
+enhancing Eve's capability. I also take a slight deviation and explore
+a different word level natural language understanding model for
+reference resolution in images in a dialogue setting.
+
+Bio: Ramesh Manuvinakurike is a Ph.D. student at USC Institute for
+Creative Technologies working with Prof. David DeVault and Prof.
+Kallirroi Georgila. He is interested in developing conversational
+systems and has developed various such systems. His work with his
+colleagues on agent Eve won 'Best paper' award at Sigdial 2015.

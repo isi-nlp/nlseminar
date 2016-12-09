@@ -1,0 +1,8 @@
+Xing Shi (USC)
+EMNLP practice talk: Understanding Neural Machine Translation: length control and syntactic structure
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Neural Machine Translation is powerful but we know little about the black box. We conduct the following two investigations to gain a better understanding: First, we investigate how neural, encoder-decoder translation systems output target strings of appropriate lengths, finding that a collection of hidden units learns to explicitly implement this functionality. Second, we investigate whether a neural, encoderdecoder translation system learns syntactic information on the source side as a by-product of training. We propose two methods to detect whether the encoder has learned local and global source syntax. A fine-grained analysis of the syntactic structure learned by the encoder reveals which kinds of syntax are learned and which are missing. 
+
+Bio: Xing Shi is a PhD student at ISI working with Prof. Kevin Knight. 

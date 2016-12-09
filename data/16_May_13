@@ -1,0 +1,10 @@
+Angeliki Lazaridou (University of Trento)
+Towards Multi-Agent Communication-Based Language Learning
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: One of the most ambitious goals of AI is to develop intelligent conversational agents able to communicate with humans and assist them in their tasks. Thus, communication and interaction should be at the core of the learning process of these agents; failure to integrate communication as their main building block raises concerns regarding their usability.
+
+In this talk, I will propose an interactive multimodal framework for language learning. Instead of being passively exposed to large amounts of natural text, our learners (implemented as feed-forward neural networks) engage in cooperative referential games starting from a tabula rasa setup, and thus develop their own language from the need to communicate in order to succeed at the game. Preliminary experiments provide promising results, but also suggest that it is important to ensure that agents trained in this way do not develop an ad-hoc communication code only effective for the game they are playing.
+
+Bio: Angeliki is a final year PhD student at the Center for Mind/Brain Sciences of the University of Trento. She received her MSc from the Saarland University, where she worked with Ivan Titov and Caroline Sporleder on Bayesian models for sentiment and discourse. She is currently working at the intersection between language and vision under the supervision of Marco Baroni.

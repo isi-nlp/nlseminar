@@ -1,0 +1,10 @@
+Marjan Ghazvininejad and Yonatan Bisk (USC/ISI)
+EMNLP practice talk: 1) Generating Topical Poetry & 2) Unsupervised Neural Hidden Markov Models
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+1) In this talk I describe Hafez, a program that generates any number of distinct poems on a user-supplied topic.  Poems obey rhythmic and rhyme constraints.  I describe the poetry-generation algorithm, give experimental data concerning its parameters, and show its generality with respect to language and poetic form.
+2) In this work, we present the first results for neuralizing an Unsupervised Hidden Markov Model. We evaluate our approach on tag induction. Our approach outperforms existing generative models and is competitive with the state-of-the-art though with a simpler model easily extended to include additional context.
+
+Marjan Ghazvininejad is a PhD student at ISI working with Prof. Kevin Knight.
+Yonatan Bisk is a Postdoc at ISI working with Prof. Daniel Marcu.

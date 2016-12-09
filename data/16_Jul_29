@@ -1,0 +1,9 @@
+Sebastian Mielke (ISI Intern)
+Let's not be clever: simple pre- and post-processing tricks in machine translation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: Today's machine translation system are highly complex and extending them often means leaving highly sophisticated solutions and established algorithms behind. Therefore it is attractive to try to extend the process outside of the translation system: in pre- and post-processing steps.
+I will show a pre-processing step for helping to translate tweets and a post-processing step that helps "guess" the translations of unknown and thus untranslated words in arbitrary sentences using dictionaries and other resources.
+
+Bio: Sebastian is currently pursuing a CS masters degree in Dresden, Germany with Prof. Heiko Vogler, taking a break from studying to work on low-resource machine translation with Prof. Kevin Knight and Prof. Daniel Marcu as an ISI intern in 2016.

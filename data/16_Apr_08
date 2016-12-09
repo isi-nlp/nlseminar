@@ -1,0 +1,8 @@
+Hao Wu (USC/ISI)
+Learning Distributed Representations from Network Data and Human Navigation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: The increasing growth of network data such as linked documents on the Web and social networks, has imposed great challenges on automatic data analysis. We study the problem of learning representations of network data, which is of critical for applications including data classification, ranking and link prediction. We present neural network embedding algorithms to learn distributed representations of network data that capture the deep context of each data point, and human cognition in navigation data. To improve the scalability of our algorithms, we use efficient optimization and sampling methods. 
+
+Bio: Hao Wu is a PhD student at USC/ISI, advised by Kristina Lerman. 

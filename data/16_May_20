@@ -1,0 +1,8 @@
+Yonatan Bisk (ISI)
+Title: Natural Language Communication with Computers
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Abstract: We propose a framework for devising testable algorithms for bridging the communication gap between humans and robots.  We begin with a setting in which humans give instructions to robots using unrestricted language commands, with instruction sequences aimed at building complex goal configurations in a blocks world.  I will present details of our data-collection effort, and preliminary results on action understanding.  Time permitting, I will present new baseline results for flipping the semantic parsing paradigm to address the problem of language generation, where a human performs commands produced by a machine to demonstrate basic two-way communication.
+
+Bio: Yonatan Bisk received his PhD from UIUC in 2015 under Professor Julia Hockenmaier and is now a Postdoc with Daniel Marcu at ISI.

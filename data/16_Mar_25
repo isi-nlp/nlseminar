@@ -1,0 +1,9 @@
+Jonathan Kummerfeld (Berkeley)
+Capturing More Linguistic Structure with Graph-Structured Parsing
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: The correct interpretation of any sentence is obscured by a vast array of alternatives. Previous work on disambiguating meaning has focused on representations of syntax using tree structures. Simplifying syntax in this way often means leaving out long-distance relations between words, providing less information to downstream tasks such as dialog and question answering. We propose a new algorithm that is able to efficiently search over graph structures, fully capturing argument structures as a directed acyclic graph.  Our dynamic program uniquely decomposes structures, and is sound and complete with respect to the class of one-endpoint crossing graphs.
+
+
+Bio: Jonathan is a Ph.D. candidate at UC Berkeley working on natural language processing with Dan Klein. His research focuses on new algorithms for interpreting text and analyzing system behavior. In particular, he has built search-based error analysis tools for syntactic parsing and coreference resolution, and a graph-based syntactic parser.

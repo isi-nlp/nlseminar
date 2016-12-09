@@ -1,9 +1,0 @@
-Thung Long (Stanford)
-Recent Advances in Neural Machine Translation
-3:00 pm - 4:00 pm
-6th Floor Large Conference Room [689]
-
-Neural Machine Translation (NMT) was developed just last year, but has already been showing promising results in various translation tasks. At its core, NMT is a single big recurrent neural network that is trained end-to-end with several advantages such as simplicity and generalization. In this talk, I will give an overview about NMT and highlight some of my works in this space which are (a) how to address the rare word problem and (b) how to improve the attention (alignment) mechanism in NMT.
-
-Bio.:Thang Luong is currently a 5th-year PhD student in the Stanford NLP group under Prof. Chris Manning. In the past, he has published papers on various different NLP-related areas such as digital library, machine translation, speech recognition, parsing, psycholinguistics, and word embedding learning. Recently, his main interest shifts towards the area of deep learning using sequence to sequence models to tackle various NLP problems, especially neural machine translation. He has built state-of-the-art (academically) neural machine translation systems both at Google and at Stanford.
-

@@ -1,0 +1,11 @@
+Andrea Gagliano (UC Berkeley)
+Poetry at the Metaphorical Intersection
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: This talk will discuss a technique to create figurative relationships using Mikolov et al.’s word vectors. Drawing on existing work on figurative language, we start with a pair of words and use the intersection of word vector similarity sets to blend the distinct semantic spaces of the two words. We conduct preliminary quantitative and qualitative observations to compare the use of this novel intersection method with the standard word vector addition method for the purpose of supporting the generation of figurative language. To showcase this technique, we use it to write computer generated sonnets.  
+
+Bio
+Andrea Gagliano is a masters student at UC Berkeley's School of Information and the Berkeley Center for New Media. Her research explores the use of computation for creativity - both tools to support creative practices and generation of creative works. Recently, she has been focusing in the field of natural language processing by working on poetry and metaphor generation. 
+
+Previously, Andrea received her BS in Mathematics and BA in Business Administration from the University of Washington in 2013. During her studies, she spent time with the Creative Writing department studying poetry.

@@ -1,0 +1,8 @@
+Xiang Li (ISI Intern)
+Title: Commonsense Knowledge Base Completion
+3:00 pm - 4:00 pm
+6th Floor Large Conference Room [689]
+
+Abstract: We enrich a curated resource of commonsense knowledge by formulating the problem as one of knowledge base completion (KBC). Most work in KBC focuses on knowledge bases like Freebase that relate entities drawn from a fixed set. However, the tuples in ConceptNet (Speer and Havasi, 2012) define relations between an unbounded set of phrases. We develop neural network models for scoring tuples on arbitrary phrases and evaluate them by their ability to distinguish true held-out tuples from false ones. We find strong performance from a bilinear model using a simple additive architecture to model phrases. We manually evaluate our trained model’s ability to assign quality scores to novel tuples, finding that it can propose tuples at the same quality level as medium- confidence tuples from ConceptNet. 
+
+Bio: Xiang Li is a 2016 summer intern under the supervision of Prof Kevin Knight and Prof Daniel Marcu. She is also going to be a PhD student at the University of Massachusetts Amherst in Andrew McCallum’s research group in this coming Fall. She got her B.S at the East China Normal University, Shanghai, China and got her M.S at the University of Chicago. Her research interest mainly focused on natural language processing and machine learning. This work is done when she was in Chicago working with Prof Kevin Gimpel at TTIC(Toyota Technological Institute at Chicago)

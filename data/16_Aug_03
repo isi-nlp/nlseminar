@@ -1,0 +1,12 @@
+Angeliki Lazaridou (University of Trento)
+Can machines understand and generate stories?
+11:00 am - 11:59 am
+11th Floor Large Conference Room [1135]
+
+Abstract: Computational creativity is an emerging field of AI, with linguistic creativity being an interesting test-bed for developing and evaluating machines with reasoning capabilities. A concrete example is story generation and understanding, a task which unlike the vast majority of traditional NLP that treats sentences in isolation,  requires deep understanding of the general context and discourse of stories.
+
+In this talk, I will present some preliminary steps towards this goal and show how sequence-to-sequence models can be applied to this task. Overall, our results on story understanding are on par with current state-of-the-art  (that nevertheless have no generative capabilities), while at the same time producing sometimes rather amusing story endings.
+
+Bio: Angeliki is a final year PhD student at the Center for Mind/Brain Sciences of the University of Trento. She received her MSc from the Saarland University, where she worked with Ivan Titov and Caroline Sporleder on Bayesian models for sentiment and discourse. She is currently working at the intersection between language and vision under the supervision of Marco Baroni.
+
+Webcast: http://webcastermshd.isi.edu/Mediasite/Play/6f51b67c1a304a0c83297dd2f9b453921d

@@ -1,0 +1,8 @@
+Yu Su (UCSB)
+Learning from Zero: Recent Advances in Bootstrapping Semantic Parsers using Crowdsourcing
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Semantic parsing, which parses natural language into formal languages, has been applied to a wide range of structured data like relation databases, knowledge bases, and web tables. To learn a semantic parser for a new domain, the first challenge is always how to collect training data. While data collection using crowdsourcing has become a common practice in NLP, it's a particularly challenging and interesting problem when it comes to semantic parsing, and is still in its early stages. Given a domain and a formal language, how can we generate meaningful logical forms in a configurable way? How to design the annotation task so that crowdsourcing workers, who do not understand formal languages, can handle with ease? How can we exploit the compositional nature of formal languages to optimize the crowdsourcing process? In this talk I will introduce some recent advances in this direction, and present some preliminary answers to the above questions. The covered works mainly concern knowledge bases, but we will also cover some ongoing work concerning web APIs.
+
+Yu Su is a fifth year PhD candidate in the Computer Science Department at UCSB, advised by Professor Xifeng Yan. Before that, He received a bachelor degree from Tsinghua University in 2012, with a major in Computer Science. He is interested in the interplay between language and formal meaning representations, including problems like semantic parsing, continuous knowledge representation, and natural language generation. He also enjoys applying deep learning on these problems.

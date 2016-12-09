@@ -3,6 +3,7 @@
 # Set working, storage, and seminar-data directories
 SEMINAR_HOME=/nfs/isd/xingshi/workspace/temp/nlseminar
 SEMINAR_LIVE=/nfs/web/isi.edu/htdocs/division3/natural-language/nl-seminar/
+#SEMINAR_LIVE=/nfs/isd/xingshi/workspace/temp/nlseminar/htdocs/
 BACKUP=$SEMINAR_HOME/backup
 DATA=$SEMINAR_HOME/data
 

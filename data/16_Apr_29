@@ -1,0 +1,8 @@
+Zhengping Che (USC)
+Deep learning solutions to computational phenotyping in health care
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: Exponential growth in electronic health care data has resulted in new opportunities and urgent needs to discover meaningful data-driven representations and patterns of diseases. Recent rise of this research field with more available data and new applications also has introduced several challenges. In this talk, we will present our deep learning solutions to address some of the challenges. First, health care data is inherently heterogeneous, with a variety of missing values and from multiple data sources. We propose variations of Gated Recurrent Unit (GRU) to explore and utilize the informative missingness in health care data, and hierarchical multimodal deep models to utilize the relations between different data sources. Second, model interpretability is not only important but necessary for care providers and clinical experts. We introduce a simple yet effective knowledge distillation approach called interpretable mimic learning to learn interpretable gradient boosting tree models while mimicking the performance of deep learning models.
+
+Bio: Zhengping Che is a third year PhD candidate in the Computer Science Department at the University of Southern California, advised by Professor Yan Liu. Before that, he received his bachelor degree in Computer Science from Pilot CS Class (Yao Class) at Tsinghua University, China. His primary research interest lies in the area of deep learning and its applications in health care domain, especially on multivariate time series data.

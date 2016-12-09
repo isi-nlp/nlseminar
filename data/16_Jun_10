@@ -1,0 +1,11 @@
+Yoav Goldberg (Bar Ilan University)
+Title: Doing stuff with LSTMs
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract:  While deep learning methods in NLP are arguably overhyped, recurrent neural networks (RNNs), and in particular LSTM networks, emerge as very capable learners for sequential data. Thus, my group started using them everywhere. After briefly explaining what they are and why they are cool, I will describe some recent work in which we use LSTMs as a building block: learning a shared representation in a multi-task setting; learning feature representations for syntactic parsing; and learning to detect hypernyms in a large corpus. Most work achieve state of the art results.  I will also describe a work which reviewers seem to hate but I really like in which we try to shed some light on what's being captured by LSTM-based sentence representations.
+
+
+Bio: Yoav Goldberg is a senior lecturer in Computer Science at Bar Ilan University, Israel, working on natural language processing. Prior to that he was a research scientist at Google. Before deep learning took over he used to work on syntactic parsing and structured prediction. He still does, but now he uses some new shiny tools which he is trying to understand and refine.
+
+Live here: http://webcasterms1.isi.edu/mediasite/Viewer/?peid=3d82a6274df44b89a94f376c0c9630f71d
