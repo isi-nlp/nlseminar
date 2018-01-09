@@ -1,6 +1,8 @@
-Danqi Chen (Stanford)
-TBD
+Lili Mou (Peking University)
+Coupling distributed and symbolic execution for natural language queries
 3:00 pm - 4:00 pm
 11th Floor Large Conference Room [1135]
-TBD
-TBD
+
+In this talk, Lili will introduce his work "Coupling distributed and symbolic execution for natural language queries," which was done during his internship at Huawei Technologies (Hong Kong), supervised by Dr. Zhengdong Lu. The study proposes a unified perspective of neural and symbolic execution for semantic parsing, and shows how we can make use of both neural and symbolic worlds.
+
+Lili Mou received his BS degree in computer science from Peking University in 2012. He is now a Ph.D. student, supervised by Profs. Zhi Jin, Ge Li, and Lu Zhang. His recent research interests include deep learning applied to natural language processing as well as programming language processing. He has publications at top conferences like AAAI, ACL, CIKM, COLING, EMNLP, IJCAI, and INTERSPEECH.

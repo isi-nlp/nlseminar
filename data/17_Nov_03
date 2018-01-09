@@ -1,0 +1,28 @@
+Kai-Wei Chang (UCLA)
+Structured Predictions: Practical Advancements and Applications in Natural Language Processing
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Many machine learning problems involve making joint
+predictions over a set of mutually dependent output variables. The
+dependencies between output variables can be represented by a
+structure, such as a sequence, a tree, a clustering of nodes, or a
+graph. Structured prediction models have been proposed for problems of
+this type. In this talk, I will describe a collection
+of results that improve several aspects of these approaches. Our
+results lead to efficient and effective algorithms for learning structured
+prediction models, which, in turn, support weak supervision signals and improve training and evaluation speed.
+I will also discuss potential risks and challenges when using structured prediction models
+
+Bio: Kai-Wei Chang is an assistant professor in the Department of
+Computer Science at the University of California, Los Angeles. He
+has published broadly in machine learning and natural language processing. His
+research has mainly focused on designing machine learning methods for
+handling large and complex data. He has been involved in developing
+several machine learning libraries, including LIBLINEAR, Vowpal
+Wabbit, and Illinois-SL. He was an assistant professor at the University
+of Virginia in 2016-2017. He obtained his Ph.D. from the University of
+Illinois at Urbana-Champaign in 2015 and was a post-doctoral researcher at Microsoft Research in 2016. 
+Kai-Wei was awarded the EMNLP Best Long Paper Award (2017),  KDD
+Best Paper Award (2010), and the Yahoo! Key Scientific Challenges Award
+(2011). Additional information is available at http://kwchang.net.

@@ -1,2 +1,2 @@
-0 5 * * * /nfs/isd/xingshi/workspace/temp/nlseminar/seminar.sh
+0 5 * * * /nfs/blue/ghazvini/nl_seminar/nlseminar/seminar.no-mail.sh
 

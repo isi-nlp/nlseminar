@@ -1,0 +1,8 @@
+Andreas Stuhlmüller (Stanford)
+Modeling Dialog using Probabilistic Programs
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+How can we effectively explore the space of automated dialog systems? In this talk, I introduce WebPPL, a probabilistic programming language that provides a wide range of inference and optimization algorithms out of the box. This language makes it easy to express and combine probabilistic models, including regression and categorization models, highly structured cognitive models, models of agents that make sequential plans, and deep neural nets. I show that this also includes recent sequence-to-sequence architectures for dialog. I then use this framework to implement *dialog automation using workspaces*, a variation on these architectures that is aimed at dialogs that require sufficiently deep reasoning between utterances that it is difficult to learn how to automate them from transcripts alone.
+
+Bio: Andreas Stuhlmüller is a post-doctoral researcher at Stanford, working in Prof. Noah Goodman's Computation & Cognition lab, and founder of Ought Inc. Previously, he received his Ph.D. in Brain and Cognitive Sciences from MIT, where he was part of Prof. Josh Tenenbaum's Computational Cognitive Science group. He has worked on the design and implementation of probabilistic programming languages, on their application to cognitive modeling, and recently on dialog systems. He is broadly interested in leveraging machine learning to help people think.

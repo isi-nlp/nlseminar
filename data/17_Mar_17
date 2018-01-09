@@ -1,0 +1,10 @@
+Kuan Liu (USC/ISI)
+Heterogeneous Attribute Embedding and Sequence Modeling for Recommendation with Implicit Feedback 
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Incorporating implicit feedback into a recommender system is a challenging problem due to sparse and noisy observations. I will present our approaches that exploit heterogeneous attributes and sequence properties within the observations. We build a neural network framework to embed heterogeneous attributes in an end-to-end fashion, and apply the framework to three sequence-based models. Our methods achieve significant improvements on four large-scale datasets compared to state-of-the-art baseline models (30% to 90% relative increase in NDCG). Experimental results show that attribute embedding and sequence modeling both lead to improvements and, further, that our novel output attribute layer plays a crucial role. I will conclude with our exploratory studies that investigate why sequence modeling works well in recommendation systems and advocate its use for large scale recommendation tasks. 
+
+Bio:
+Kuan Liu is a fifth year Ph.D. student at ISI/USC working with Prof. Prem Natarajan. Before that, He received a bachelor degree from Tsinghua University with a major in Computer Science. His research interests include machine learning, large scale optimization, deep learning, and applications to recommender systems, network analysis.
+

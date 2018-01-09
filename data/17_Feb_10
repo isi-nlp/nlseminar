@@ -1,0 +1,10 @@
+Yonatan Bisk (USC/ISI)
+The Limits of Unsupervised Syntax and the Importance of Grounding in Language Acquisition
+3:00 pm - 4:00 pm
+6th Floor Conference Room [689]
+
+The future of self-driving cars, personal robots, smart homes, and intelligent assistants hinges on our ability to communicate with computers. The failures and miscommunications of Siri-style systems are untenable and become more problematic as machines become more pervasive and are given more control over our lives. Despite the creation of massive proprietary datasets to train dialogue systems, these systems still fail at the most basic tasks. Further, their reliance on big data is problematic. First, successes in English cannot be replicated in most of the 6,000+ languages of the world. Second, while big data has been a boon for supervised training methods, many of the most interesting tasks will never have enough labeled data to actually achieve our goals. It is, therefore, important that we build systems which can learn from naturally occurring data and grounded, situated interactions.
+
+In this talk, I will discuss work from my thesis on the unsupervised acquisition of syntax which harnesses unlabeled text in over a dozen languages.  This exploration leads us to novel insights into the limits of semantics-free language learning.  Having isolated these  stumbling blocks, I’ll then present my recent work on language grounding where we attempt to learn the meaning of several linguistic constructions via interaction with the world.
+
+Yonatan Bisk’s research focuses on Natural Language Processing from naturally occurring data (unsupervised and weakly supervised data).  He is a postdoc researcher with Daniel Marcu at USC’s Information Sciences Institute.  Previously, he received his PhD from the University of Illinois at Urbana-Champaign under Julia Hockenmaier and his BS from the University of Texas at Austin.

@@ -1,0 +1,17 @@
+Xing Shi (USC/ISI)
+Neural Sequence Models: Interpretation and Augmentation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Recurrent neural networks (RNN) have been successfully applied to various Natural Language Processing tasks, including language modeling, machine translation, text generation, etc. However, several obstacles still stand in the way: First, due to the RNN's distributional nature, few interpretations of its internal mechanism are obtained, and it remains a black box. Second, because of the large vocabulary sets involved, the text generation is very time-consuming. Third, there is no flexible way to constrain the generation of the sequence model with  external knowledge. Last, huge training data must be collected to guarantee the performance of these neural models, whereas annotated data such as parallel data used in machine translation are expensive to obtain. This work aims to address the four challenges mentioned above. 
+
+ To further understand the internal mechanism of the RNN, I choose neural machine translation (NMT) systems as a testbed. I first investigate how NMT outputs target strings of appropriate lengths, locating a collection of hidden units that learns to explicitly implement this functionality. Then I investigate whether NMT systems learn source language syntax as a by-product of training on string pairs. I find that both local and global syntactic information about source sentences is captured by the encoder. Different types of syntax are stored in different layers, with different concentration degrees. 
+
+ To speed up text generation, I proposed two novel GPU-based algorithms: 1) Utilize the source/target words alignment information to shrink the target side run-time vocabulary; 2) Apply locality sensitive hashing to find nearest word embeddings. Both methods lead to a 2-3x speedup on four translation tasks without hurting machine translation accuracy as measured by BLEU. Furthermore, I integrate a finite state acceptor into the neural sequence model during generation, providing a flexible way to constrain the output, and I successfully  apply this to poem generation, in order to control the pentameter and rhyme. 
+
+ Based on above success, I propose to work on the following: 1) Go one further step towards interpretation: find unit/feature mappings, learn the unit temporal behavior, and understand different hyper-parameter settings. 2) Improve NMT performance on low-resource language pairs by fusing an external language model, feeding explicit target-side syntax and utilizing better word embeddings.
+
+
+
+ Bio: Xing Shi is a PhD student at ISI working with Prof. Kevin Knight. 
+

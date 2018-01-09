@@ -1,0 +1,21 @@
+Leon Cheung, Nelson Liu (ISI Intern)
+1)Improving Low Resource Neural Machine Translation 2)Language-Independent Translation of Out-of-Vocabulary Words
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+1)Statistical models have outperformed neural models in machine
+translation, until recently, with the introduction of the sequence to
+sequence neural model. However, this model's performance suffers greatly
+when starved of bilingual parallel data. This talk will discuss several
+strategies that try to overcome this low-resource challenge, including
+modifications to the sequence to sequence model, transfer learning, data
+augmentation, and the use of monolingual data.
+
+2)Neural machine translation is effective for language pairs with large datasets, but falls short to traditional methods (e.g. phrase or syntax-based machine translation) in the low-resource setting. However, these classic approaches struggle to translate out-of-vocabulary tokens, a limitation that is amplified when there is little training data. In this work, we augment a syntax-based machine translation system with a module that provides translations of out-of-vocabulary tokens. We present several language-independent strategies for translation of unknown tokens, and benchmark their accuracy on an intrinsic out-of-vocabulary translation task across a typologically diverse dataset of sixteen languages. Lastly, we explore the effects of using the module to add rules to a syntax-based machine translation system on overall translation quality.
+
+Bio: 
+Leon Cheung is a second year undergraduate from UC San Diego. This
+summer he has been working with Jon May and Kevin Knight to improve
+neural machine translation for low resource languages.
+
+Nelson Liu is an undergraduate at the University of Washington, where he works with Professor Noah Smith. His research interests lie at the intersection of machine learning and natural language processing. Previously, he worked at the Allen Institute for Artificial Intelligence on machine comprehension---he is currently a summer intern at ISI working with Professors Kevin Knight and Jonathan May.

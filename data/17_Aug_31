@@ -1,0 +1,13 @@
+Yining Chen,  Sasha Mayn (ISI Intern)
+THURSDAY TALK:  1)Recurrent Neural Networks as Weighted Language Recognizers 2)Gloss-to-English: Improving Low Resource Language Translation Using Alignment Tables 
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+1)We investigate properties of a simple recurrent neural network (RNN) as a formal device for recognizing weighted languages. We focus on the single-layer, ReLU-activation, rational-weight RNN with softmax, a standard form of RNN used in language processing applications. We prove that many questions one may ask about such RNNs are undecidable, including consistency, equivalence, minimization, and finding the highest-weighted string. For consistent RNNs, finding the highest-weighted string is decidable, although the solution can be exponentially long in the length of the input RNN encoded in binary. Limiting to solutions of polynomial length, we prove that finding the highest-weighted string for a consistent RNN is NP-complete and APX-hard.
+
+2) Neural Machine Translation has gained popularity in recent years and has been able to achieve impressive results. The only caveat is that millions of parallel sentences are needed in order to train the system properly, and in a low-resource scenario that amount of data simply may not be available. This talk will discuss strategies for addressing the data scarcity problem, particularly using alignment tables to make use of parallel data from higher-resource language pairs and creating synthetic in-domain data.
+
+Bio: Yining Chen is an third year undergraduate student at Dartmouth College. She is a summer intern at ISI working with Professor Kevin Knight and Professor Jonathan May.
+
+Sasha Mayn is a summer intern at ISI’s Natural Language Group. She is particularly interested in machine translation and language generation. Last summer Sasha interned at the PanLex Project in Berkeley, where she was responsible for pre-processing digital dictionaries and entering them into PanLex's multilingual database. This summer she has been working on improving neural machine translation strategies for low-resource languages under the supervision of Jon May and Kevin Knight.
+

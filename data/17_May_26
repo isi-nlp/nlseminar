@@ -1,0 +1,9 @@
+Yannis Konstas (UW)
+Building Adaptable and Scalable Natural Language Generation Systems
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Traditionally, computers communicate with humans by converting computer-readable input to human-interpretable output, for example via graphical user interfaces. My research focuses on building programs that automatically generate textual output from computer-readable input. The majority of existing Natural Language Generation (NLG) systems use hard-wired rules or templates in order to capture the input for every different application and rely on small manually annotated corpora.  In this talk, I will present a framework for building NLG systems using Neural Network architectures. The approach makes no domain-specific modifications to the input and benefits from training on very large unannotated corpora.  It achieves state-of-the-art performance on a number of tasks, including generating text from meaning representations and source code.  Such a system can have direct applications to intelligent conversation agents, source code assistant tools, and semantic-based Machine Translation.
+
+Bio: Ioannis Konstas is a postdoctoral researcher at the University of Washington, Seattle, collaborating with Prof. Luke Zettlemoyer since 2015. His main research interest focuses on the area of Natural Language Generation (NLG) with an emphasis on data-driven deep learning methods. 
+He has received BSc in Computer Science from AUEB (Greece) in 2007, and MSc in Artificial Intelligence from the University of Edinburgh (2008). He continued his study at the University of Edinburgh and received his Ph.D. degree in 2014. He has previously worked as a Research Assistant at the University of Glasgow (2008), and as a postdoctoral researcher at the University of Edinburgh (2014). 

@@ -1,0 +1,9 @@
+David Chiang (Notre Dame)
+Speech-to-Translation Alignment for Documentation of Endangered Languages
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+In the next 100 years, most of the world's languages may disappear, creating an urgent need to document these languages and the linguistic and cultural knowledge they encode. In an ongoing project with Steven Bird, funded by the US National Science Foundation, we have been exploring a strategy for language documentation that relies on inexpensive recording technologies to collect data in sufficient quantities, and statistical speech and language processing technologies to ensure that the data are interpretable.
+ 
+ I will give an overview of this project, focusing on the pieces that my student, Antonios Anastasopoulos, and I have been most involved in. Our work is based on the premise that spoken language resources are more readily annotated with translations than with transcriptions. A first step towards making such data interpretable would be to automatically align spoken words with their translations. I'll present a neural attentional model (Duong et al., NAACL 2016) and a latent-variable generative model (Anastasopoulos and Chiang, EMNLP 2016) for this task.
+
+David Chiang (PhD, University of Pennsylvania, 2004) is an associate professor in the Department of Computer Science and Engineering at the University of Notre Dame. His research is on computational models for learning human languages, particularly how to translate from one language to another. His work on applying formal grammars and machine learning to translation has been recognized with two best paper awards (at ACL 2005 and NAACL HLT 2009). He has received research grants from DARPA, CIA, NSF, and Google, has served on the executive board of NAACL and the editorial board of Computational Linguistics and JAIR, and is currently on the editorial board of Transactions of the ACL.

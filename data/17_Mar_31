@@ -1,0 +1,10 @@
+Danqi Chen (Stanford)
+Towards the Machine Comprehension of Text
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Enabling a computer to understand a document so that it can answer comprehension questions is a central, yet unsolved goal of NLP.  The task of reading comprehension (i.e., question answering over unstructured text) has received vast attention recently, and some progress has been made thanks to the creation of large-scale datasets and development of attention-based neural networks.
+In this talk, I’ll first present how we advance this line of research. I’ll show how simple models can achieve (nearly) state-of-the-art performance on recent benchmarks, including the CNN/Daily Mail datasets and the Stanford Question Answering Dataset. I’ll focus on explaining the logical structure behind these neural architectures and discussing advantage as well as limits of current approaches.
+Lastly I’ll talk about our recent work on scaling up machine comprehension systems, which attempt to answer open-domain questions at the full Wikipedia scale. We demonstrate the promise of our system, as well as set up new benchmarks by evaluating on multiple existing QA datasets.  
+
+Bio:Danqi Chen is a Ph.D. candidate in Computer Science at Stanford University, advised by Prof. Christopher Manning. Her main research interests lie in deep learning for natural language processing and understanding, and she is particularly interested in the intersection between text understanding and knowledge reasoning. She has been working on machine comprehension, question answering, knowledge base population and dependency parsing. She is a recipient of Facebook fellowship and Microsoft Research Women’s Fellowship and an outstanding paper award in ACL'16. Prior to Stanford, she received her B.S. from Tsinghua University in 2012.

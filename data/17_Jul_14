@@ -1,0 +1,10 @@
+Sorcha Gilroy (University of Edinburgh)
+Parsing Graphs with Regular Graph Grammars
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Recently, several datasets have become available which represent natural language phenomena as graphs. Hyperedge Replacement Languages (HRL) have been the focus of much attention as a formalism to represent the graphs in these datasets. Chiang et al. (2013) prove that HRL graphs can be parsed in polynomial time with respect to the size of the input graph. We believe that HRL may be more expressive than is necessary to represent semantic graphs and we propose looking at Regular Graph Languages (RGL; Courcelle, 1991), which is a subfamily of HRL, as a possible alternative. We provide a top-down parsing algorithm for RGL that runs in time linear in the size of the input graph.
+
+Bio:Sorcha is a 2nd year PhD student at the University of Edinburgh and is a student in the Center for Doctoral Training in Data Science. Her PhD is focused on formal languages of graphs for NLP and her supervisors are Adam Lopez and Sebastian Maneth. She completed her undergraduate degree in mathematical sciences at University College Cork and her masters degree in data science at the University of Edinburgh. She is at ISI as an intern in the NLP group. 
+
+Live here: http://webcastermshd.isi.edu/Mediasite/Play/c523b7ef95b443e8b29cfac3092e00081d

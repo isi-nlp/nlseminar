@@ -1,0 +1,8 @@
+Mayank Kejriwal (ISI)
+From Noisy Information Extraction to Rich Information Retrieval in Unusual Domains
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Abstract: Information Extraction (IE) or the algorithmic extraction of named entities, relations and attributes of interest from text-rich data is an important natural language processing task. In this talk, I will discuss the relationship of IE to fine-grained Information Retrieval (IR), especially when the domain of interest is unusual i.e. computationally under-studied, socially consequential and difficult to analyze. In particular, such domains exhibit a significant long-tail effect, and their language models are obfuscated. Using real-world examples and results obtained in recent DARPA MEMEX evaluations, I will discuss how our search system uses semantic strategies to usefully facilitate complex information needs of investigative users in the human trafficking domain, even when IE outputs are extremely noisy. I briefly report recent results obtained from a user study conducted by DARPA, and the lessons learned thereof for both IE and IR research. 
+
+Bio: Mayank Kejriwal is a computer scientist in the Information integration group at ISI. He received his Ph.D. from the University of Texas at Austin under Daniel P. Miranker. His dissertation involved domain-independent linking and resolving of structured Web entities at scale, and was published as a book in the Studies in the Semantic Web series. At ISI, he is involved in the DARPA MEMEX, LORELEI and D3M projects. His current research sits at the intersection of knowledge graph construction, search, inference and analytics, especially over Web corpora in unusual social domains.

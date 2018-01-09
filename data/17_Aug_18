@@ -1,0 +1,13 @@
+Marjan Ghazvininejad (USC/ISI)
+Neural Creative Language Generation
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Natural language generation (NLG) is a well studied and still very challenging field in natural language processing. One of the less studied NLG tasks is the generation of creative texts such as jokes, puns, or poems. Multiple reasons contribute to the difficulty of research in this area. First, no immediate application exists for creative language generation. This has made the research on creative NLG extremely diverse, having different goals, assumptions, and constraints. Second, no quantitative measure exists for creative NLG tasks. Consequently, it is often difficult to tune the parameters of creative generation models and drive improvements to these systems. Finally, rule based systems for creative language generation are not yet combined with deep learning methods. 
+
+ In this work, we address these challenges for poetry generation which is one of the main areas of creative language generation. We introduce password poems as a novel application for poetry generation.  Furthermore, we combine finite-state machinery with deep learning models in a system for generating poems for any given topic. We introduce a quantitative metric for evaluating the generated poems and build the first interactive poetry generation system that enables users to revise system generated poems by adjusting style configuration settings like alliteration, concreteness and the sentiment of the poem. 
+
+ In order to improve the poetry generation system, we decide to borrow ideas from human literature and develop a poetry translation system. We propose to study human poetry translation and measure the language variation in this process. we will study how human poetry translation is different from human translation in general and whether a translator translates poetry more freely. Then we will use our findings to develop a machine translation system specifically for translating poetry and proposing metrics for evaluating the quality of poetry translation.
+
+ 
+Bio: Marjan Ghazvininejad is a PhD student at ISI working  with Professor Kevin Knight.

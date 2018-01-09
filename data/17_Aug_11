@@ -1,0 +1,8 @@
+Nima Pourdamghani (USC/ISI)
+Improving machine translation from low resource languages
+3:00 pm - 4:00 pm
+6th Floor Conference Room [689]
+
+Statistical machine translation (MT) often needs a large corpus of parallel translated sentences in order to achieve good performance. This limits the use of current MT technologies to a few resource-rich languages. Assume an incident happens in an area with a low-resource language. For a quick response, we need to build an MT system with available data, as finding or translating new parallel data is expensive and time consuming. For many languages this means that we only have a small amount of often out-of-domain parallel data (e.g. a Bible or Ubuntu manual). This talk is about ways to improve machine translation in low resource scenarios. I'll talk about use of monolingual data and parallel data from related languages to improve machine translation from the low resource language into English.
+
+Bio: Nima Pourdamghani is a fourth year Ph.D. student at ISI. He works with Professor Kevin Knight on machine translation from low resource languages.

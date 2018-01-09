@@ -1,0 +1,9 @@
+Kenton Murray (Notre Dame)
+Learning Neural Network Structures for Natural Language
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+In recent years, deep learning has had a huge impact on natural language processing surpassing the performance of many other statistical and machine learning methods. One of the many promises of deep learning is that features are learned implicitly and that there is no need to manually engineer features for good performance. However, neural network performance is highly dependent on network architecture and selection of hyper-parameters. In many ways, architecture engineering has supplanted feature engineering in NLP tasks. In this talk, I will focus on two ways neural network structures can be learned while concurrently training models. First, I'll present a regularization scheme for learning the number of neurons in a neural language model during training (Murray and Chiang 2015) and show how it can be used in a Machine Translation task. Then, I'll move onto a Visual Question Answering task where denotations are selected by executing a probabilistic program that models non-determinism with neural networks (Murray and Krishnamurthy 2016).
+
+Kenton Murray is a PhD student in the Natural Language Processing Lab at the University of Notre Dame's Computer Science and Engineering Department working with David Chiang. His research is on neural methods for human languages, particularly machine translation and question answering. Prior to Notre Dame, he was a Research Associate at the Qatar Computing Research Institute (QCRI) and received a Master's in Language Technologies from Carnegie Mellon University and a Bachelor's in Computer Science from Princeton University.
+

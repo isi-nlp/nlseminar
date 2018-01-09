@@ -1,0 +1,8 @@
+Melissa Roemmele (UCS/ICT)
+Recurrent Neural Networks for Narrative Prediction 
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+Narrative prediction involves predicting ‘what happens next’ in a story. This task has a long history in AI research but is now getting more recognition in the NLP community. In this talk I’ll describe three different evaluation schemes for narrative prediction, one of which (the Story Cloze Test) is the shared task for this year’s LSDSem workshop at EACL. I’ll present my ongoing efforts to develop Recurrent Neural Network-based models that succeed on these evaluation frameworks, and discuss the particular challenges posed by each of them.
+
+Bio: I’m a PhD candidate at USC’s Institute for Creative Technologies advised by Andrew Gordon in the Narrative Group. My thesis research explores machine learning approaches to automatically generating text-based stories. I’m interested in using this research to stimulate people’s creativity in writing. More broadly, I’m excited by any opportunity to use automated analysis of text data to give people new insights and ideas.

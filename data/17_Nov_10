@@ -1,0 +1,36 @@
+Anssi Yli-Jyrä
+On Real-Time Graph Transducers
+3:00 pm - 4:00 pm
+11th Floor Large Conference Room [1135]
+
+NLP research has been fluctuating between two extreme models of computation:
+finite computers and universal computers.  Often a practical solution combines
+both of these two extremes because formally powerful models are simulated by
+physical machines that approximate them.  This is especially true for recurrent
+neural networks whose activation vector is the key to deeper understanding of
+their emergent finite-state behavior.  However, we currently have only a very
+loose characterization for the finite-state property in neural networks.
+In order to construct a hypothesis for a possible bottom-up organization of the
+state-space of activation vectors of RNNs, I compare neural networks with
+bounded Turing machines and finite-state machines, and quote recent results on
+finite state models for semantic graphs.  These models enjoy the nice closure
+properties of weighted finite-state machines.
+In the end of the talk, I sketch my vision for neural networks that perform
+finite-state graph transductions in real time. Such transductions would have a
+vast variety of applications in machine translation and semantic information
+retrieval involving big data.
+
+Anssi Yli-Jyrä has the titles of Adjunct Professor (Docent) in Language
+Technology at the University of Helsinki and Life Member of Clare Hall College at the University of Cambridge.  He is currently a PI and a Research
+Fellow of the Academy of Finland in a project concerning universality of
+finite-state syntax.  He has published a handbook on Hebrew and Greek morpheme
+alignments in the Finnish Bible translation together with a group of Digital
+Humanists, and then served the Finnish Electronic Library at CSC - IT Centre of
+Science where he built an internet harvester and a search engine for the Finnish
+WWW.   In 2005, he earned his PhD from the University of Helsinki and then worked as a coordinator for the Language Bank of Finland at CSC.  There he contributed to pushing his employer to what is now known as the CLARIN European
+Research Infrastructure Consortium.  He became the first President of SIGFSM in 2009, after fostering and organizing FSMNLP conferences for several years.  In 2012-2013, he served as a Subject Head of Language Technology in his home university before visiting the Speech Group at the Department of Engineering, Cambridge University.  He has supervised theses and contributed to the
+theoretical basis of Helsinki Finite-State Transducer (HFST) library.  In his
+own research, Yli-Jyrä constantly pursues unexplored areas, applying
+finite-state transducers to graphical language processing tasks such as
+autosegmental phonology, constraint interaction, and dependency syntax and neural semantics.  He is a qualified teacher and interested in the occurrence of
+flow in agile programming and simultaneous translation.
