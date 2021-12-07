@@ -1,3 +1,7 @@
+
+## 📣 This is an old repository. New website is at https://github.com/isi-nlp/nl-seminar 
+
+------
 02 Feb 2012
 riesa@isi.edu (Jason Riesa)
 modified: Qing Dou (qdou@isi.edu)
